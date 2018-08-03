@@ -6,10 +6,10 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://mendivilg.netlify.com//"
 
 # Title of your site
-title = "Academic"
+title = "Gabriel Mendivil"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -68,14 +68,13 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "CONICET", url = "www.conicet.gov.ar" },
+  organizations = [ { name = "Consejo Nacional de Investigaciones Científicas y Técnicas", url = "www.conicet.gov.ar" },
                     { name = "CIDEPINT", url = "www.cidepint.gov.ar" }]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "g,mendivil@cidepint.gov.ar"
   address = "Calle 52 s/n, entre 120 y 122, La Plata, Buenos Aires, Argentina"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
   telegram = "GabrielMendivil"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
