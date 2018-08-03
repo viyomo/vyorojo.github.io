@@ -126,7 +126,7 @@ enableGitInfo = false
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = false
+  math = true
 
   # Highlight.js options
   #   highlight
@@ -154,7 +154,7 @@ enableGitInfo = false
   #   For more info on the highlighting options, see:
   #   https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
   highlight = true
-  highlight_languages = []
+  highlight_languages = ["R", "Python"]
   # highlight_style = "github"
 
   # Enable native social sharing buttons?
@@ -163,7 +163,7 @@ enableGitInfo = false
   # Privacy pack
   #   Show a cookie consent message to visitors
   #   Anonymize IP in Google Analytics (if enabled)
-  privacy_pack = false
+  privacy_pack = true
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
@@ -236,7 +236,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "//twitter.com/mendivilg"
 
   [[params.social]]
     icon = "google-scholar"
@@ -269,7 +269,7 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
+  name = "Publicaciones"
   url = "#publications_selected"
   weight = 2
 
@@ -279,17 +279,17 @@ enableGitInfo = false
   weight = 3
 
 [[menu.main]]
-  name = "Projects"
+  name = "Proyectos"
   url = "#projects"
   weight = 4
 
 [[menu.main]]
-  name = "Teaching"
+  name = "Docencia"
   url = "#teaching"
   weight = 5
 
 [[menu.main]]
-  name = "Contact"
+  name = "Contacto"
   url = "#contact"
   weight = 6
 

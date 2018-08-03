@@ -88,8 +88,8 @@
 
   <meta property="twitter:card" content="summary_large_image">
   
-  <meta property="twitter:site" content="@GeorgeCushen">
-  <meta property="twitter:creator" content="@GeorgeCushen">
+  <meta property="twitter:site" content="@mendivilg">
+  <meta property="twitter:creator" content="@mendivilg">
   
   <meta property="og:site_name" content="Gabriel Mendivil">
   <meta property="og:url" content="https://mendivilg.netlify.com//tags/plot/">
@@ -101,6 +101,32 @@
   
 
   
+
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#4caf50",
+          "text": "#fff"
+        },
+        "button": {
+          "background": "#fff",
+          "text": "#4caf50"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "This website uses cookies to ensure you get the best experience on our website.",
+        "dismiss": "Got it!",
+        "link": "Learn more",
+        "href": "https://mendivilg.netlify.com//privacy/"
+      }
+    })});
+</script>
+
 
   
 
@@ -164,7 +190,7 @@
         <li class="nav-item">
           <a href="/#publications_selected">
             
-            <span>Publications</span>
+            <span>Publicaciones</span>
             
           </a>
         </li>
@@ -202,7 +228,7 @@
         <li class="nav-item">
           <a href="/#projects">
             
-            <span>Projects</span>
+            <span>Proyectos</span>
             
           </a>
         </li>
@@ -221,7 +247,7 @@
         <li class="nav-item">
           <a href="/#teaching">
             
-            <span>Teaching</span>
+            <span>Docencia</span>
             
           </a>
         </li>
@@ -240,7 +266,7 @@
         <li class="nav-item">
           <a href="/#contact">
             
-            <span>Contact</span>
+            <span>Contacto</span>
             
           </a>
         </li>
@@ -341,6 +367,15 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
 
     
     
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+        CommonHTML: { linebreaks: { automatic: true } },
+        tex2jax: { inlineMath: [ ['$', '$'], ['\\(','\\)'] ], displayMath: [ ['$$','$$'], ['\\[', '\\]'] ], processEscapes: false },
+        TeX: { noUndefined: { attributes: { mathcolor: 'red', mathbackground: '#FFEEEE', mathsize: '90%' } } },
+        messageStyle: 'none'
+      });
+    </script>
+    
 
     
     
@@ -355,9 +390,15 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
         
         <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
         
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/R.min.js"></script>
+        
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/Python.min.js"></script>
+        
       
 
       
+      
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous" async></script>
       
     
 
