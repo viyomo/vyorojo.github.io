@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1533312480453.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2138159157",
+    "id" : "CE0448EA",
+    "lastKnownWriteTime" : 1533312978,
+    "last_content_update" : 1533312978345,
+    "path" : "~/Compartida/mendivilg.github.io/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "58,22",
+        "scrollLine" : "49"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
