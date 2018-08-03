@@ -73,7 +73,7 @@ enableGitInfo = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "g,mendivil@cidepint.gov.ar"
+  email = "g.mendivil@cidepint.gov.ar"
   address = "Calle 52 s/n, entre 120 y 122, La Plata, Buenos Aires, Argentina"
   telegram = "GabrielMendivil"
 
@@ -304,7 +304,7 @@ enableGitInfo = false
 [params.search]
   # Search provider:
   #   0: No search engine
-  #   1: Algolia (https://www.algolia.com)
+  #   1: Algolia ()
   engine = 0
 
   # Configuration of Algolia search engine.
