@@ -6,7 +6,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://mendivilg.rbind.io/"
+baseurl = "https://mendivilg.rbind.io//"
 
 # Title of your site
 title = "Gabriel O. Mendivil"
@@ -68,7 +68,7 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "CONICET \n Consejo Nacional de Investigaciones Científicas y Técnicas", url = "www.conicet.gov.ar" },
+  organizations = [ { name = "Consejo Nacional de Investigaciones Científicas y Técnicas", url = "www.conicet.gov.ar" },
                     { name = "CIDEPINT", url = "www.cidepint.gov.ar" }]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
