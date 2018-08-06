@@ -4,7 +4,23 @@
     
     <url>
     
+      <loc>/post/my-article-name/</loc>
+      <lastmod>2018-08-06T14:18:57-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/post/nuevo-post/</loc>
+      <lastmod>2018-08-06T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/otro-post-mas/</loc>
       <lastmod>2018-08-06T00:00:00+00:00</lastmod>
     </url>
     
