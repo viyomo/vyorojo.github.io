@@ -1,0 +1,16 @@
+---
+title: nuevo post
+author: Gabriel
+date: '2018-08-06'
+slug: nuevo-post
+categories:
+  - electroquímica
+tags: []
+header:
+  caption: ''
+  image: ''
+---
+```{r}
+plot(1:10,1:10)
+```
+
