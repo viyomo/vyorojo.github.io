@@ -9,7 +9,7 @@
 baseurl = "https://mendivilg.netlify.com/"
 
 # Title of your site
-title = "CACHARREANDO.."
+title = "Vivian Yorojo Moreno"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -58,14 +58,14 @@ enableGitInfo = false
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
   #  
   color_theme = "ocean"
-
+ 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
   font = "classic"
 
   # Your details.
-  name = "Gabriel O. Mendivil"
-  role = "Personal de Apoyo a la Investigación"
+  name = "Vivian Yorojo Moreno"
+  role = "Lic. Biología y Química"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
