@@ -10,23 +10,21 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Electroquímica",
-    "Corrosión",
-    "Software Libre",
-    "Electrónica",
-    "Automatización y adquisición de datos"
+    "Acuicultura",
+    "Conservación",
+    "Educación",
+    "Desarrollo sostenible",
+    "Manejo de recursos hídricos y la Contaminación"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Técnico Químico"
-  institution = "E.N.E.T. Nº1 Albert Thomas"
-  year = 1991
+  course = "Lic.en Biología y Química"
+
 
 +++
 
 # Biografía
 
-Actualmente, me desempeño como Personal de Apoyo a la Investigación del Consejo Nacional de Investigaciones
-Científicas y Técnicas (CONICET) en las instalaciones del Centro de Investigación y Desarrollo en Tecnología de Pinturas (CIDEPINT), en el Área Análisis Electroquímico de Pinturas y Recubrimientos.
+Actualmente, me encuentro terminando el trabajo de tesis de la maestria en ecohidrología titulado "Analisis de la contaminación por plomo en el arroyo el Gato, mediante una técnica electroquímica" en la UNLP;  Asu vez y en la misma universidad, realizó el doctorado en ciencias naturales, con la investigación titulada "Desarrollo de la acuicultura ecológica del pejerrey (Odontesthes bonaerensis)", una especie nativa y de importancia economica en Argentina. Y con la Fundación, Participo de proyectos educativos relacionados con el desarrollo y manejo de huertas.  
 
