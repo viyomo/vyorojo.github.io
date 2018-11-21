@@ -69,7 +69,7 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Fundacion Puja", url = "https://fundacionpuja.org" }]
+  organizations = [ { name = "Fundacion Puja", url = "https://fundacionpuja.netlify.com/" }]
   
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
@@ -231,12 +231,12 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:fundacionpuja@gmail.com"
+    link = "mailto:g.mendivil@cidepint.gov.ar"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/viviyomo"
+    link = "//twitter.com/mendivilg"
 
   #[[params.social]]
   #  icon = "google-scholar"
@@ -278,10 +278,10 @@ enableGitInfo = false
   url = "#posts"
   weight = 2
 
-[[menu.main]]
-  name = "Proyectos"
-  url = "#projects"
-  weight = 4
+#[[menu.main]]
+#  name = "Proyectos"
+#  url = "#projects"
+#  weight = 4
 
 #[[menu.main]]
 #  name = "Docencia"
@@ -317,7 +317,7 @@ enableGitInfo = false
 # Taxonomies.
 [taxonomies]
   tag = "tags"
-  category = "peces, acuicultura, agua, huertas"
+  category = "categories"
   publication_type = "publication_types"
 
 # Languages
