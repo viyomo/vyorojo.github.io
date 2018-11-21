@@ -231,12 +231,12 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:g.mendivil@cidepint.gov.ar"
+    link = "mailto:fundacionpuja@gmail.com"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/mendivilg"
+    link = "//twitter.com/viviyomo"
 
   #[[params.social]]
   #  icon = "google-scholar"
