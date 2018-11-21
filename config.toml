@@ -69,7 +69,7 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Fundacion Puja", url = "https://fundacionpuja.netlify.com/" }]
+  organizations = [ { name = "Fundacion Puja", url = "https://fundacionpuja.org" }]
   
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
@@ -278,10 +278,10 @@ enableGitInfo = false
   url = "#posts"
   weight = 2
 
-#[[menu.main]]
-#  name = "Proyectos"
-#  url = "#projects"
-#  weight = 4
+[[menu.main]]
+  name = "Proyectos"
+  url = "#projects"
+  weight = 4
 
 #[[menu.main]]
 #  name = "Docencia"
