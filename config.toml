@@ -317,7 +317,7 @@ enableGitInfo = false
 # Taxonomies.
 [taxonomies]
   tag = "tags"
-  category = "categories"
+  category = "peces, acuicultura, agua, huertas"
   publication_type = "publication_types"
 
 # Languages
