@@ -26,11 +26,9 @@ weight = 5
 
 # Sobre mi
 
-Interesada en los procesos de funcionamiento de la naturaleza y en especial del medio acuático. Considero que este aprendizaje es fundamental para encontrar herramientas que favorezcan su aprovechamiento de manera sustentable.  
+Me considero una apasionada por los procesos de funcionamiento de la naturaleza, en especial por los hídricos. Tuve la gran oportunidad de trabajar con fauna y en espcial con organismos acuaticos y fue está vivencia enriquecedora la que me motivó a estudiar Lic.en Biología y Quimica. Está experiencia amplio mis conocimientos sobre la vida acuática y su rol fundamental para el mantenimiento de la vida en el planeta.  Mi formación como profesional no solo estuvo ligada a la academia, si no a la práctica, la experimentación y el interes autodidacta. 
 
-En parte de ese aprendizaje he tenido la oportunidad de trabajar en el medio acuático y con organismos acúaticos tanto en el manejo y mantenimiento, asi como en proyectos de investigación y educación; de la misma manera el contacto con agentes sociales como pescadores artesanales, productores de peces, estudiantes y otros, me han permitido ampliar mis conocimientos y reforzar mis ideas sobre el importante rol que juegan por el mantenimiento de la vida en el planeta.
+Para complementar el proceso de formación, estoy terminando mi tesis de investigación "analisis de la contaminación por plomo en el arroyo el Gato (provincia de Buenos Aires)" de la maestría en ECOHIDROLOGIA en la UNLP (Buenos Aires). Asu vez,  inicié el doctorado en ciencias naturales, con la investigación titulada "Desarrollo de la acuicultura ecológica del pejerrey (Odontesthes bonariensis) en lagunas Pampásicas".
 
-Para complementar mi experiencia y sumar conocimiento, actualmente me encuentro terminando la maestría en la Universidad Nacional de la Plata (Argentina) con la realización del trabajo de investigación "analisis de la contaminación por plomo en el arroyo el Gato (provincia de Buenos Aires)", en el cual se plantea la implementación de nuevas técnicas para el monitoreo de metales pesados. Asu vez y en la misma universidad, realizó el doctorado en ciencias naturales, con la investigación titulada "Desarrollo de la acuicultura ecológica del pejerrey (Odontesthes bonariensis) en lagunas Pampásicas", el pejerrey es una especie nativa y de importancia economica en Argentina; con este proyecto lo que se pretende es implementar una técnica sustentable para  el desarrollo de su acuicultura. 
-
-
+La experiencia obtenida, sumando al contacto con los agentes sociales (pescadores artesanales, productores, centros de acopio de peces, estudiantes, entre otros), me inspiró a crear un espacio para la difusión de la problematica ambiental, fomento de prácticas sustentables y desarrollo de proyectos de desarrollo social entre otros, llamado fundación para la conservación de los recursos hídricos y su biodiversidad (fundaciónpuja.org). 
 
