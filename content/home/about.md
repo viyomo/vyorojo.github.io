@@ -10,9 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Acuicultura",
-    "Conservación",
-    "Educación",
+    "Medio Ambiente",
+    "Conservación y Educación",
+    "Agua y Organismos acuáticos",
     "Desarrollo sostenible",
     "Manejo de recursos hídricos y la Contaminación"
   ]
@@ -24,7 +24,7 @@ weight = 5
 
 +++
 
-# Biografía
+# Sobre mi
 
 Actualmente, me encuentro terminando el trabajo de tesis de la maestria en ecohidrología titulado "Analisis de la contaminación por plomo en el arroyo el Gato, mediante una técnica electroquímica" en la UNLP;  Asu vez y en la misma universidad, realizó el doctorado en ciencias naturales, con la investigación titulada "Desarrollo de la acuicultura ecológica del pejerrey (Odontesthes bonaerensis)", una especie nativa y de importancia economica en Argentina.  
 
