@@ -270,7 +270,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Publicaciones"
-  url = "#publications_selected"
+  url = "#publications_selected.md"
   weight = 2
 
 [[menu.main]]
@@ -278,10 +278,10 @@ enableGitInfo = false
   url = "#posts"
   weight = 2
 
-#[[menu.main]]
-#  name = "Proyectos"
-#  url = "#projects"
-#  weight = 4
+[[menu.main]]
+  name = "Proyectos"
+  url = "#projects"
+  weight = 4
 
 #[[menu.main]]
 #  name = "Docencia"
