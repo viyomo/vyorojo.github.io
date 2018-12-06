@@ -26,7 +26,7 @@ weight = 5
 
 # Sobre mi
 
-Me considero una apasionada por los procesos de funcionamiento de la naturaleza, particularmente por los recursos hídricos. Tuve la gran oportunidad de trabajar con organismos acuaticos y ésta vivencia enriquecedora me motivó a estudiar Lic.en Biología y Quimica. La suma de experiencias obtenidas, amplió mis conocimientos sobre la vida acuática y su rol fundamental para el mantenimiento de la vida en el planeta. Mi formación como profesional no solo estuvo ligada a la academia, si no a la práctica, la experimentación y el interés autodidacta. 
+Me considero una apasionada por los procesos de funcionamiento de la naturaleza, particularmente por los recursos hídricos. Tuve la gran oportunidad de trabajar con fauna silvestre y organismos acuaticos y ésta vivencia enriquecedora me motivó a estudiar Lic.en Biología y Quimica. La suma de experiencias obtenidas, amplió mis conocimientos sobre la vida acuática y su rol fundamental para el mantenimiento de la vida en el planeta. Mi formación como profesional no solo estuvo ligada a la academia, si no a la práctica, la experimentación y el interés autodidacta. 
 
 Para complementar el proceso académico, estoy terminando mi tesis de investigación "analisis de la contaminación por plomo en el arroyo el Gato (provincia de Buenos Aires)" de la maestría en ECOHIDROLOGIA en la UNLP (Buenos Aires). Asu vez,  inicié el doctorado en ciencias naturales, con la investigación titulada "Desarrollo de la acuicultura ecológica del pejerrey (Odontesthes bonariensis) en lagunas Pampásicas".
 
