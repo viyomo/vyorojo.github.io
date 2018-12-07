@@ -4,7 +4,7 @@ date = 2017-07-01T00:00:00
 draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["V YOROJO MORENO", "I García", "M Maroñas" "D Colautti"]
+authors = ["V. Yorojo Moreno", "I. García", "M. Maroñas", "D. Colautti"]
 
 # Publication type.
 # Legend:
@@ -19,7 +19,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Revista del Museo Argentino de Ciencias Naturales*, IEEE."
-publication_short = "In *Rev. Mus. Argentino Cienci.Nat.*"
+publication_short = "In *Rev. Mus. Argentino Cienci. Nat.*"
 
 # Abstract and optional shortened version.
 abstract = "The Martín stream is an urban water course with moderate anthropic impact located in La Plata (Buenos Aires). Gymnogeophagus meridionalis (Reis & Malabarba, 1988) is a fish of Cichlids family that is common in natural environments or those modified by human.  The paper objective is to characterize the G. meridionalis diet at the mentioned stream. Fish sampling was carried out in autumn, winter and spring 2014 and summer of 2015 in two areas with different land uses M1 (horticultural) and M2 (urban). A total of 173 specimens were collected and composition, volume and number per food item were determinated in the digestive contents. The alimentary importance index indicated that Chironomid larvae and Copepods are the main trophic resources.  The Kolmogorov Smirnov test did not detect qualitative significant differences between the fish diets from M1 and M2. However, the relative repletion index showed very high values in the latter site in spring and summer.  The Amundsen method determined two types of feeding streategies one of them as a especialist type in the intake of Chironomid larvae during most of the year and another generalist in the spring. The best relative condition was observed in winter and spring in both sampling sites. The Martín stream provide to G. Meridionalis a restrict diet that is reflected in low quantity of item consumed by comparison with item consumed from some fish that inhabit streams with low perturbation in this region.  This is likely to be related to a limited suplly of food rather than to a selection of prey by the species."
@@ -59,7 +59,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/bubbles-wide.jpg"
+#image = "headers/bubbles-wide.jpg"
 caption = "My caption :smile:"
 
 +++
