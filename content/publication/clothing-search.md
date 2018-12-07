@@ -3,7 +3,7 @@ title = "Hábitos alimentarios de Gymnogeophagus meridionalis (Osteichthyes, Cic
 date = 2017-07-01T00:00:00
 draft = true
 
-# Authors. Comma separated list, e.g. `["V Yorojo Moreno", "I García", "M E Maronas", "D Colautti" ]`.
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["GA Cushen", "MS Nixon"]
 
 # Publication type.
