@@ -1,7 +1,7 @@
 +++
-title = "Publications"
+title = "Hábitos alimentarios de Gymnogeophagus meridionalis (Osteichthyes, Cichlidae) en un arroyo urbano"
 date = 2017-01-01T00:00:00
-math = false
+math = true
 highlight = false
 
 # List format.
