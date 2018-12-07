@@ -1,5 +1,5 @@
 +++
-title = "Hábitos alimentarios de Gymnogeophagus meridionalis"
+title = "Hábitos alimentarios de Gymnogeophagus meridionalis (Osteichthyes, Cichlidae) en un arroyo urbano"
 date = 2017-07-01T00:00:00
 draft = true
 

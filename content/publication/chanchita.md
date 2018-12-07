@@ -1,6 +1,6 @@
 +++
 title = "Hábitos alimentarios de Gymnogeophagus meridionalis (Osteichthyes, Cichlidae) en un arroyo urbano"
-date = 2017-07-01T00:00:00 
+date = 2017-12-01T00:00:00 
 draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,7 +18,7 @@ authors = ["V. Yorojo Moreno", "I. García", "M. Maroñas", "D. Colautti"]
 publication_types = ["2"] 
 
 # Publication name and optional abbreviated version.
-publication = "In *Revista del Museo Argentino de Ciencias Naturales*, IEEE."
+publication = "In *Revista del Museo Argentino de Ciencias Naturales*"
 publication_short = "In *Rev. Mus. Argentino Cienci. Nat.*"
 
 # Abstract and optional shortened version.
@@ -51,7 +51,7 @@ url_preprint = "http://revista.macn.gob.ar/ojs/index.php/revMus/article/view/506
 #url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Does this page contain LaTeX math? (true/false)
-math = true
+math = false
 
 # Does this page require source code highlighting? (true/false)
 highlight = true
@@ -64,4 +64,3 @@ caption = "My caption :smile:"
 
 +++
 
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
