@@ -10,7 +10,7 @@ authors = ["GA Cushen", "MS Nixon"]
 # Legend:
 # 0 = Uncategorized
 # 1 = Conference paper
-# 2 = Journal article
+2 = Journal article
 # 3 = Manuscript
 # 4 = Report
 # 5 = Book
@@ -51,7 +51,7 @@ url_project = "#"
 url_slides = "#"
 url_video = "#"
 url_poster = "#"
-url_source = "#" 
+url_source = "#"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
