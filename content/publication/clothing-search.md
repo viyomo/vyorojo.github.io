@@ -1,24 +1,24 @@
 +++
-title = "Mobile visual clothing search"
-date = 2013-07-01T00:00:00
-draft = false
+title = "Hábitos alimentarios de Gymnogeophagus meridionalis (Osteichthyes, Cichlidae) en un arroyo urbano"
+date = 2017-07-01T00:00:00
+draft = true
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+# Authors. Comma separated list, e.g. `["V Yorojo Moreno", "I García", "M E Maronas", "D Colautti" ]`.
 authors = ["GA Cushen", "MS Nixon"]
 
 # Publication type.
 # Legend:
 # 0 = Uncategorized
 # 1 = Conference paper
-# 2 = Journal article
+2 = Journal article
 # 3 = Manuscript
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Multimedia and Expo Workshops (ICMEW)*, IEEE."
+publication = "In *Revista del Museo Argentino de Ciencias Naturales*, IEEE."
 publication_short = "In *ICMEW*"
 
 # Abstract and optional shortened version.
