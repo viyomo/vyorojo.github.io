@@ -14,7 +14,7 @@ weight = 20
 # Number of publications to list.
 count = 10
 
-# List format.
+# List format. 
 #   0 = Simple
 #   1 = Detailed
 #   2 = APA
