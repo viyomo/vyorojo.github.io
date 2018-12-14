@@ -180,7 +180,7 @@ enableGitInfo = false
   publication_types = [
     'Uncategorized',  # 0
     'Conference paper',  # 1
-    'Journal article',   2
+    'Journal article',   # 2
     'Manuscript',  # 3
     'Report',  # 4
     'Book',  # 5
@@ -270,7 +270,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Publicaciones"
-  url = "#publications_selected.md"
+  url = "#publications"
   weight = 2
 
 [[menu.main]]

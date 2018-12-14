@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 01 Dec 2017 00:00:00 -0300</lastBuildDate>
     
 	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,19 +15,10 @@
     <item>
       <title>Hábitos alimentarios de Gymnogeophagus meridionalis (Osteichthyes, Cichlidae) en un arroyo urbano</title>
       <link>/publication/chanchita/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 -0300</pubDate>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 -0300</pubDate>
       
       <guid>/publication/chanchita/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
-    </item>
-    
-    <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>/publication/person-re-identification/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 -0300</pubDate>
-      
-      <guid>/publication/person-re-identification/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <description></description>
     </item>
     
   </channel>
