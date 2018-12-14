@@ -19,10 +19,10 @@ publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
 publication = ""
-publication_short = ""
+publication_short = "En este informe se realizó la caracterización de manera general, de la Laguna San Lorenzo, la cual hace parte del grupo de lagunas encadenadas del Río Salado (Argentina), para lograr esto se realizaron tomaron y analizaron parametros fisicoquímicos, se realización muestreos de organismos acuáticos (peces, zooplancton y fitoplancton).  Con estos datos se determinó la composición de la comunidad íctica lagunar con énfasis especial en una especie nativa de interés para el desarrollo de su acuicultura"
 
 # Abstract and optional shortened version.
-abstract = ""
+#abstract = ""
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -36,7 +36,7 @@ selected = true
 #   Simply enter your project's filename without extension.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["example-external-project"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -67,6 +67,6 @@ highlight = true
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = ""
-caption = ""
+caption = "My caption :smile:"
 
 +++
