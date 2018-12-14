@@ -10,16 +10,21 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Medio Ambiente",
     "Conservación y Educación",
-    "Agua y Organismos acuáticos",
-    "Desarrollo sostenible",
-    "Manejo de recursos hídricos y la Contaminación"
+    "Organismos acuáticos",
+    "Manejo de recursos hídricos y la Contaminación",
+    "Desarrollo sostenible"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Lic.en Biología y Química"
+  course = "Lic. en Biología y Química"
+  institution = "USC - Universidad Santiago de Cali" 
+#  year = 2003
+
+[[education.courses]]
+  course = "Magister en Ecohidrologia"
+  institution = "UNLP - Universidad Nacional de la Plata"
 
 
 +++
