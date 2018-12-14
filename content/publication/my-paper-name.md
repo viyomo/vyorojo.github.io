@@ -1,5 +1,5 @@
 +++
-title = "Estudio Ictiológico y Limnológico de la Laguna San Lorenzo"
+title = "Estudio Ictiológico y Limnológico de la Laguna San Lorenzo (Buenos Aires, Argentina)"
 date = 2017-05-14T17:20:19-03:00
 draft = true
 
@@ -19,11 +19,11 @@ publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
 publication = ""
-publication_short = "En este informe se realizó la caracterización de manera general, de la Laguna San Lorenzo, la cual hace parte del grupo de lagunas encadenadas del Río Salado (Argentina), para lograr esto se realizaron tomaron y analizaron parametros fisicoquímicos, se realización muestreos de organismos acuáticos (peces, zooplancton y fitoplancton).  Con estos datos se determinó la composición de la comunidad íctica lagunar con énfasis especial en una especie nativa de interés para el desarrollo de su acuicultura"
+publication_short = ""
 
 # Abstract and optional shortened version.
 #abstract = ""
-abstract_short = ""
+abstract_short = "En este informe se realizó la caracterización de manera general, de la Laguna San Lorenzo, la cual hace parte del grupo de lagunas encadenadas del Río Salado (Argentina), para lograr esto se realizaron tomaron y analizaron parametros fisicoquímicos, se realización muestreos de organismos acuáticos (peces, zooplancton y fitoplancton).  Con estos datos se determinó la composición de la comunidad íctica lagunar con énfasis especial en una especie nativa de interés para el desarrollo de su acuicultura."
 
 # Featured image thumbnail (optional)
 image_preview = ""
