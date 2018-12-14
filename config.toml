@@ -41,7 +41,7 @@ enableGitInfo = false
   section = [ "HTML", "RSS" ]
 
 [outputFormats.search]
-  baseName = "search"
+  baseName = "search" 
   isPlainText = true
   mediaType = "application/json"
   notAlternative = true
