@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Vivian Yorojo Moreno</title>
-    <link>/publication/</link>
-    <description>Recent content in Publications on Vivian Yorojo Moreno</description>
+    <title>Arroyo Urbano on Vivian Yorojo Moreno</title>
+    <link>/tags/arroyo-urbano/</link>
+    <description>Recent content in Arroyo Urbano on Vivian Yorojo Moreno</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Fri, 01 Dec 2017 00:00:00 -0300</lastBuildDate>
     
-	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/arroyo-urbano/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       <pubDate>Fri, 01 Dec 2017 00:00:00 -0300</pubDate>
       
       <guid>/publication/chanchita/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Estudio Ictiológico y Limnológico de la Laguna San Lorenzo (Buenos Aires, Argentina)</title>
-      <link>/publication/informe_san_lorenzo/</link>
-      <pubDate>Sun, 14 May 2017 17:20:19 -0300</pubDate>
-      
-      <guid>/publication/informe_san_lorenzo/</guid>
       <description></description>
     </item>
     

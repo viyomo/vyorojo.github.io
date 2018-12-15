@@ -7,35 +7,53 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 01 Dec 2017 00:00:00 -0300</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Academic</title>
-      <link>/tags/academic/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0300</pubDate>
+      <title>Arroyo Urbano</title>
+      <link>/tags/arroyo-urbano/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 -0300</pubDate>
       
-      <guid>/tags/academic/</guid>
+      <guid>/tags/arroyo-urbano/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0300</pubDate>
+      <title>Contaminación</title>
+      <link>/tags/contaminaci%C3%B3n/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 -0300</pubDate>
       
-      <guid>/tags/deep-learning/</guid>
+      <guid>/tags/contaminaci%C3%B3n/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Demo</title>
-      <link>/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0300</pubDate>
+      <title>Gymnogeophagus meridionalis</title>
+      <link>/tags/gymnogeophagus-meridionalis/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 -0300</pubDate>
       
-      <guid>/tags/demo/</guid>
+      <guid>/tags/gymnogeophagus-meridionalis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laguna San Lorenzo</title>
+      <link>/tags/laguna-san-lorenzo/</link>
+      <pubDate>Sun, 14 May 2017 17:20:19 -0300</pubDate>
+      
+      <guid>/tags/laguna-san-lorenzo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pejerrey</title>
+      <link>/tags/pejerrey/</link>
+      <pubDate>Sun, 14 May 2017 17:20:19 -0300</pubDate>
+      
+      <guid>/tags/pejerrey/</guid>
       <description></description>
     </item>
     

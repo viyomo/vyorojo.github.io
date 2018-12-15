@@ -4,7 +4,7 @@ date = 2017-12-01T00:00:00
 draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["V. Yorojo Moreno", "I. García", "M. Maroñas", "D. Colautti"]
+authors = ["Vivian Yorojo Moreno", "Ignacio García", "Miriam E. Maroñas", "Dario C. Colautti"]
 
 # Publication type.
 # Legend:
@@ -40,7 +40,7 @@ selected = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Arroyo Urbano", "Contaminación", "Gymnogeophagus meridionalis"]
 
 # Links (optional).
 # url_pdf = "http://ri.conicet.gov.ar/bitstream/handle/11336/41948/CONICET_Digital_Nro.2aff5fcd-fbe8-42d4-824e-1322a81a5db9_A.pdf?sequence=2&isAllowed=y"

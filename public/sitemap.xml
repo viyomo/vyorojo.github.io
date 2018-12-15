@@ -4,14 +4,6 @@
     
     <url>
     
-      <loc>/post/my-article-name/</loc>
-      <lastmod>2018-08-06T14:18:57-03:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/privacy/</loc>
       <lastmod>2018-06-28T00:00:00-03:00</lastmod>
     </url>
@@ -28,16 +20,8 @@
     
     <url>
     
-      <loc>/publication/my-paper-name/</loc>
+      <loc>/publication/informe_san_lorenzo/</loc>
       <lastmod>2017-05-14T17:20:19-03:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/example-talk/</loc>
-      <lastmod>2017-01-01T00:00:00-03:00</lastmod>
     </url>
     
   
@@ -54,30 +38,6 @@
     
       <loc>/talk/</loc>
       <lastmod>2017-01-01T00:00:00-03:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/project/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00-03:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/project/example-external-project/</loc>
-      <lastmod>2016-04-27T00:00:00-03:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/getting-started/</loc>
-      <lastmod>2018-01-12T00:00:00-03:00</lastmod>
     </url>
     
   
@@ -109,8 +69,8 @@
     
     <url>
     
-      <loc>/tags/academic/</loc>
-      <lastmod>2018-01-12T00:00:00-03:00</lastmod>
+      <loc>/tags/arroyo-urbano/</loc>
+      <lastmod>2017-12-01T00:00:00-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -126,8 +86,8 @@
     
     <url>
     
-      <loc>/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00-03:00</lastmod>
+      <loc>/tags/contaminaci%C3%B3n/</loc>
+      <lastmod>2017-12-01T00:00:00-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -135,8 +95,8 @@
     
     <url>
     
-      <loc>/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00-03:00</lastmod>
+      <loc>/tags/gymnogeophagus-meridionalis/</loc>
+      <lastmod>2017-12-01T00:00:00-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -144,8 +104,17 @@
     
     <url>
     
-      <loc>/project/</loc>
-      <lastmod>2016-04-27T00:00:00-03:00</lastmod>
+      <loc>/tags/laguna-san-lorenzo/</loc>
+      <lastmod>2017-05-14T17:20:19-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/pejerrey/</loc>
+      <lastmod>2017-05-14T17:20:19-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -172,7 +141,7 @@
     <url>
     
       <loc>/tags/</loc>
-      <lastmod>2018-01-12T00:00:00-03:00</lastmod>
+      <lastmod>2017-12-01T00:00:00-03:00</lastmod>
       <priority>0</priority>
     </url>
     
