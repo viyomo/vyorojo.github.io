@@ -22,8 +22,8 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "En este informe se realizó la caracterización de manera general, de la Laguna San Lorenzo, la cual hace parte del grupo de lagunas encadenadas del Río Salado (Argentina), para lograr esto se realizaron tomaron y analizaron parametros fisicoquímicos, se realización muestreos de organismos acuáticos (peces, zooplancton y fitoplancton).  Con estos datos se determinó la composición de la comunidad íctica lagunar con énfasis especial en el pejerrey (Odontesthes bonaeriensis), una especie nativa de interés para el desarrollo de su acuicultura"
-abstract_short = "En este informe se realizó la caracterización de manera general, de la Laguna San Lorenzo, la cual hace parte del grupo de lagunas encadenadas del Río Salado (Argentina), para lograr esto se realizaron tomaron y analizaron parametros fisicoquímicos, se realización muestreos de organismos acuáticos (peces, zooplancton y fitoplancton).  Con estos datos se determinó la composición de la comunidad íctica lagunar con énfasis especial en el pejerrey (Odontesthes bonariensis) una especie nativa de interés para el desarrollo de su acuicultura."
+abstract = "El objetivo principal de este informe es la caracterización de la Laguna San Lorenzo, una laguna que hace parte del grupo de lagunas encadenadas del Río Salado (Argentina). Para el desarrollo de este informe, se tomaron muestras de agua para evaluar la calidad de las mismas y se analizaron prametros fisicoquimicos (in-situ), además se realizaron muestreo de peces, así como también se tomaron muestras de agua para evaluar la composición de zooplancton y fitoplancton. Los resultados de estos analisis permitieron determinar la composición de la comunidad íctica lagunar, así como también evaluar la composición de la especie nativa pejerrey (Odontesthes bonaeriensis), un pez de importancia económica y social para el sostenimiento de las actividades deportivas y recreativas de la región."
+abstract_short = ""
 
 # Featured image thumbnail (optional) 
 image_preview = ""
