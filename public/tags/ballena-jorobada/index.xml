@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ballena Jorobada on Vivian Yorojo Moreno</title>
+    <link>/tags/ballena-jorobada/</link>
+    <description>Recent content in Ballena Jorobada on Vivian Yorojo Moreno</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ar</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 18 Dec 2008 19:47:03 -0300</lastBuildDate>
+    
+	<atom:link href="/tags/ballena-jorobada/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ballena Jorobada</title>
+      <link>/publication/ballena/</link>
+      <pubDate>Thu, 18 Dec 2008 19:47:03 -0300</pubDate>
+      
+      <guid>/publication/ballena/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
