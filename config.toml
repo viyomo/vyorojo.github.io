@@ -65,11 +65,12 @@ enableGitInfo = false
 
   # Your details.
   name = "Vivian Yorojo Moreno"
-  role = "Lic. Biología y Química"
+  role = "Lic. Biología y Química, Maestría en Ecohidrología"
+  
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Fundacion Puja", url = "https://www.fundacionpuja.org/"}] 
+  #organizations = [ { name = "Fundacion Puja", url = "https://www.fundacionpuja.org/"}] 
   
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)

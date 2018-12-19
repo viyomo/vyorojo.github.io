@@ -35,6 +35,6 @@ Les diré que me considero una apasionada por el conocimiento sobre los diferent
 
 Para complementar el proceso académico, estoy terminando mi tesis de investigación "analisis de la contaminación por plomo en el arroyo el Gato (provincia de Buenos Aires)" de la maestría en ECOHIDROLOGIA en la UNLP (Buenos Aires). Asu vez,  inicié el doctorado en ciencias naturales, con la investigación titulada "Desarrollo de la acuicultura ecológica del pejerrey (Odontesthes bonariensis) en lagunas Pampásicas".
 
-Mi desempeño como Bióloga me ha permitido tener contacto con diferentes agentes sociales como pescadores artesanales, productores, estudiantes, entre otros y esto me ha inspirado a crear un espacio para la difusión de la problematica ambiental, el fomento de prácticas sustentables y desarrollo de proyectos de desarrollo social entre otros, llamado fundación para la conservación de los recursos hídricos y su biodiversidad (fundaciónpuja.org).
+Mi desempeño como Bióloga me ha permitido tener contacto con diferentes agentes sociales como pescadores artesanales, productores, estudiantes, entre otros y esto me ha inspirado a crear un espacio para la difusión de la problematica ambiental, el fomento de prácticas sustentables y desarrollo de proyectos de desarrollo social entre otros, llamado fundación para la conservación de los recursos hídricos y su biodiversidad (https://www.fundacionpuja.org).
 
 
