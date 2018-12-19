@@ -1,5 +1,5 @@
 +++
-title = "Ballena Jorobada"
+title = "Ballenas Jorobadas"
 date = 2008-12-18T19:47:03-03:00
 draft = false
 
@@ -18,7 +18,7 @@ authors = ["Vivian Yorojo"]
 publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
-publication = "Zooletin"
+publication = "Zooletin Zoológico de Cali"
 publication_short = ""
 
 # Abstract and optional shortened version.

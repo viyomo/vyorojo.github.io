@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 18 Dec 2018 21:02:39 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2008 19:47:03 -0300</lastBuildDate>
     
 	<atom:link href="/publication_types/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,18 @@
     <item>
       <title>0</title>
       <link>/publication_types/0/</link>
-      <pubDate>Tue, 18 Dec 2018 21:02:39 -0300</pubDate>
+      <pubDate>Thu, 18 Dec 2008 19:47:03 -0300</pubDate>
       
       <guid>/publication_types/0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1</title>
+      <link>/publication_types/1/</link>
+      <pubDate>Sat, 18 Nov 2017 21:02:39 -0300</pubDate>
+      
+      <guid>/publication_types/1/</guid>
       <description></description>
     </item>
     

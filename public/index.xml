@@ -11,15 +11,6 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Enfoque_ecosistmico_peje</title>
-      <link>/publication/enfoque_ecosistmico_peje/</link>
-      <pubDate>Tue, 18 Dec 2018 21:02:39 -0300</pubDate>
-      
-      <guid>/publication/enfoque_ecosistmico_peje/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Política de privacidad</title>
       <link>/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 -0300</pubDate>
@@ -39,6 +30,15 @@
     </item>
     
     <item>
+      <title>El enfoque ecosistémico en el cultivo de pejerrey en jaulas flotantes: Hacia el desarrollo de una herramienta de predicción </title>
+      <link>/publication/enfoque_ecosistmico_peje/</link>
+      <pubDate>Sat, 18 Nov 2017 21:02:39 -0300</pubDate>
+      
+      <guid>/publication/enfoque_ecosistmico_peje/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Estudio Ictiológico y Limnológico de la Laguna San Lorenzo (Buenos Aires, Argentina)</title>
       <link>/publication/informe_san_lorenzo/</link>
       <pubDate>Sun, 14 May 2017 17:20:19 -0300</pubDate>
@@ -48,7 +48,7 @@
     </item>
     
     <item>
-      <title>Ballena Jorobada</title>
+      <title>Ballenas Jorobadas</title>
       <link>/publication/ballena/</link>
       <pubDate>Thu, 18 Dec 2008 19:47:03 -0300</pubDate>
       

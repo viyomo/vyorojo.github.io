@@ -1,10 +1,10 @@
 +++
-title = "Enfoque_ecosistmico_peje"
-date = 2018-12-18T21:02:39-03:00
+title = "El enfoque ecosistémico en el cultivo de pejerrey en jaulas flotantes: Hacia el desarrollo de una herramienta de predicción "
+date = 2017-11-18T21:02:39-03:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [""]
+authors = ["Javier R. Garcia de Souza", "Vivian Yorojo Moreno", "María Belén Sathicq", "Nora Gómez", "Darío C. Colautti"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = [""]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["0"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = ""
+publication = "IX Congreso de Ecología y Manejo de Ecosistemas Acuáticos Pampeanos"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "El pejerrey (Odontesthes bonariensis) es un pez zooplanctívoro de gran relevancia ecológica y económica, especialmente para la ecoregión Pampeana. En su cultivo extensivo en jaulas flotantes en lagunas pampeanas se ha identificado la disponibilidad de zooplancton como una variable clave. Con el objetivo de obtener información que permita desarrollar una herramienta de predicción, se realizó un experimento en el cual se analizó la relación entre las dinámicas del fitoplancton y del zooplancton con el crecimiento de los pejerreyes cultivados. Se sembraron pejerreyes en jaulas flotantes instaladas en dos lagunas pampeanas: una arreica, La Salada de Monasterio y otra conectada al río Salado, La Boca. Los resultados dan la pauta de que mediante un enfoque ecosistemico a partir del monitoreo de las comunidades plactónicas y su relación con el crecimiento de los peces es posible anticipar la respuesta del cultivo y realizar ajustes para maximizar su producción"
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -40,7 +40,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Enfoque ecosistémico", "Lagunas pampeanas"]
 
 # Links (optional).
 url_pdf = ""
