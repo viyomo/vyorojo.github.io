@@ -1,5 +1,5 @@
 +++
-title = "El enfoque ecosistémico en el cultivo de pejerrey en jaulas flotantes: Hacia el desarrollo de una herramienta de predicción "
+title = "El enfoque ecosistémico en el cultivo de pejerrey en jaulas flotantes: Hacia el desarrollo de una herramienta de predicción"
 date = 2017-11-18T21:02:39-03:00
 draft = false
 
