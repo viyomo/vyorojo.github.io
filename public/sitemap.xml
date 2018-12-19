@@ -44,8 +44,8 @@
     
     <url>
     
-      <loc>/talk/</loc>
-      <lastmod>2017-01-01T00:00:00-03:00</lastmod>
+      <loc>/project/acuarios_tumaco/</loc>
+      <lastmod>2011-05-19T17:23:43-03:00</lastmod>
     </url>
     
   
@@ -103,6 +103,15 @@
     
     <url>
     
+      <loc>/tags/acuarios-tematicos/</loc>
+      <lastmod>2011-05-19T17:23:43-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/arroyo-urbano/</loc>
       <lastmod>2017-12-01T00:00:00-03:00</lastmod>
       <priority>0</priority>
@@ -131,6 +140,15 @@
     
       <loc>/tags/contaminaci%C3%B3n/</loc>
       <lastmod>2017-12-01T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/educacion-ambiental/</loc>
+      <lastmod>2011-05-19T17:23:43-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -183,6 +201,15 @@
     
     <url>
     
+      <loc>/project/</loc>
+      <lastmod>2011-05-19T17:23:43-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication_types/</loc>
       <lastmod>2008-12-18T19:47:03-03:00</lastmod>
       <priority>0</priority>
@@ -202,7 +229,16 @@
     <url>
     
       <loc>/tags/</loc>
-      <lastmod>2017-12-01T00:00:00-03:00</lastmod>
+      <lastmod>2011-05-19T17:23:43-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/tumaco/</loc>
+      <lastmod>2011-05-19T17:23:43-03:00</lastmod>
       <priority>0</priority>
     </url>
     

@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 01 Dec 2017 00:00:00 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 19 May 2011 17:23:43 -0300</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Acuarios Tematicos</title>
+      <link>/tags/acuarios-tematicos/</link>
+      <pubDate>Thu, 19 May 2011 17:23:43 -0300</pubDate>
+      
+      <guid>/tags/acuarios-tematicos/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Arroyo Urbano</title>
@@ -36,6 +45,15 @@
       <pubDate>Fri, 01 Dec 2017 00:00:00 -0300</pubDate>
       
       <guid>/tags/contaminaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Educacion Ambiental</title>
+      <link>/tags/educacion-ambiental/</link>
+      <pubDate>Thu, 19 May 2011 17:23:43 -0300</pubDate>
+      
+      <guid>/tags/educacion-ambiental/</guid>
       <description></description>
     </item>
     
@@ -81,6 +99,15 @@
       <pubDate>Sun, 14 May 2017 17:20:19 -0300</pubDate>
       
       <guid>/tags/pejerrey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tumaco</title>
+      <link>/tags/tumaco/</link>
+      <pubDate>Thu, 19 May 2011 17:23:43 -0300</pubDate>
+      
+      <guid>/tags/tumaco/</guid>
       <description></description>
     </item>
     
