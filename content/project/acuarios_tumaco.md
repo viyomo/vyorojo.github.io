@@ -1,7 +1,7 @@
 +++
 title = "Acuarios Temáticos Escolares como Herramienta de Educaión, una alternativa para la educacion ambiental en Tumaco"
 date = 2011-05-19T17:23:43-03:00
-draft = false
+draft = true
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
