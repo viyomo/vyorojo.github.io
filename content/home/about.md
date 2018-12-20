@@ -33,7 +33,7 @@ weight = 5
 
 Vivian es una Lic. en Biologia y Química interesada en el desarrollo de prácticas sostenibles para el manejo y conservación de peces y otros organismo acuáticos, así como también aspectos relacionados con la contaminación de las aguas. Realizo el doctorado en ciencias naturales con la investigación sobre la acuicultura ecológica para el cultivo de especies nativas.
 
-En mi desarrollo profesional tuve la gran oportunidad de trabajar con fauna silvesre y organismos acuaticos y ésta vivencia enriquecedora me motivó a estudiar Lic.en Biología y Quimica. La suma de experiencias obtenidas, amplió mis conocimientos sobre los organismos acuáticos y su rol fundamental para el mantenimiento de la vida en el planeta. Mi formación como profesional no solo estuvo ligada a la academia, si no a la práctica, la experimentación y el interés autodidacta. Lo anterior me motivó a crear un espacio para la difusión de la problematica ambiental y de proyectos de conservación llamada fundación para la conservación de los recursos hídricos y su biodiversidad (https://www.fundacionpuja.org).
+Durante mi desarrollo profesional tuve la gran oportunidad de trabajar con fauna terrestre y acuatica y ésta vivencia enriquecedora me motivó a estudiar Biología. La suma de experiencias obtenidas, amplió mis conocimientos sobre la vida acuática y su rol en el funcionamiento de los sitemas hídricos. Mi formación como profesional ha estado ligada tanto a la academia, a la práctica, la experimentación y al interés autodidacta. Con el interés de participar en la formulación de proyectos de conservación creamos la Fundación para la Conservación de los Recursos Hídricos (https://www.fundacionpuja.org).
 
 
 
