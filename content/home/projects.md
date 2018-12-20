@@ -4,7 +4,7 @@ widget = "projects"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Proyectos"
+title = "Proyectos Desarrollados"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -33,13 +33,13 @@ filter_default = 0
   name = "Educación"
   tag = "*"
 
-[[filter]]
-  name = "Deep Learning"
-  tag = "Deep Learning"
+#[[filter]]
+# name = "Deep Learning"
+# tag = "Deep Learning"
 
-[[filter]]
-  name = "Other"
-  tag = "Demo"
+#[[filter]]
+#  name = "Other"
+#  tag = "Demo"
 
 +++
 

@@ -1,14 +1,14 @@
 +++
-title = "Acuarios Temáticos Escolares como Herramienta de Educación como alternativa para la educacion ambiental"
+title = "Acuarios Temáticos como Herramienta de Educación Ambiental"
 date = 2011-05-19T17:23:43-03:00
 draft = true 
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Tumaco", "Acuarios Tematicos", "Educacion Ambiental"]
+tags = ["Tumaco", "Acuarios Temáticos", "Educación Ambiental"]
 
 # Project summary to display on homepage.
-summary = "Este proyecto utiliza los acuarios como una herramienta educativa para la enseñanza de los recursos acuáticos, biodiversidad, relaciones biólogicas entre organismos acuáticos y la importancia de su conservación"
+summary = "Los acuarios como una herramienta educativa para la enseñanza de los recursos hídricos."
 
 # Optional image to display on homepage.
 image_preview = "foto_chicos.jpg"
