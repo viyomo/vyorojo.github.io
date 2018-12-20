@@ -1,5 +1,5 @@
 +++
-title = "Acuarios Temáticos Escolares como Herramienta de Educación, una alternativa para la educacion ambiental en Tumaco"
+title = "Acuarios Temáticos Escolares como Herramienta de Educación como alternativa para la educacion ambiental"
 date = 2011-05-19T17:23:43-03:00
 draft = true 
 
@@ -11,7 +11,7 @@ tags = ["Tumaco", "Acuarios Tematicos", "Educacion Ambiental"]
 summary = "Este proyecto utiliza los acuarios como una herramienta educativa para la enseñanza de los recursos acuáticos, biodiversidad, relaciones biólogicas entre organismos acuáticos y la importancia de su conservación"
 
 # Optional image to display on homepage.
-image_preview = ""
+image_preview = "foto_chicos.jpg"
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
