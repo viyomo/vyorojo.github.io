@@ -25,10 +25,10 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
+image = "foto_cole.jpg"
 caption = ""
 
 +++
-Los Ecosistemas Acuáticos son especialmente vulnerables a los efectos producidos por las actividades antrópicas y el cambio clímatico, por lo cual su conservación es indispensable. Con el objetivo de transmitir la función que éstos desempeñan en el funcionamiento del planeta y el desarrollo de nuestra sociedad, se planteo ofrecer a los colegios de primaria y secundaria, un acuario que represente una área determinada de una cuenca hidrográfica colombiana (con las especies caracteristicas de esa zona), su relación con los oceanos y con la sociedad.
+Los Ecosistemas Acuáticos son especialmente vulnerables a los efectos producidos por las actividades antrópicas y el cambio clímatico, por lo cual su conservación es indispensable. Con el objetivo de transmitir el papel de éstos en el funcionamiento del planeta y el desarrollo de la sociedad, se planteo ofrecer a las escuelas, acuarios con la representación de una área determinada de una cuenca hidrográfica colombiana (con las especies caracteristicas de esa zona) para explicar su relación con los oceanos y con la sociedad y otros acuarios con especies exoticas para identificar el impacto de estas en los ecosistemas.
 
-El proyecto se formuló para la Corporación Arrecifes Artificiales en el marco del programa de "fortalecimiento Organizativo Técnico Ambiental de la Actividad Pesquera Artesanal Costera y de la Educación Ambiental en el municipio de Tumaco (Colombia)". 
+El proyecto se formuló para la Corporación Arrecifes Artificiales en el marco del programa de "fortalecimiento Organizativo Técnico Ambiental de la Actividad Pesquera Artesanal Costera y de la Educación Ambiental en el municipio de Tumaco (Colombia)" y beneficiará a 29 escuelas publicas y privadas de primaria y secundaria  .  
