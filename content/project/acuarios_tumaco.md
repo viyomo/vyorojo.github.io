@@ -29,3 +29,6 @@ image = ""
 caption = ""
 
 +++
+Los Ecosistemas Acuáticos son especialmente vulnerables a los efectos producidos por las actividades antrópicas y el cambio clímatico, por lo cual su conservación es indispensable. Con el objetivo de transmitir la función que éstos desempeñan en el funcionamiento del planeta y el desarrollo de nuestra sociedad, se planteo ofrecer a los colegios de primaria y secundaria, un acuario que represente una área determinada de una cuenca hidrográfica colombiana (con las especies caracteristicas de esa zona), su relación con los oceanos y con la sociedad.
+
+El proyecto se formuló para la Corporación Arrecifes Artificiales en el marco del programa de "fortalecimiento Organizativo Técnico Ambiental de la Actividad Pesquera Artesanal Costera y de la Educación Ambiental en el municipio de Tumaco (Colombia)". 
