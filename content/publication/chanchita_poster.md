@@ -23,7 +23,7 @@ publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "Gymnogeophagus meridionalis, es un pez de importancia ornamental, muy abundante en la cuenca del río de La Plata, región parano-platense, muy común en lagunas y arroyos. El objetivo de este estudio, es contribuir al conocimiento de la dieta de esta especie, en un arroyo del área suburbana en los alrededores de la ciudad de La Plata, durante las estaciones de invierno y primavera de 2014 y verano de 2015."
-abstract_short = ""
+abstract_short = "" 
 
 # Featured image thumbnail (optional)
 image_preview = ""
