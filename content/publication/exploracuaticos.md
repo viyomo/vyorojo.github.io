@@ -22,8 +22,8 @@ publication = "Workshop de Ciencia Abierta y Ciudadana - Argentina"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = ""
-abstract_short = "Exploracuátic@s es un proyecto de extensión universitaria acreditado por la Universidad Nacional de La Plata, que realiza actividades para niños y adolescentes en dos Centros Comunitarios de Extensión Universitaria (CCEU) de la UNLP."
+abstract = "Exploracuátic@s es un proyecto de extensión universitaria acreditado por la Universidad Nacional de La Plata, que realiza actividades para niños y adolescentes en dos Centros Comunitarios de Extensión Universitaria (CCEU) de la UNLP."
+abstract_short = ""
 
 # Featured image thumbnail (optional)
 image_preview = ""
