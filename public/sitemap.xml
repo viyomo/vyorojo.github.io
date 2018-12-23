@@ -28,6 +28,14 @@
     
     <url>
     
+      <loc>/publication/exploracuaticos/</loc>
+      <lastmod>2017-11-23T17:56:59-03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication/enfoque_ecosistmico_peje/</loc>
       <lastmod>2017-11-18T21:02:39-03:00</lastmod>
     </url>
@@ -175,6 +183,15 @@
     
       <loc>/tags/enfoque-ecosist%C3%A9mico/</loc>
       <lastmod>2017-11-18T21:02:39-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/extensi%C3%B3n-universitaria/</loc>
+      <lastmod>2017-11-23T17:56:59-03:00</lastmod>
       <priority>0</priority>
     </url>
     
