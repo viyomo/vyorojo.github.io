@@ -8,13 +8,13 @@ draft = false
 tags = ["acuicultura", "Desarrollo sostenible", "Desarrollo Social"]
 
 # Project summary to display on homepage.
-summary = ""
+summary = "La acuicultura ecológica es un modelo alternativo de desarrollo con enfoque ecosistemico-social."
 
 # Optional image to display on homepage.
 image_preview = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "http://acuiculturaecologica.com"
 
 # Does the project detail page use math formatting?
 math = false
