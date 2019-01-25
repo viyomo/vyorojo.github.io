@@ -28,6 +28,7 @@ highlight = true
 #image = "foto_cole.jpg"
 #caption = ""
 
+
 [[gallery_item]]
 album = "1"
 image = "https://emitanaka.github.io/img/headers/DNA_Overview_landscape_orientation.png"
@@ -36,6 +37,7 @@ caption = "Write your image caption here"
 album = "1"
 image = "https://d33wubrfki0l68.cloudfront.net/873d04e575f5e47dac3c8f91d101c71a28a3d506/6571d/lesson-images/markdown-1-markup.png"
 caption = "desde internet"
+
 
 +++
 {{< figure src="/img/foto_cole.jpg" title="" >}}
