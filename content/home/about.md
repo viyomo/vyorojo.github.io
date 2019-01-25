@@ -31,9 +31,11 @@ weight = 5
 
 # Sobre mi 
 
-Vivian es una Lic. en Biologia y Química interesada en el desarrollo de prácticas sostenibles para el manejo y conservación de peces y otros organismo acuáticos, así como también aspectos relacionados con la contaminación de las aguas. Actualmente realizo el doctorado en ciencias naturales con la investigación sobre la acuicultura ecológica para el cultivo de especies nativas.
+Vivian es una Lic. en Biologia y Química interesada en el desarrollo de prácticas sostenibles para el manejo y conservación de peces y otros organismo acuáticos, así como también en aspectos relacionados con la contaminación de las aguas. Actualmente realizo el doctorado en ciencias naturales con la investigación sobre la acuicultura ecológica para el cultivo de especies nativas.
 
-Mi formación como profesional ha estado ligada tanto a la academia, a la práctica, la experimentación y al interés autodidacta. Con el interés de participar en la formulación de proyectos de conservación creé la Fundación para la Conservación de los Recursos Hídricos (https://www.fundacionpuja.org).
+Mi formación como profesional ha estado ligada tanto a la academia, la práctica, la experimentación y al interés autodidacta. 
+
+Con el interés de promover la conservación y la formulación de practicas de desarrollo sostenible, entre otras, creé la Fundación para la Conservación de los Recursos Hídricos https://www.fundacionpuja.org.
 
 
 
