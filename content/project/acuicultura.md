@@ -14,7 +14,7 @@ summary = "La acuicultura ecológica es un modelo alternativo de desarrollo con 
 image_preview = "fotojaula1.jpg"
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://acuiculturaecologica.com"
+#external_link = "http://acuiculturaecologica.com"
 
 # Does the project detail page use math formatting?
 math = false
@@ -30,3 +30,4 @@ image = "fotojaula1.jpg"
 
 +++
 {{< figure src="/img/fotojaula1.jpg" title="" >}}
+
