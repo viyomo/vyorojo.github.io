@@ -1,25 +1,27 @@
 ---
-title: Desarrollo de la Acuicultura Ecológica del Pejerrey (_Odontesthes bonariensis_)
-  en Lagunas Pampásicas
-output:
-  beamer_presentation: default
-  slidy_presentation: default
-  
+title: Desarrollo de la Acuicultura Ecológica del Pejerrey (_Odontesthes bonariensis_) en Lagunas Pampásicas
+
+output: ioslides_presentation
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+#
+Que es la Acuicultura Ecológica?
 
-La _Acuicultura Ecológica_ es un modelo 
+La _Acuicultura Ecológica_ es un modelo de cultivo de peces, en el que se integran aspectos ambientales, sociales y económicos dentro de un  _enfoque ecosistémico_. Cuenta con tres principios fundamenteles:
+
+Que debe desarrollarse en el contexto de las funciones y servicios del ecosistema sin degradarlos, más allá de la capacidad de resiliencia que éstos poseen. 
+
+Que debe ofrecer bienestar y equidad a todos los actores involucrados. 
+
+Que esta actividad debe ser desarrollada e integrada a otros sectores relevantes del desarrollo político, econocimico, social y ambiental. 
 
 
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
-```{r cars}
-summary(cars)
-```
+
+
+# objetivos
+
 
 ## Including Plots
 
