@@ -1,26 +1,58 @@
 ---
-title: Desarrollo de la Acuicultura Ecológica del Pejerrey (_Odontesthes bonariensis_) en Lagunas Pampásicas
+title: Acuicultura Ecológica del Pejerrey (_Odontesthes bonariensis_) en Lagunas Pampásicas
 
 output: ioslides_presentation
 ---
 
-#
-Que es la Acuicultura Ecológica?
 
-La _Acuicultura Ecológica_ es un modelo de cultivo de peces, en el que se integran aspectos ambientales, sociales y económicos dentro de un  _enfoque ecosistémico_. Cuenta con tres principios fundamenteles:
-
-Que debe desarrollarse en el contexto de las funciones y servicios del ecosistema sin degradarlos, más allá de la capacidad de resiliencia que éstos poseen. 
-
-Que debe ofrecer bienestar y equidad a todos los actores involucrados. 
-
-Que esta actividad debe ser desarrollada e integrada a otros sectores relevantes del desarrollo político, econocimico, social y ambiental. 
+# objetivos del proyecto
+Desarrollar la acuicultura extensiva del pejerrey ( _Odontesthes bonariensis_) mediante el uso de jaulas flotantes. Actividad que se convertirá en una alternativa productiva y rentable para los productores rurales de la región pampeana.    
 
 
+# La Acuicultura Ecológica
+
+La _Acuicultura Ecológica_ es un modelo de cultivo de peces que integra aspectos **ambientales**, **sociales** y **económicos** dentro de un _enfoque ecosistémico_. 
+
+Tres principios son fundamentales para ejercer esta actividad, a saber:  
+
+1. Debe desarrollarse en el contexto de las funciones y servicios del ecosistema, sin degradarlo, más allá de la capacidad de resiliencia que éstos poseen.  
+
+2. Debe ofrecer bienestar y equidad a todos los actores involucrados.  
+
+3. Debe ser desarrollada e integrada a otros sectores relevantes del desarrollo político, económico, social y ambiental. 
 
 
+# El Pejerrey ( _Odontesthes bonariensis_)
+
+Es un pez originario de Argentina, Uruguay y sur del Brasil. Su distribucion incluye las cuencas del Río de la Plata, río Paraná, río Uruguay, cuenca del río Salado y las lagunas Pampeanas. 
+
+Es una de las especies emblemáticas de la ictiofauna de Argentina. De gran importancia socio-económica, ya que es el sustento de actividades recreacionales, deportivas y comerciales.
+
+Pez pelágico que se alimenta principalmente de zooplancton.
 
 
-# objetivos
+# Las lagunas Pampásicas 
+
+Este proyecto se ejecuta en tres lagunas, a saber, **Laguna Salada de Monasterio**, **Laguna Vitel** y **Laguna San Lorenzo** que hacen parte de las **Lagunas Encadenadas del Río Salado**.
+
+Son cuerpos de agua someros que presentan características compartidas ya que la mayoría tiene un tamaño superior a 100 ha, de caracter eutróficas a hipereutróficas, por lo general permanentes y muy pocas superan los 4 m de profundidad, siendo polimícticas principalmente por la acción del viento. 
+
+Se trata de un sistema de cuerpos de agua que van de oligohalinos a mesohalinos, considerando la composición iónica de las lagunas pampeanas por lo general son bicarbonato-sódicas. 
+
+# Etapas del proyecto
+
+# Evaluacion de la calidad del agua
+
+1. Monitoreo de los parametros fisicoquimicos: in-situ  (temperatura, conductividad, oxigeno disuelto,ph) y ex-situ (amonio, nitritos, nitratos y fosforo total)
+
+2. Evaluación del Zooplancton: Identificar las especies de zooplancton y su abundancia. 
+
+# Construcción de las Jaulas
+
+# Instalación de las Jaulas
+
+# Siembra de larvas de pejerrey ( _Odontesthes bonariensis_) 
+
 
 
 ## Including Plots
