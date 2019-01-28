@@ -29,5 +29,5 @@ image = "fotojaula1.jpg"
 #caption = ""
 
 +++
-{{< figure src="/img/fotojaula1.jpg" title="" >}}
+
 
