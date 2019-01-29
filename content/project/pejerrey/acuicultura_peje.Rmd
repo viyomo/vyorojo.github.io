@@ -52,22 +52,24 @@ Por ultimo se realiza la siembra de las larvas de pejerrey, actividad que se des
 
 # Evaluacion de la calidad del agua
 
-Parámetros como Temperatura, conductividad, oxigeno disuelto y porcentaje de 
+1. Parámetros fisicoquimicos como Temperatura, conductividad, oxigeno, ph, son monitoreados constantemente. Otros parámetros evaluados son el fósforo, también sustancias nitrogenadas  amonio, nitritos y nitratos.
 
-1. Monitoreo de los parametros fisicoquimicos: in-situ  (temperatura, conductividad, oxigeno disuelto,ph) y ex-situ (amonio, nitritos, nitratos y fosforo total)
-
-2. Evaluación del Zooplancton: Identificar las especies de zooplancton y su abundancia. 
+2. Evaluación del zooplancton, consiste en determinar las especies, los principales grupos de zooplancton, la cantidad disponible; esto es uno de los aspectos fundamentales en el desarrollo de la acuicultura ecológica del pejerrey, ya que esta es la base de su alimentación durante su etapa de desarrollo (larval y juvenil) del pez.
 
 # Construcción de las Jaulas
 
+Es una activiad que trata de realizarse de manera grupal, de manera que sirva como taller de enseñaza a los interesados en la instalación de jaulas.  Aqui se reúnen los materiales (tablas, bulónes y otras piezas metálicas ) necesarias para la construcción. 
 
+# Instalación de las Jaulas en las lagunas
 
-# Instalación de las Jaulas
+Consiste en el desplazamiento y ubicación de la estructura de la jaula dentro de la laguna. 
+
+Para esta actividad es necesario identificar el mejor sitio dentro de la laguna y para logarlo es necesario tener en cuenta factores como profundidad, corrientes que se formen dentro del cuerpo de agua, ubicación respecto de la costa, etre otras.
+
 
 # Siembra de larvas de pejerrey ( _Odontesthes bonariensis_) 
 
-
-
+La siembra se realiza a primeras horas de la mañana.  Las larvas se transportan hacia la laguna en bolsas plásticas con oxigeno, teniendo en cuenta todas las recomendaciones que estos transportes de peces necesitan. Posteriormente son aclimatados en la jaula y transcurrido un tiempo son liberados en el agua.    
 
 
 # Actividades a desarrollar
