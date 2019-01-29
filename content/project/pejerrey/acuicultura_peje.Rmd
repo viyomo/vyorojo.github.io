@@ -30,6 +30,12 @@ Es una de las especies emblemáticas de la ictiofauna de Argentina. De gran impo
 Pez pelágico que se alimenta principalmente de zooplancton, está característica es fundamental para el desarrollo de su cultivo en los ambientes seleccionados. 
 
 
+# El cultivo de pejerrey ( _Odontesthes bonariensis_)
+
+
+
+
+
 # Las lagunas Encadenadas del Río Salado 
 
 Este sistema incluye siete lagunas vinculadas por arroyos de escasa longitud, que finalmente desaguan en el Río Salado. Algunos de estos ambientes tienen características arréicas y un grado variable de permanencia del agua de acuerdo al desarrollo de sus cuencas y al ciclo hidrológico. Naturalmente fértiles y potencialmnete muy productivos. Gran parte de su alta productividad se debe a su localización sobre uno de los suelos más fértiles del planeta.
@@ -39,7 +45,6 @@ Son cuerpos de agua someros que presentan características compartidas ya que la
 Se trata de ambientes acuaticos que van de oligohalinos a mesohalinos, considerando la composición iónica de las lagunas pampeanas por lo general son bicarbonato-sódicas. 
 
 Este proyecto se ejecuta en tres lagunas, a saber, **Laguna Salada de Monasterio**, **Laguna Vitel** y **Laguna San Lorenzo** que hacen parte de las **Lagunas Encadenadas del Río Salado**.
-
 
 # Etapas del proyecto
 
@@ -53,10 +58,6 @@ Por ultimo se realiza la siembra de las larvas de pejerrey, actividad que se des
 # Evaluacion de la calidad del agua
 
 1. Parámetros fisicoquimicos como Temperatura, conductividad, oxigeno, ph, son monitoreados constantemente. Otros parámetros evaluados son el fósforo, también sustancias nitrogenadas  amonio, nitritos y nitratos.
-
-
-
-
 
 2. Evaluación del zooplancton, consiste en determinar las especies, los principales grupos de zooplancton, la cantidad disponible; esto es uno de los aspectos fundamentales en el desarrollo de la acuicultura ecológica del pejerrey, ya que esta es la base de su alimentación durante su etapa de desarrollo (larval y juvenil) del pez.
 
@@ -75,15 +76,12 @@ Para esta actividad es necesario identificar el mejor sitio dentro de la laguna 
 
 La siembra se realiza a primeras horas de la mañana. Las larvas se transportan hacia la laguna en bolsas plásticas con oxigeno, teniendo en cuenta todas las recomendaciones que estos transportes de peces necesitan. Posteriormente son aclimatados en la jaula y transcurrido un tiempo son liberados en el agua.    
 
-
 # Actividades a desarrollar
 
-1. Evaluar el impacto Ambiental
+1. Evaluar el **impacto Ambiental** del cultivo de pejerrey ( _Odontesthes bonariensis_) en jaulas flotantes en las lagunas seleccionadas. Se tendrá especial atención en la evaluación de la columna de agua asi como de los sedimentos.   
 
 
-Evaluar el impacto ambiental del cultivo del pejerrey ( _Odontesthes bonariensis_) en las tres lagunas anteriormente mencionadas.
-
-Uno de los aspectos a investigar es la calidad de los sedimentos y como éstos se ven afectados por el cultivo que se está desarrollando.  
+2. Evaluar los **aspectos sociales** de la pesca del pejerrey ( _Odontesthes bonariensis_), este apartado pretende recopilar informacipon sobre la importancia de este pez en el desarrollo de las actividades económicas de la región.   
 
 
 
