@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pejerrey on Vivian Yorojo Moreno</title>
+    <link>/categories/pejerrey/</link>
+    <description>Recent content in pejerrey on Vivian Yorojo Moreno</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ar</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 30 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/pejerrey/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>otro_proyecto</title>
+      <link>/project/otro-proyecto/</link>
+      <pubDate>Wed, 30 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/otro-proyecto/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

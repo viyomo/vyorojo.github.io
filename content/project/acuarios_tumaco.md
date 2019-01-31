@@ -8,7 +8,7 @@ draft = false
 tags = ["Tumaco", "Acuarios Temáticos", "Educación Ambiental"]
 
 # Project summary to display on homepage.
-summary = "Los acuarios como una herramienta educativa para la enseñanza de los recursos hídricos."
+summary = ""
 
 # Optional image to display on homepage.
 image_preview = "foto_chicos.jpg"

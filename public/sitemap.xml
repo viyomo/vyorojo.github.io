@@ -4,8 +4,8 @@
     
     <url>
     
-      <loc>/project/acuicultura/</loc>
-      <lastmod>2019-01-24T09:04:31-03:00</lastmod>
+      <loc>/project/acuicultura-ecologica/</loc>
+      <lastmod>2019-01-30T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -144,8 +144,8 @@
     
     <url>
     
-      <loc>/tags/acuicultura/</loc>
-      <lastmod>2019-01-24T09:04:31-03:00</lastmod>
+      <loc>/tags/acuicultura-ecol%C3%B3gica/</loc>
+      <lastmod>2019-01-30T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -206,17 +206,8 @@
     
     <url>
     
-      <loc>/tags/desarrollo-social/</loc>
-      <lastmod>2019-01-24T09:04:31-03:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/desarrollo-sostenible/</loc>
-      <lastmod>2019-01-24T09:04:31-03:00</lastmod>
+      <loc>/categories/ecolog%C3%ADa/</loc>
+      <lastmod>2019-01-30T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -235,15 +226,6 @@
     
       <loc>/tags/enfoque-ecosist%C3%A9mico/</loc>
       <lastmod>2017-11-18T21:02:39-03:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/extensi%C3%B3n-universitaria/</loc>
-      <lastmod>2017-11-23T17:56:59-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -270,6 +252,15 @@
     <url>
     
       <loc>/tags/lagunas-pampeanas/</loc>
+      <lastmod>2019-01-30T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/lagunas-pampeanas/</loc>
       <lastmod>2017-11-18T21:02:39-03:00</lastmod>
       <priority>0</priority>
     </url>
@@ -279,7 +270,7 @@
     <url>
     
       <loc>/tags/pejerrey/</loc>
-      <lastmod>2017-05-14T17:20:19-03:00</lastmod>
+      <lastmod>2019-01-30T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -288,7 +279,7 @@
     <url>
     
       <loc>/project/</loc>
-      <lastmod>2019-01-24T09:04:31-03:00</lastmod>
+      <lastmod>2019-01-30T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -334,6 +325,15 @@
     
       <loc>/</loc>
       <lastmod>2017-10-15T00:00:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/extensi%C3%B3n-universitaria/</loc>
+      <lastmod>2017-11-23T17:56:59-03:00</lastmod>
       <priority>0</priority>
     </url>
     

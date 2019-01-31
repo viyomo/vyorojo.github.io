@@ -1,13 +1,24 @@
 ---
-title: Acuicultura Ecológica del Pejerrey (_Odontesthes bonariensis_) en Lagunas Pampásicas
-
-output: ioslides_presentation
+title: Acuicultura Ecológica del pejerrey (Odontesthes bonariensis)
+author: Vivian Yorojo Moreno
+date: '2019-01-30'
+slug: acuicultura-ecologica
+categories: [Ecología]
+tags: ["Acuicultura ecológica", "Pejerrey", "Lagunas Pampeanas"]
+external_link: ''
+header:
+  caption: ''
+  image: 'jaula_1.jpg'
+highlight: yes
+image_preview: 'fotojaula1.jpg'
+math: no
+summary: ''
 ---
-
 
 # objetivos del proyecto 
 
 Optimizar los procesos de cultivo y cría de pejerrey ( _Odontesthes bonariensis_) teniendo en cuenta los conceptos de acuicultura ecológica, para incorporarlo a las redes productivas de la Región Pampeana. 
+
 
 # La Acuicultura Ecológica
 
@@ -31,6 +42,7 @@ Pez pelágico, ..., zooplanctófago  que consume principalmente rotiferos y micr
 Es una de las especies emblemáticas de la ictiofauna de Argentina, identificada como de creciente interés en la acuicultura del país, debido a su importancia deportiva, recreacional, de consumo y a un alto valor simbólico en la región.
 
 
+
 # El cultivo de pejerrey ( _Odontesthes bonariensis_)
 
 Los estudios e iniciativas para su aprovechamiento regional, de manera sustentable comenzaron hace más de cien años en la región pampeana y otras zonas del país. La piscicultura que en la actualidad obstenta, está orientada a la producción de larvas, las cuales sirven para el repoblamiento en ambientes naturales y artificiales.
@@ -40,13 +52,6 @@ El interés en la ampliación de su piscicultura, tiene como objetivo la preducc
 La obtención de juveniles en cautiverio ha sido dificil, en parte debido a las características de su alimentación que hacen dificil su mantenimiento en condiciones de cautiverio, debido además, a los costos para el montaje de este tipo de instalaciones.
 
 Es por esto que, la implementación de un cultivo extensivo a través de las jaulas flotantes, aprovechando la productividad de las lagunas pampeanas, ha mostrado ser un gran aliado para la obtención de ejemplares en las tallas deseadas.
-
-
-
-
-
-
-
 
 
 # Las lagunas Encadenadas del Río Salado 
@@ -59,6 +64,7 @@ Se trata de ambientes acuaticos que van de oligohalinos a mesohalinos, considera
 
 Este proyecto se ejecuta en tres lagunas, a saber, **Laguna Salada de Monasterio**, **Laguna Vitel** y **Laguna San Lorenzo** que hacen parte de las **Lagunas Encadenadas del Río Salado**.
 
+
 # Etapas del proyecto
 
 El proyecto cuenta con varias fases, la primera de ellas es la evaluación de la calidad de agua, que permite establecer el inicio del cultivo.
@@ -67,12 +73,12 @@ Seguidamente se realiza la construcción de las jaulas, para esto es necesario l
 
 Por ultimo se realiza la siembra de las larvas de pejerrey, actividad que se desarrolla cuando todo lo anteriormente señaladao, se ha realizado y evaluado. 
 
-
 # Evaluacion de la calidad del agua
 
 1. Parámetros fisicoquimicos como Temperatura, conductividad, oxigeno, ph, son monitoreados constantemente. Otros parámetros evaluados son el fósforo, también sustancias nitrogenadas  amonio, nitritos y nitratos.
 
 2. Evaluación del zooplancton, consiste en determinar las especies, los principales grupos de zooplancton, la cantidad disponible; esto es uno de los aspectos fundamentales en el desarrollo de la acuicultura ecológica del pejerrey, ya que esta es la base de su alimentación durante su etapa de desarrollo (larval y juvenil) del pez.
+
 
 # Construcción de las Jaulas
 
@@ -95,15 +101,3 @@ La siembra se realiza a primeras horas de la mañana. Las larvas se transportan 
 
 
 2. Evaluar los **aspectos sociales** de la pesca del pejerrey ( _Odontesthes bonariensis_), este apartado pretende recopilar informacipon sobre la importancia de este pez en el desarrollo de las actividades económicas de la región.   
-
-
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
