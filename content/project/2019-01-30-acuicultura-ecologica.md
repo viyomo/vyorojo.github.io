@@ -79,7 +79,7 @@ Consiste en el desplazamiento y ubicación de la estructura de la jaula dentro d
 
 ### d. Siembra de larvas de pejerrey ( _Odontesthes bonariensis_) 
 
-La siembra se realiza a primeras horas de la mañana. Las larvas se transportan hacia la laguna en bolsas plásticas con oxigeno, teniendo en cuenta todas las recomendaciones que estos transportes de peces necesitan. Posteriormente son aclimatados en la jaula y transcurrido un tiempo son liberados en el agua.    
+La siembra se realiza a primeras horas de la mañana, las larvas se transportan hacia la laguna en bolsas plásticas con oxigeno, teniendo en cuenta todas las recomendaciones que estos transportes de peces necesitan. Posteriormente son aclimatados en la jaula y transcurrido un tiempo son liberados en el agua.    
 
 ## 6. Actividades pendientes a desarrollar
 
