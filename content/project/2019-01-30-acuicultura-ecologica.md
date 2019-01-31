@@ -79,11 +79,10 @@ Consiste en el desplazamiento y ubicación de la estructura de la jaula dentro d
 
 ### d. Siembra de larvas de pejerrey ( _Odontesthes bonariensis_) 
 
-La siembra se realiza a primeras horas de la mañana, las larvas se transportan hacia la laguna en bolsas plásticas con oxigeno, teniendo en cuenta todas las recomendaciones que estos transportes de peces necesitan. Posteriormente son aclimatados en la jaula y transcurrido un tiempo son liberados en el agua.    
+La siembra se realiza a primeras horas de la mañana, las larvas son transportadas hacia la laguna en bolsas plásticas con oxigeno, trás un período de aclimatación son liberados en el agua.    
 
 ## 6. Actividades pendientes a desarrollar
 
 1. Evaluar el **impacto Ambiental** del cultivo de pejerrey ( _Odontesthes bonariensis_) en jaulas flotantes en las lagunas seleccionadas. Se tendrá especial atención en la evaluación de la columna de agua así como de los sedimentos.   
-
 
 2. Evaluar los **aspectos sociales** de la pesca del pejerrey ( _Odontesthes bonariensis_), este apartado pretende recopilar información sobre la importancia de este pez en el desarrollo de las actividades económicas de la región.   
