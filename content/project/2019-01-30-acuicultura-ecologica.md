@@ -39,6 +39,7 @@ Es un pez originario de Argentina, Uruguay y sur del Brasil. Una de las especies
 
 Pez de agua dulce, consume zooplancton principalmente rotíferos y microcrustáceos, esta característica es fundamental para el desarrollo de su cultivo en los ambientes lagunares. 
 
+{{< figure src="/img/larvas.jpg" title="" >}}
 
 #### Importancia del cultivo de pejerrey ( _Odontesthes bonariensis_)
 
@@ -64,9 +65,17 @@ Este proyecto se ejecuta en tres lagunas, a saber, **Laguna Salada de Monasterio
 
 ### a. Evaluacion de la calidad del agua
 
-1. Parámetros fisicoquímicos como Temperatura, conductividad, oxigeno, ph, son monitoreados constantemente. Otros parámetros evaluados son el fósforo, también sustancias nitrogenadas  amonio, nitritos y nitratos.
+1. Parámetros fisicoquímicos como Temperatura, conductividad, oxigeno, ph, son monitoreados, al igual que el fósforo, amonio, nitritos y nitratos.
 
-2. Evaluación del zooplancton, consiste en determinar las especies, los principales grupos de zooplancton, la cantidad disponible; esto es uno de los aspectos fundamentales en el desarrollo de la acuicultura ecológica del pejerrey, ya que esta es la base de su alimentación durante su etapa de desarrollo (larval y juvenil) del pez.
+{{< figure src="/img/laboratorio.jpg" title="" >}}
+
+2. Evaluación del zooplancton, consiste en determinar las especies, los principales grupos de zooplancton, la cantidad disponible, ya que esta es la base de su alimentación durante los primeros días de su desarrollo.
+
+{{< figure src="/img/moni_zoo1.jpg" title="" >}}
+
+{{< figure src="/img/moni_zoo2.jpg" title="" >}}
+
+{{< figure src="/img/moni_zoo3.jpg" title="" >}}
 
 ### b. Construcción de las Jaulas
 
@@ -81,7 +90,10 @@ Consiste en el desplazamiento y ubicación de la estructura de la jaula dentro d
 
 La siembra se realiza a primeras horas de la mañana, las larvas son transportadas hacia la laguna en bolsas plásticas con oxigeno, trás un período de aclimatación son liberados en el agua.    
 
-{{< figure library="1" src="siembra.jpg" title="A caption" >}}
+{{< figure src="/img/siembra.jpg" title="" >}}
+
+{{< figure src="/img/siembra_2.jpg" title="" >}}
+
 
 ## 6. Actividades pendientes a desarrollar
 
