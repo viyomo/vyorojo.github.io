@@ -81,6 +81,8 @@ Consiste en el desplazamiento y ubicación de la estructura de la jaula dentro d
 
 La siembra se realiza a primeras horas de la mañana, las larvas son transportadas hacia la laguna en bolsas plásticas con oxigeno, trás un período de aclimatación son liberados en el agua.    
 
+{{< figure library="1" src="siembra.jpg" title="A caption" >}}
+
 ## 6. Actividades pendientes a desarrollar
 
 1. Evaluar el **impacto Ambiental** del cultivo de pejerrey ( _Odontesthes bonariensis_) en jaulas flotantes en las lagunas seleccionadas. Se tendrá especial atención en la evaluación de la columna de agua así como de los sedimentos.   
