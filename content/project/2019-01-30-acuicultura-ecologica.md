@@ -1,5 +1,5 @@
 ---
-title: Acuicultura Ecológica del pejerrey (Odontesthes bonariensis)
+title: Implementación de la Acuicultura Ecológica del pejerrey (Odontesthes bonariensis)
 author: Vivian Yorojo Moreno
 date: '2019-01-30'
 slug: acuicultura-ecologica
@@ -33,20 +33,20 @@ Tres principios son fundamentales para ejercer esta actividad, a saber:
 3. Debe ser desarrollada e integrada a otros sectores relevantes del desarrollo político, económico, social y ambiental. 
 
 
-### 3. El Pejerrey ( _Odontesthes bonariensis_)
+#### 3. El Pejerrey ( _Odontesthes bonariensis_)
 
 Es un pez originario de Argentina, Uruguay y sur del Brasil. Una de las especies emblemáticas de la ictiofauna Argentina; de interés para la acuicultura del país, debido a su importancia deportiva, recreacional, de consumo y a un alto valor simbólico en la región.
 
-Pez de agua dulce, consume zooplancton principalmente rotiferos y microcustáceos, esta característica es fundamental para el desarrollo de su cultivo en los ambientes lagunares. 
+Pez de agua dulce, consume zooplancton principalmente rotíferos y microcrustáceos, esta característica es fundamental para el desarrollo de su cultivo en los ambientes lagunares. 
 
 
 #### Importancia del cultivo de pejerrey ( _Odontesthes bonariensis_)
 
 Los estudios e iniciativas para su aprovechamiento regional, de manera sustentable comenzaron hace más de cien años en la región pampeana. Actualmente su piscicultura está orientada a la producción de larvas, que sirven para el repoblamiento en ambientes naturales y artificiales.
 
-El interés en la ampliación de su piscicultura, tiene como objetivo la produccion de juveniles, los cuales pueden ser llevados a otras etapas de desarrollo.
+El interés en la ampliación de su piscicultura, tiene como objetivo la producción de juveniles, los cuales pueden ser llevados a otras etapas de desarrollo.
 
-La obtención de juveniles en cautiverio ha sido dificil, en parte debido a las características de su alimentación que hacen dificil su mantenimiento en condiciones de cautiverio, debido a los costos para el montaje de este tipo de instalaciones.
+La obtención de juveniles en cautiverio ha sido difícil, en parte debido a las características de su alimentación que hacen difícil su mantenimiento en condiciones de cautiverio, debido a los costos para el montaje de este tipo de instalaciones.
 
 Es por esto que la implementación de un cultivo extensivo a través de las jaulas flotantes, aprovechando la productividad de las lagunas pampeanas, ha mostrado ser un gran aliado para la obtención de ejemplares en las tallas deseadas.
 
@@ -64,17 +64,17 @@ Este proyecto se ejecuta en tres lagunas, a saber, **Laguna Salada de Monasterio
 
 ### a. Evaluacion de la calidad del agua
 
-1. Parámetros fisicoquimicos como Temperatura, conductividad, oxigeno, ph, son monitoreados constantemente. Otros parámetros evaluados son el fósforo, también sustancias nitrogenadas  amonio, nitritos y nitratos.
+1. Parámetros fisicoquímicos como Temperatura, conductividad, oxigeno, ph, son monitoreados constantemente. Otros parámetros evaluados son el fósforo, también sustancias nitrogenadas  amonio, nitritos y nitratos.
 
 2. Evaluación del zooplancton, consiste en determinar las especies, los principales grupos de zooplancton, la cantidad disponible; esto es uno de los aspectos fundamentales en el desarrollo de la acuicultura ecológica del pejerrey, ya que esta es la base de su alimentación durante su etapa de desarrollo (larval y juvenil) del pez.
 
 ### b. Construcción de las Jaulas
 
-Activiad que trata de realizarse de manera grupal, de manera que sirva como taller de enseñaza a los interesados en la instalación de jaulas. 
+Actividad que trata de realizarse de manera grupal, como herramienta para la enseñanza a los interesados en la instalación de jaulas. 
 
 ### c. Instalación de las Jaulas en las lagunas
 
-Consiste en el desplazamiento y ubicación de la estructura de la jaula dentro de la laguna. Es necesario identificar el mejor sitio dentro de la laguna y para logarlo es necesario tener en cuenta factores como profundidad, corrientes que se formen dentro del cuerpo de agua, ubicación respecto de la costa, etre otras.
+Consiste en el desplazamiento y ubicación de la estructura de la jaula dentro de la laguna. Es necesario identificar el mejor sitio dentro de la laguna y para lograrlo es necesario tener en cuenta factores como profundidad, corrientes que se formen dentro del cuerpo de agua, ubicación respecto de la costa, entre otras.
 
 
 ### d. Siembra de larvas de pejerrey ( _Odontesthes bonariensis_) 
@@ -83,7 +83,7 @@ La siembra se realiza a primeras horas de la mañana. Las larvas se transportan 
 
 ## 6. Actividades pendientes a desarrollar
 
-1. Evaluar el **impacto Ambiental** del cultivo de pejerrey ( _Odontesthes bonariensis_) en jaulas flotantes en las lagunas seleccionadas. Se tendrá especial atención en la evaluación de la columna de agua asi como de los sedimentos.   
+1. Evaluar el **impacto Ambiental** del cultivo de pejerrey ( _Odontesthes bonariensis_) en jaulas flotantes en las lagunas seleccionadas. Se tendrá especial atención en la evaluación de la columna de agua así como de los sedimentos.   
 
 
-2. Evaluar los **aspectos sociales** de la pesca del pejerrey ( _Odontesthes bonariensis_), este apartado pretende recopilar informacipon sobre la importancia de este pez en el desarrollo de las actividades económicas de la región.   
+2. Evaluar los **aspectos sociales** de la pesca del pejerrey ( _Odontesthes bonariensis_), este apartado pretende recopilar información sobre la importancia de este pez en el desarrollo de las actividades económicas de la región.   
