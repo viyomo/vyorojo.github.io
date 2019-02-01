@@ -8,7 +8,7 @@ tags: ["Acuicultura ecológica", "Pejerrey", "Lagunas Pampeanas"]
 external_link: ''
 header:
   caption: ''
-  image: 'laguna.jpg'
+  image: 'jaula_1.jpg'
 highlight: yes
 image_preview: 'fotojaula1.jpg'
 math: no
