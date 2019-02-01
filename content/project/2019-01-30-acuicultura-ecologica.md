@@ -17,7 +17,7 @@ summary: ''
 
 ### 1. Objetivos del proyecto 
 
-Optimizar los procesos de cultivo y cría de pejerrey (_Odontesthes bonariensis_) teniendo en cuenta los conceptos de acuicultura ecológica, para incorporarlo a las redes productivas de la Región Pampeana. 
+> Optimizar los procesos de cultivo y cría de pejerrey (_Odontesthes bonariensis_) teniendo en cuenta los conceptos de acuicultura ecológica, para incorporarlo a las redes productivas de la Región Pampeana. 
 
 
 ### 2. Que es la Acuicultura Ecológica?
