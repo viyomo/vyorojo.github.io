@@ -36,15 +36,18 @@ Tres principios son fundamentales para su desarrollo:
 
 Es originario de Argentina, Uruguay y sur del Brasil y es una de las especies emblemáticas de la ictiofauna Argentina; de interés para la acuicultura del país, debido a su importancia deportiva, recreacional, de consumo y de un alto valor simbólico en la región.
 
-De agua dulce y se alimenta de zooplancton principalmente rotíferos y microcrustáceos en su etapa larval, característica fundamental para el desarrollo de su cultivo en los ambientes lagunares. 
+Es un pez de agua dulce que se alimenta de zooplancton principalmente de rotíferos y microcrustáceos en su etapa larval, característica fundamental para el desarrollo de su cultivo en los ambientes lagunares. 
 
-{{< figure src="/img/larvas.jpg" title="" >}}
+{{< figure src="/img/larvas.jpg" title="larvas de un dia de nacidas">}}
 
 #### Importancia del cultivo de pejerrey ( _Odontesthes bonariensis_)
 
 Los estudios e iniciativas para su aprovechamiento regional de manera sustentable, comenzaron hace más de cien años en la región pampeana. Actualmente su piscicultura está orientada a la producción de larvas, que sirven para el repoblamiento en ambientes naturales y artificiales.
 
->El interés en la ampliación de su piscicultura, tiene como objetivo la producción de juveniles, los cuales pueden ser llevados a otras etapas de desarrollo.
+>El interés en la ampliación de su piscicultura, tiene como objetivo la producción de juveniles, los cuales pueden ser llevados a otras etapas de desarrollo. En el siguiente video se observa la producción de juveniles desarrollados mediante este método de cultivo.
+
+{{< youtube BOZ7tOhutsE >}}
+
 
 La obtención de juveniles en cautiverio ha sido difícil, en parte debido a las características de su alimentación que hacen difícil su mantenimiento en condiciones de cautiverio, sumado a los altos a los costos para el montaje de este tipo de instalaciones.
 
