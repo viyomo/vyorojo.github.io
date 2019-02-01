@@ -26,11 +26,11 @@ Es un modelo de cultivo de peces que integra aspectos **ambientales**, **sociale
 
 Tres principios son fundamentales para su desarrollo:  
 
-1. Debe desarrollarse en el contexto de las funciones y servicios del ecosistema, sin degradarlo, más allá de la capacidad de resiliencia que éstos poseen.  
+>1. Debe desarrollarse en el contexto de las funciones y servicios del ecosistema, sin degradarlo, más allá de la capacidad de resiliencia que éstos poseen.  
 
-2. Debe ofrecer bienestar y equidad a todos los actores involucrados.  
+>2. Debe ofrecer bienestar y equidad a todos los actores involucrados.  
 
-3. Debe ser desarrollada e integrada a otros sectores relevantes del ámbito político, económico, social y ambiental. 
+>3. Debe ser desarrollada e integrada a otros sectores relevantes del ámbito político, económico, social y ambiental. 
 
 #### 3. El Pejerrey ( _Odontesthes bonariensis_)
 
@@ -44,7 +44,7 @@ De agua dulce y se alimenta de zooplancton principalmente rotíferos y microcrus
 
 Los estudios e iniciativas para su aprovechamiento regional de manera sustentable, comenzaron hace más de cien años en la región pampeana. Actualmente su piscicultura está orientada a la producción de larvas, que sirven para el repoblamiento en ambientes naturales y artificiales.
 
-El interés en la ampliación de su piscicultura, tiene como objetivo la producción de juveniles, los cuales pueden ser llevados a otras etapas de desarrollo.
+>El interés en la ampliación de su piscicultura, tiene como objetivo la producción de juveniles, los cuales pueden ser llevados a otras etapas de desarrollo.
 
 La obtención de juveniles en cautiverio ha sido difícil, en parte debido a las características de su alimentación que hacen difícil su mantenimiento en condiciones de cautiverio, sumado a los altos a los costos para el montaje de este tipo de instalaciones.
 
@@ -58,7 +58,7 @@ Son ambientes altamente productivos, ya que se encuentran estratégicamente ubic
 
 Se trata de ambientes con características oligohalinos a mesohalinos, en cuanto a su composición iónica son bicarbonato-sódicas. 
 
-Este proyecto se ejecuta en tres lagunas, a saber, _Laguna Salada de Monasterio, Laguna Vitel_ y _Laguna San Lorenzo_ que hacen parte de las **Lagunas Encadenadas del Río Salado**.
+>Este proyecto se ejecuta en tres lagunas, a saber, _Laguna Salada de Monasterio, Laguna Vitel_ y _Laguna San Lorenzo_ que hacen parte de las **Lagunas Encadenadas del Río Salado**.
 
 {{< figure src="/img/laguna_pampeana2.jpg" title="" >}}
 
