@@ -36,7 +36,7 @@ Tres principios son fundamentales para su desarrollo:
 
 Es originario de Argentina, Uruguay y sur del Brasil y es una de las especies emblemáticas de la ictiofauna Argentina; de interés para la acuicultura del país, debido a su importancia deportiva, recreacional, de consumo y de un alto valor simbólico en la región.
 
-Es un pez de agua dulce que se alimenta de zooplancton principalmente de rotíferos y microcrustáceos en su etapa larval, característica fundamental para el desarrollo de su cultivo en los ambientes lagunares. 
+>Es un pez de agua dulce, que se alimenta de zooplancton (principalmente de rotíferos y microcrustáceos en su etapa larval), característica fundamental para el desarrollo de su cultivo en los ambientes lagunares. 
 
 {{< figure src="/img/larvas.jpg" title="larvas de un dia de nacidas">}}
 
@@ -106,4 +106,11 @@ La siembra se realiza a primeras horas de la mañana, las larvas son transportad
 
 1. Evaluar el **impacto Ambiental** del cultivo de pejerrey (_Odontesthes bonariensis_) en jaulas flotantes en las lagunas seleccionadas. Se tendrá especial atención en la evaluación de la columna de agua y en los sedimentos.   
 
-2. Evaluar los **aspectos sociales** de la pesca del pejerrey (_Odontesthes bonariensis_), este apartado pretende recopilar información sobre la importancia de este pez en el desarrollo de las actividades económicas de la región.   
+2. Evaluar los **aspectos sociales** de la pesca del pejerrey ( _Odontesthes bonariensis_), este apartado pretende recopilar información sobre la importancia de este pez en el desarrollo de las actividades económicas de la región. 
+
+### Instituciones a cargo
+
+> Este es un proyecto que se está desarrollando en el laboratorio de ecológia de peces del Instituto de limnología Dr. Raúl A. Ringuelet. El director de mi trabajo es el Dr. Dario C. Colautti y el co-director es el Dr. Javier Garcia de Souza
+
+
+
