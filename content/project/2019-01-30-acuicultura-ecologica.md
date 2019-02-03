@@ -77,17 +77,20 @@ Se trata de ambientes con características oligohalinos a mesohalinos, en cuanto
 
 {{< figure src="/img/moni_zoo.jpg" title="" >}}
 
-{{< figure src="/img/moni_zoo2.jpg" title="" >}}
+{{< figure src="/img/moni_zoo2.jpg" title="Rotífero ( _Brachionus caudatus_)" >}}
 
-{{< figure src="/img/moni_zoo3.jpg" title="" >}}
+{{< figure src="/img/moni_zoo3.jpg" title="Rotifero ( _Brachionus calyciflorus_)" >}}
 
-### b. Construcción de las jaulas
 
-Actividad que trata de realizarse de manera grupal, como herramienta para la enseñanza a los interesados en la instalación de jaulas. 
+### b. Construcción e Instalación de las jaulas flotantes 
 
-### c. Instalación de las jaulas en las lagunas
+Esta actividad se desarrolla en forma de taller para las personas interesados en este tipo de cultivos. Posteriormente, las jaulas son trasladadas y ubicadas en la laguna. 
 
-Consiste en el desplazamiento y ubicación de la estructura de la jaula dentro de la laguna. Es necesario identificar el mejor sitio dentro de la laguna y para lograrlo es necesario tener en cuenta factores como profundidad, corrientes que se formen dentro del cuerpo de agua, ubicación respecto de la costa, entre otras.
+{{< figure src="/img/insta_jaula2.jpg" title="" >}}
+
+{{< figure src="/img/insta_jaula3.jpg" title="" >}}
+
+{{< figure src="/img/insta_jaula4.jpg" title="" >}}
 
 
 ### d. Siembra de larvas de pejerrey (_Odontesthes bonariensis_) 
