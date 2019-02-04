@@ -33,7 +33,7 @@ Tres principios son fundamentales para su desarrollo:
 >3. Debe ser desarrollada e integrada a otros sectores relevantes del ámbito político, económico, social y ambiental. 
 
 <br> 
-### 3. El Pejerrey ( _Odontesthes bonariensis_)
+### 3. El Pejerrey (_Odontesthes bonariensis_)
 
 Es originario de Argentina, Uruguay y sur del Brasil y es una de las especies emblemáticas de la ictiofauna Argentina; de interés para la acuicultura del país, debido a su importancia deportiva, recreacional, de consumo y de un alto valor simbólico en la región.
 
@@ -43,7 +43,7 @@ Es originario de Argentina, Uruguay y sur del Brasil y es una de las especies em
 {{< figure src="/img/larvas.jpg" title="larvas de pejerrey">}}
 </center>
 
-### Importancia del cultivo de pejerrey ( _Odontesthes bonariensis_)
+### Importancia del cultivo de pejerrey (_Odontesthes bonariensis_)
 
 Los estudios e iniciativas para su aprovechamiento regional de manera sustentable, comenzaron hace más de cien años en la región pampeana. Actualmente su piscicultura está orientada a la producción de larvas, que sirven para el repoblamiento en ambientes naturales y artificiales.
 
@@ -57,7 +57,7 @@ La obtención de juveniles en cautiverio ha sido difícil, en parte debido a las
 Es por esto que la implementación de un cultivo extensivo a través de las jaulas flotantes, aprovechando la productividad de las lagunas pampeanas, ha mostrado ser un gran aliado para la obtención de ejemplares en las tallas deseadas.
 
 <br> 
-## 4. Las lagunas Pampeanas 
+## 4. Lagunas Pampeanas 
 
 Son ambientes altamente productivos, ya que se encuentran estratégicamente ubicados en uno de los suelos más fértiles de la región. de carácter eutrófico a hipereutrófico, por lo general permanentes y muy pocas superan los 4 m de profundidad, siendo polimícticas principalmente por la acción del viento.   
 
@@ -74,19 +74,22 @@ Se trata de ambientes con características oligohalinos a mesohalinos, en cuanto
 </center>
 ## 5. Etapas de desarrollo de este proyecto
 
-### a. Evaluacion de la calidad del agua
+### a. La evaluacion de la calidad del agua
 
-1. Parámetros fisicoquímicos como temperatura, conductividad, oxigeno, pH, son monitoreados, al igual que el fósforo, amonio, nitritos y nitratos.
+1. Los parámetros fisicoquímicos (temperatura, conductividad, oxigeno, pH) son monitoreados constantemente; además también son evaluados el fósforo, amonio, nitritos y nitratos. 
 
 <center>
 {{< figure src="/img/laboratorio1.jpg" title="Acondicionamiento de muestras de agua">}}
 </center>
 
-2. Evaluación del zooplancton, consiste en determinar las especies, los principales grupos de zooplancton, la cantidad disponible, ya que esta es la base de su alimentación durante los primeros días de su desarrollo.
+2. La evaluación del zooplancton, consiste en identificar las especies presentes, los principales grupos, determinar su disponible, entre otros.
 
 <center>
 {{< figure src="/img/moni_zoo.jpg" title="Identificación y recuento de zooplancton" >}}
 </center>
+
+Entre las especies que se pueden encontrar tenemos:
+
 <center>
   {{< figure src="/img/moni_zoo2.jpg" title="Rotífero (_Brachionus caudatus_)" >}}
 </center>
@@ -96,7 +99,7 @@ Se trata de ambientes con características oligohalinos a mesohalinos, en cuanto
 </center>
 
 
-### b. Construcción e Instalación de las jaulas flotantes 
+### b. La construcción e Instalación de las jaulas flotantes 
 
 Esta actividad se desarrolla en forma de taller para las personas interesados en este tipo de cultivos. Posteriormente, las jaulas son trasladadas y ubicadas en la laguna. 
 
@@ -112,14 +115,17 @@ Esta actividad se desarrolla en forma de taller para las personas interesados en
 {{< figure src="/img/insta_jaula4.jpg" title="Instalación de las jaulas" >}}
 </center>
 
-### d. Siembra de larvas de pejerrey (_Odontesthes bonariensis_) 
+### d. La siembra de larvas de pejerrey (_Odontesthes bonariensis_) 
 
 La siembra se realiza a primeras horas de la mañana, las larvas son transportadas hacia la laguna en bolsas plásticas con oxigeno, trás un período de aclimatación son liberadas en el agua.    
 
-{{< figure src="/img/siembra1.jpg" title="" >}}
+<center>
+{{< figure src="/img/siembra2.jpg" title="Transporte de larvas de pejerrey" >}}
+</center>
 
-{{< figure src="/img/siembra2.jpg" title="" >}}
-
+<center>
+{{< figure src="/img/siembra1.jpg" title="Siembra de larvas de pejerrey" >}}
+</center>
 
 ## 6. Actividades pendientes a desarrollar
 
