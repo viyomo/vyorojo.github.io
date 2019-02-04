@@ -40,7 +40,7 @@ caption = "desde internet"
 
 
 +++
-{{< figure src="/img/foto_cole.jpg" title="" >}}
+{{< figure src="/img/foto_cole.jpg">}}
 
 Los Ecosistemas Acuáticos son especialmente vulnerables a los efectos producidos por las actividades antrópicas y el cambio climático, razón por la cual, su conservación se hace indispensable. 
 

@@ -19,10 +19,10 @@ summary: ''
 
 > Optimizar los procesos de cultivo y cría de pejerrey (_Odontesthes bonariensis_) teniendo en cuenta los conceptos de acuicultura ecológica, para incorporarlo a las redes productivas de la Región Pampeana. 
 
-
+<br> 
 ### 2. Que es la Acuicultura Ecológica?
 
-Es un modelo de cultivo de peces que integra aspectos **ambientales**, **sociales** y **económicos** dentro de un _**enfoque ecosistémic**o_. 
+Es un modelo de cultivo de peces que integra aspectos **ambientales**, **sociales** y **económicos** dentro de un _**enfoque ecosistémic**o_. <br>
 
 Tres principios son fundamentales para su desarrollo:  
 
@@ -32,66 +32,85 @@ Tres principios son fundamentales para su desarrollo:
 
 >3. Debe ser desarrollada e integrada a otros sectores relevantes del ámbito político, económico, social y ambiental. 
 
-#### 3. El Pejerrey ( _Odontesthes bonariensis_)
+<br> 
+### 3. El Pejerrey ( _Odontesthes bonariensis_)
 
 Es originario de Argentina, Uruguay y sur del Brasil y es una de las especies emblemáticas de la ictiofauna Argentina; de interés para la acuicultura del país, debido a su importancia deportiva, recreacional, de consumo y de un alto valor simbólico en la región.
 
 >Es un pez de agua dulce, que se alimenta de zooplancton (principalmente de rotíferos y microcrustáceos en su etapa larval), característica fundamental para el desarrollo de su cultivo en los ambientes lagunares. 
 
-{{< figure src="/img/larvas.jpg" title="larvas de un dia de nacidas">}}
+<center>
+{{< figure src="/img/larvas.jpg" title="larvas de pejerrey">}}
+</center>
 
-#### Importancia del cultivo de pejerrey ( _Odontesthes bonariensis_)
+### Importancia del cultivo de pejerrey ( _Odontesthes bonariensis_)
 
 Los estudios e iniciativas para su aprovechamiento regional de manera sustentable, comenzaron hace más de cien años en la región pampeana. Actualmente su piscicultura está orientada a la producción de larvas, que sirven para el repoblamiento en ambientes naturales y artificiales.
 
 >El interés en la ampliación de su piscicultura, tiene como objetivo la producción de juveniles, los cuales pueden ser llevados a otras etapas de desarrollo. En el siguiente video se observa la producción de juveniles desarrollados mediante este método de cultivo.
 
-{{< youtube BOZ7tOhutsE >}}
+{{< youtube BOZ7tOhutsE >}} <br>
 
 
 La obtención de juveniles en cautiverio ha sido difícil, en parte debido a las características de su alimentación que hacen difícil su mantenimiento en condiciones de cautiverio, sumado a los altos a los costos para el montaje de este tipo de instalaciones.
 
 Es por esto que la implementación de un cultivo extensivo a través de las jaulas flotantes, aprovechando la productividad de las lagunas pampeanas, ha mostrado ser un gran aliado para la obtención de ejemplares en las tallas deseadas.
 
+<br> 
 ## 4. Las lagunas Pampeanas 
 
 Son ambientes altamente productivos, ya que se encuentran estratégicamente ubicados en uno de los suelos más fértiles de la región. de carácter eutrófico a hipereutrófico, por lo general permanentes y muy pocas superan los 4 m de profundidad, siendo polimícticas principalmente por la acción del viento.   
 
-{{< figure src="/img/laguna_pampeana.jpg" title="" >}}
+<center>
+{{< figure src="/img/laguna_pampeana.jpg" title="Laguna La Salada de Monasterio" >}}
+</center>
 
 Se trata de ambientes con características oligohalinos a mesohalinos, en cuanto a su composición iónica son bicarbonato-sódicas. 
 
 >Este proyecto se ejecuta en tres lagunas, a saber, _Laguna Salada de Monasterio, Laguna Vitel_ y _Laguna San Lorenzo_ que hacen parte de las **Lagunas Encadenadas del Río Salado**.
 
-{{< figure src="/img/laguna_pampeana2.jpg" title="" >}}
-
+<center>
+{{< figure src="/img/laguna_pampeana2.jpg" title="Laguna San Lorenzo" >}}
+</center>
 ## 5. Etapas de desarrollo de este proyecto
 
 ### a. Evaluacion de la calidad del agua
 
 1. Parámetros fisicoquímicos como temperatura, conductividad, oxigeno, pH, son monitoreados, al igual que el fósforo, amonio, nitritos y nitratos.
 
-{{< figure src="/img/laboratorio1.jpg" title="" >}}
+<center>
+{{< figure src="/img/laboratorio1.jpg" title="Acondicionamiento de muestras de agua">}}
+</center>
 
 2. Evaluación del zooplancton, consiste en determinar las especies, los principales grupos de zooplancton, la cantidad disponible, ya que esta es la base de su alimentación durante los primeros días de su desarrollo.
 
-{{< figure src="/img/moni_zoo.jpg" title="" >}}
+<center>
+{{< figure src="/img/moni_zoo.jpg" title="Identificación y recuento de zooplancton" >}}
+</center>
+<center>
+  {{< figure src="/img/moni_zoo2.jpg" title="Rotífero (_Brachionus caudatus_)" >}}
+</center>
 
-{{< figure src="/img/moni_zoo2.jpg" title="Rotífero ( _Brachionus caudatus_)" >}}
-
-{{< figure src="/img/moni_zoo3.jpg" title="Rotifero ( _Brachionus calyciflorus_)" >}}
+<center>
+  {{< figure src="/img/moni_zoo3.jpg" title="Rotifero (_Brachionus calyciflorus_)" >}}
+</center>
 
 
 ### b. Construcción e Instalación de las jaulas flotantes 
 
 Esta actividad se desarrolla en forma de taller para las personas interesados en este tipo de cultivos. Posteriormente, las jaulas son trasladadas y ubicadas en la laguna. 
 
-{{< figure src="/img/insta_jaula2.jpg" title="" >}}
+<center>
+{{< figure src="/img/insta_jaula2.jpg" title="Construcción de jaulas" >}}
+</center>
 
-{{< figure src="/img/insta_jaula3.jpg" title="" >}}
+<center>
+{{< figure src="/img/insta_jaula3.jpg" title="Construcción de jaulas" >}}
+</center>
 
-{{< figure src="/img/insta_jaula4.jpg" title="" >}}
-
+<center>
+{{< figure src="/img/insta_jaula4.jpg" title="Instalación de las jaulas" >}}
+</center>
 
 ### d. Siembra de larvas de pejerrey (_Odontesthes bonariensis_) 
 
