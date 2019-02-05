@@ -31,12 +31,44 @@ highlight = true
 
 [[gallery_item]]
 album = "1"
-image = "https://emitanaka.github.io/img/headers/DNA_Overview_landscape_orientation.png"
-caption = "Write your image caption here"
+image = "/tumaco/foto_cole2.jpg"
+caption = ""
 [[gallery_item]]
 album = "1"
-image = "https://d33wubrfki0l68.cloudfront.net/873d04e575f5e47dac3c8f91d101c71a28a3d506/6571d/lesson-images/markdown-1-markup.png"
-caption = "desde internet"
+image = "/tumaco/foto_cole3.jpg"
+caption = ""
+[[gallery_item]]
+album = "1"
+image = "/tumaco/foto_cole4.jpg"
+caption = ""
+[[gallery_item]]
+album = "1"
+image = "/tumaco/foto_cole7.jpg"
+caption = ""
+[[gallery_item]]
+album = "1"
+image = "/tumaco/foto_cole5.jpg"
+caption = ""
+[[gallery_item]]
+album = "1"
+image = "/tumaco/foto_cole6.jpg"
+caption = ""
+[[gallery_item]]
+album = "1"
+image = "/tumaco/foto_coleA.jpg"
+caption = ""
+[[gallery_item]]
+album = "1"
+image = "/tumaco/foto_coleb.jpg"
+caption = ""
+[[gallery_item]]
+album = "1"
+image = "/tumaco/foto_colec.jpg"
+caption = ""
+
+
+
+
 
 
 +++
@@ -76,3 +108,4 @@ Algunos de los acuarios construidos se muestran a continuación:
 
 {{< figure src="/img/tumaco/foto_colecc.jpg" title="" >}}
 
+{{< gallery album="1" >}}

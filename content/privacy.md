@@ -1,12 +1,10 @@
 +++
 title = "Política de privacidad"
-
 date = 2018-06-28T00:00:00
 draft = false
-
-#[header]
-#image = ""
-#caption = "Creative Commons"
+[header]
+image = ""
+caption = "Creative Commons"
 +++
 
 Ninguna.. el conocimiento es libre!!!
