@@ -22,20 +22,19 @@ math = false
 # Does the project detail page use source code highlighting?
 highlight = true
 
-# Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-#[header]
-#image = "foto_cole.jpg"
-#caption = ""
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = "headers/foto_cole.jpg"
+caption = ""
+ 
 
 [[gallery_item]]
 album = "1"
 image = ""
-caption = ""
+caption = "" 
 
-
+ 
 +++
-{{< figure src="/img/tumaco/foto_cole1.jpg">}}
 
 > Los Ecosistemas Acuáticos son especialmente vulnerables a los efectos producidos por las actividades antrópicas y el cambio climático, razón por la cual, su conservación se hace indispensable. 
 
