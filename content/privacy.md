@@ -7,4 +7,4 @@ image = ""
 caption = "Creative Commons"
 +++
 
-Ninguna.. el conocimiento es libre!!!
+

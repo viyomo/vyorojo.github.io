@@ -8,7 +8,7 @@ tags: ["Acuicultura ecológica", "Pejerrey", "Lagunas Pampeanas"]
 external_link: ''
 header:
   caption: ''
-  image: 'jaula_1.jpg'
+  image: 'jaula_4.jpg'
 highlight: yes
 image_preview: 'fotojaula1.jpg'
 math: no
@@ -37,7 +37,7 @@ Tres principios son fundamentales para su desarrollo:
 
 Es originario de Argentina, Uruguay y sur del Brasil y es una de las especies emblemáticas de la ictiofauna Argentina; de interés para la acuicultura del país, debido a su importancia deportiva, recreacional, de consumo y de un alto valor simbólico en la región.
 
->Es un pez de agua dulce, que se alimenta de zooplancton (principalmente de rotíferos y microcrustáceos en su etapa larval), característica fundamental para el desarrollo de su cultivo en los ambientes lagunares. 
+>Es un pez de agua dulce, que se alimenta de zooplancton (principalmente de rotíferos y microcrustáceos en su etapa larval).
 
 <center>
 {{< figure src="/img/larvas.jpg" title="larvas de pejerrey">}}
@@ -76,13 +76,13 @@ Se trata de ambientes con características oligohalinos a mesohalinos, en cuanto
 
 ### a. La evaluacion de la calidad del agua
 
-1. Los parámetros fisicoquímicos (temperatura, conductividad, oxigeno, pH) son monitoreados constantemente; además también son evaluados el fósforo, amonio, nitritos y nitratos. 
+1. Los parámetros fisicoquímicos (temperatura, conductividad, oxigeno, pH) son monitoreados constantemente; también son evaluados el fósforo, amonio, nitritos y nitratos. 
 
 <center>
 {{< figure src="/img/laboratorio1.jpg" title="Acondicionamiento de muestras de agua">}}
 </center>
 
-2. La evaluación del zooplancton, consiste en identificar las especies presentes, los principales grupos, determinar su disponible, entre otros.
+2. La evaluación del zooplancton, consiste en identificar las especies presentes, los principales grupos así como determinar su disponible, entre otros.
 
 <center>
 {{< figure src="/img/moni_zoo.jpg" title="Identificación y recuento de zooplancton" >}}
@@ -91,7 +91,7 @@ Se trata de ambientes con características oligohalinos a mesohalinos, en cuanto
 Entre las especies que se pueden encontrar tenemos:
 
 <center>
-  {{< figure src="/img/moni_zoo2.jpg" title="Rotífero (_Brachionus caudatus_)" >}}
+  {{< figure src="/img/moni_zoo2.jpg" title="Rotíferos (_Brachionus caudatus_) y (_Pompholix sp._)" >}}
 </center>
 
 <center>
@@ -136,4 +136,5 @@ La siembra se realiza a primeras horas de la mañana, las larvas son transportad
 
 > Este proyecto de tesis de doctorado, lo dirige el Dr. Dario C. Colautti y el co-director es el Dr. Javier Garcia de Souza del laboratorio de ecológia de peces, del Instituto de Limnología Dr. Raúl A. Ringuelet.
 
-
+<br> 
+Te gustaria contribuir con este proyecto!!

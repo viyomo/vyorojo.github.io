@@ -28,47 +28,10 @@ highlight = true
 #image = "foto_cole.jpg"
 #caption = ""
 
-
 [[gallery_item]]
 album = "1"
-image = "/tumaco/foto_cole2.jpg"
+image = ""
 caption = ""
-[[gallery_item]]
-album = "1"
-image = "/tumaco/foto_cole3.jpg"
-caption = ""
-[[gallery_item]]
-album = "1"
-image = "/tumaco/foto_cole4.jpg"
-caption = ""
-[[gallery_item]]
-album = "1"
-image = "/tumaco/foto_cole7.jpg"
-caption = ""
-[[gallery_item]]
-album = "1"
-image = "/tumaco/foto_cole5.jpg"
-caption = ""
-[[gallery_item]]
-album = "1"
-image = "/tumaco/foto_cole6.jpg"
-caption = ""
-[[gallery_item]]
-album = "1"
-image = "/tumaco/foto_coleA.jpg"
-caption = ""
-[[gallery_item]]
-album = "1"
-image = "/tumaco/foto_coleb.jpg"
-caption = ""
-[[gallery_item]]
-album = "1"
-image = "/tumaco/foto_colec.jpg"
-caption = ""
-
-
-
-
 
 
 +++
