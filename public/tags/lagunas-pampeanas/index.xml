@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lagunas pampeanas on Vivian Yorojo Moreno</title>
+    <title>Lagunas Pampeanas on Vivian Yorojo Moreno</title>
     <link>/tags/lagunas-pampeanas/</link>
-    <description>Recent content in Lagunas pampeanas on Vivian Yorojo Moreno</description>
+    <description>Recent content in Lagunas Pampeanas on Vivian Yorojo Moreno</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 18 Nov 2017 21:02:39 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/lagunas-pampeanas/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>El enfoque ecosistémico en el cultivo de pejerrey en jaulas flotantes: Hacia el desarrollo de una herramienta de predicción</title>
-      <link>/publication/enfoque_ecosistmico_peje/</link>
-      <pubDate>Sat, 18 Nov 2017 21:02:39 -0300</pubDate>
+      <title>Implementación de la Acuicultura Ecológica del Pejerrey (Odontesthes bonariensis)</title>
+      <link>/project/acuicultura-ecologica/</link>
+      <pubDate>Wed, 30 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/enfoque_ecosistmico_peje/</guid>
-      <description></description>
+      <guid>/project/acuicultura-ecologica/</guid>
+      <description>1. Objetivos del proyecto  Optimizar los procesos de cultivo y cría de pejerrey (Odontesthes bonariensis) teniendo en cuenta los conceptos de acuicultura ecológica, para incorporarlo a las redes productivas de la Región Pampeana.
+ 
+2. Que es la Acuicultura Ecológica? Es un modelo de cultivo de peces que integra aspectos ambientales, sociales y económicos dentro de un enfoque ecosistémico. Tres principios son fundamentales para su desarrollo:
+  Debe desarrollarse en el contexto de las funciones y servicios del ecosistema, sin degradarlo, más allá de la capacidad de resiliencia que éstos poseen.</description>
     </item>
     
   </channel>
