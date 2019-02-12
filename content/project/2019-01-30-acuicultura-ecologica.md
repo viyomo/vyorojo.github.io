@@ -54,7 +54,7 @@ Los estudios e iniciativas para su aprovechamiento regional de manera sustentabl
 
 La obtención de juveniles en cautiverio ha sido difícil, en parte debido a las características de su alimentación que hacen difícil su mantenimiento en condiciones de cautiverio, sumado a los altos a los costos para el montaje de este tipo de instalaciones.
 
-Es por esto que la implementación de un cultivo extensivo a través de las jaulas flotantes, aprovechando la productividad de las lagunas pampeanas, ha mostrado ser un gran aliado para la obtención de ejemplares en las tallas deseadas.
+Es por esto que la implementación de un cultivo a través de las jaulas flotantes, ha mostrado ser un gran aliado para la obtención de ejemplares en las tallas deseadas.
 
 <br> 
 ## 4. Lagunas Pampeanas 
