@@ -67,7 +67,7 @@ Son ambientes altamente productivos, ya que se encuentran estratégicamente ubic
 
 Se trata de ambientes con características oligohalinos a mesohalinos, en cuanto a su composición iónica son bicarbonato-sódicas. 
 
->Este proyecto se ejecuta en tres lagunas, a saber, _Laguna Salada de Monasterio, Laguna Vitel_ y _Laguna San Lorenzo_ que hacen parte de las **Lagunas Encadenadas del Río Salado**.
+>Este proyecto se ejecuta en tres lagunas, a saber, _Laguna Salada de Monasterio, Laguna Vitel_ y _Laguna San Lorenzo_.
 
 <center>
 {{< figure src="/img/laguna_pampeana2.jpg" title="Laguna San Lorenzo" >}}
