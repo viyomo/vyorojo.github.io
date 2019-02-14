@@ -134,7 +134,7 @@ La siembra se realiza a primeras horas de la mañana, las larvas son transportad
 2. Evaluar los **aspectos sociales** de la pesca del pejerrey ( _Odontesthes bonariensis_), este apartado pretende recopilar información sobre la importancia de este pez en el desarrollo de las actividades económicas de la región. 
 
 
-> Este proyecto de tesis de doctorado, lo dirige el Dr. Dario C. Colautti y el co-director es el Dr. Javier Garcia de Souza del laboratorio de ecológia de peces, del Instituto de Limnología Dr. Raúl A. Ringuelet.
+> Este proyecto de tesis de doctorado, lo dirige el Dr. Dario C. Colautti y el co-director es el Dr. Javier Garcia de Souza. Y hace parte de los trabajos de investigación que se realizan en el laboratorio de ecológia de peces del Instituto de Limnología Dr. Raúl A. Ringuelet (ILPLA-CONICET-UNLP). 
 
 <br> 
 Te gustaria contribuir con este proyecto!!
