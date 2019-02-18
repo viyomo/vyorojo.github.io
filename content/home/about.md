@@ -26,7 +26,6 @@ weight = 5
   course = "Magister en Ecohidrologia"
   institution = "UNLP - Universidad Nacional de la Plata"
 
-
 +++
 
 # Sobre mi 
