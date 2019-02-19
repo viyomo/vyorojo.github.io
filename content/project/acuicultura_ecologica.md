@@ -8,7 +8,7 @@ draft = false
 tags = ["Acuicultura Ecologica"]
 
 # Project summary to display on homepage.
-summary = ""
+summary = "Proyecto Actual"
 
 # Optional image to display on homepage.
 image_preview = "fotojaula1.jpg"
