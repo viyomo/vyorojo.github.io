@@ -1,5 +1,5 @@
 +++
-title = "Acuarios Temáticos"
+title = "Acuarios Temáticos como Herramienta de Educación Ambiental"
 date = 2011-05-19T17:23:43-03:00
 draft = false 
 

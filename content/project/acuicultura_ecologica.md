@@ -1,5 +1,5 @@
 +++
-title = "Acuicultura Ecológica"
+title = "Implementación de la Acuicultura Ecológica del Pejerrey (Odontesthes bonariensis)"
 date = 2019-02-18T23:07:53-03:00
 draft = false
 
@@ -25,8 +25,8 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
+image = "jaula_4.jpg"
 caption = ""
 
 +++
-
+Implementación de la Acuicultura Ecológica del Pejerrey (Odontesthes bonariensis)
