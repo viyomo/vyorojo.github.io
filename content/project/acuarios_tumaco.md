@@ -8,7 +8,7 @@ draft = false
 tags = ["Acuarios Temáticos"]
 
 # Project summary to display on homepage.
-summary = "Como herramienta de educación Ambiental"
+summary = ""
 
 # Optional image to display on homepage.
 image_preview = "foto_chicos.jpg"
