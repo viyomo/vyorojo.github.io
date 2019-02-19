@@ -38,8 +38,8 @@ filter_default = 0
   tag = "Acuicultura ecológica"
 
 [[filter]]
-  name = "Anteriores"
-  tag = "Acuarios tematicos"
+  name = "Otros"
+  tag = "Acuarios Temáticos"
 
 +++
 
