@@ -34,12 +34,12 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Actuales"
-  tag = "Acuicultura ecológica"
+  name = "Acuicultura Ecologica"
+  tag = "Acuicultura Ecologica"
 
 [[filter]]
   name = "Otros"
-  tag = "Acuarios Temáticos"
+  tag = "Acuarios Tematicos"
 
 +++
 
