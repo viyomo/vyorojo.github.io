@@ -46,9 +46,7 @@ Otros acuarios estarán ambientados con especies exóticas, con el objetivo de i
 
 Como parte de la actividad, los estudiantes realizaran el mantenimiento de los acuarios, filtros, así como  el control de algunos parámetros fisicoquímicos básicos, esto servirá para explicar sobre la importancia de su cuidado, los cambios que ocurren cuando hay deterioro de la calidad de agua y sus consecuencias.  
 
-El proyecto se formuló para la Corporación Arrecifes Artificiales, en el marco del programa de _fortalecimiento Organizativo Técnico Ambiental de la Actividad Pesquera Artesanal Costera y de la Educación Ambiental en el municipio de Tumaco (Colombia)_, financiado por Ecopetrol y avalado por la Alcaldía Municipal de esta ciudad.  
-
-EL proyecto se desarrollo en veintinueve instituciones de primaria y secundaria tanto publicas como privadas. 
+El proyecto se formuló para la Corporación Arrecifes Artificiales, en el marco del programa de _fortalecimiento Organizativo Técnico Ambiental de la Actividad Pesquera Artesanal Costera y de la Educación Ambiental en el municipio de Tumaco (Colombia)_, financiatdo por Ecopetrol y avalado por la Alcaldía Municipal de esta ciudad. Durante su desarrollo se beneficiaron veintinueve instituciones de primaria y secundaria tanto publicas como privadas. 
 
 Algunos de los acuarios construidos se muestran a continuación:
 
