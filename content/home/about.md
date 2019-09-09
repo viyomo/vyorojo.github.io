@@ -34,5 +34,5 @@ Vivian es una Lic. en Biología y Química, interesada en el desarrollo de prác
 
 Utiliza la academia, la práctica, la experimentación y su interés autodidacta como herramientas de aprendizaje para profundizar su formación como profesional. Forma parte de la Fundación para la Conservación de Recursos Hídricos (fundación Puja), que es una institución para el fomento y formulación de proyectos de conservación de los recursos hídricos.
 
-Actualmente es una _Promotora de los Objetivos de Desarrollo Sostenible_, cuyo principal desafio es promover, difundir, comunicar y concientizar sobre la _Agenda 2030_
+_Promotora de los Objetivos de Desarrollo Sostenible_, cuyo principal desafio es promover, difundir, comunicar y concientizar sobre la _Agenda 2030_
 
