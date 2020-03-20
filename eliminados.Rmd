@@ -1,3 +1,0 @@
-fundacionpuja.netlify.com
-
-  organizations = [ { name = "fundacion Puja", url = "www.conicet.gov.ar" }]
