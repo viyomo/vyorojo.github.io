@@ -2,6 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo Academic CV Theme</title>
+<<<<<<< HEAD:index.xml
     <link>https://example.com/</link>
       <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo Academic CV Theme</description>
@@ -10,13 +11,29 @@
       <url>https://example.com/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Hugo Academic CV Theme</title>
       <link>https://example.com/</link>
+=======
+    <link>http://localhost:43661/</link>
+      <atom:link href="http://localhost:43661/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hugo Academic CV Theme</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:43661/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Hugo Academic CV Theme</title>
+      <link>http://localhost:43661/</link>
+>>>>>>> error2:public/index.xml
     </image>
     
     <item>
       <title>Example Talk</title>
+<<<<<<< HEAD:index.xml
       <link>https://example.com/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       <guid>https://example.com/event/example/</guid>
+=======
+      <link>http://localhost:43661/event/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>http://localhost:43661/event/example/</guid>
+>>>>>>> error2:public/index.xml
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -35,17 +52,29 @@
     
     <item>
       <title>Projects</title>
+<<<<<<< HEAD:index.xml
       <link>https://example.com/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
       <guid>https://example.com/projects/</guid>
+=======
+      <link>http://localhost:43661/projects/</link>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:43661/projects/</guid>
+>>>>>>> error2:public/index.xml
       <description></description>
     </item>
     
     <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
+<<<<<<< HEAD:index.xml
       <link>https://example.com/post/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/get-started/</guid>
+=======
+      <link>http://localhost:43661/post/get-started/</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:43661/post/get-started/</guid>
+>>>>>>> error2:public/index.xml
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -129,33 +158,57 @@
     
     <item>
       <title>Pandas</title>
+<<<<<<< HEAD:index.xml
       <link>https://example.com/project/pandas/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/pandas/</guid>
+=======
+      <link>http://localhost:43661/project/pandas/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:43661/project/pandas/</guid>
+>>>>>>> error2:public/index.xml
       <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>PyTorch</title>
+<<<<<<< HEAD:index.xml
       <link>https://example.com/project/pytorch/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/pytorch/</guid>
+=======
+      <link>http://localhost:43661/project/pytorch/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:43661/project/pytorch/</guid>
+>>>>>>> error2:public/index.xml
       <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>scikit-learn</title>
+<<<<<<< HEAD:index.xml
       <link>https://example.com/project/scikit/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/scikit/</guid>
+=======
+      <link>http://localhost:43661/project/scikit/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:43661/project/scikit/</guid>
+>>>>>>> error2:public/index.xml
       <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>🧠 Sharpen your thinking with a second brain</title>
+<<<<<<< HEAD:index.xml
       <link>https://example.com/post/second-brain/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/second-brain/</guid>
+=======
+      <link>http://localhost:43661/post/second-brain/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:43661/post/second-brain/</guid>
+>>>>>>> error2:public/index.xml
       <description>&lt;p&gt;Create a personal knowledge base and share your knowledge with your peers.&lt;/p&gt;
 &lt;p&gt;Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.&lt;/p&gt;
 &lt;p&gt;Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.&lt;/p&gt;
@@ -257,9 +310,15 @@
     
     <item>
       <title>📈 Communicate your results effectively with the best data visualizations</title>
+<<<<<<< HEAD:index.xml
       <link>https://example.com/post/data-visualization/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/data-visualization/</guid>
+=======
+      <link>http://localhost:43661/post/data-visualization/</link>
+      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:43661/post/data-visualization/</guid>
+>>>>>>> error2:public/index.xml
       <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
 &lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
 &lt;h2 id=&#34;charts&#34;&gt;Charts&lt;/h2&gt;
@@ -270,11 +329,15 @@
 
 
 
+<<<<<<< HEAD:index.xml
 <<<<<<< HEAD:public/index.xml
 &lt;div id=&#34;chart-735468192&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 =======
 &lt;div id=&#34;chart-637194825&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 >>>>>>> fcce44ddf9aff708bcd70153f34acf12143421b0:index.xml
+=======
+&lt;div id=&#34;chart-561429738&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+>>>>>>> error2:public/index.xml
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -292,11 +355,15 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
+<<<<<<< HEAD:index.xml
 <<<<<<< HEAD:public/index.xml
         window.Plotly.newPlot(&#39;chart-735468192&#39;, chart.data, chart.layout, {responsive: true});
 =======
         window.Plotly.newPlot(&#39;chart-637194825&#39;, chart.data, chart.layout, {responsive: true});
 >>>>>>> fcce44ddf9aff708bcd70153f34acf12143421b0:index.xml
+=======
+        window.Plotly.newPlot(&#39;chart-561429738&#39;, chart.data, chart.layout, {responsive: true});
+>>>>>>> error2:public/index.xml
       });
     }, 500 );
   })();
@@ -471,9 +538,15 @@ Crash --&amp;gt; [*]
     
     <item>
       <title>👩🏼‍🏫 Teach academic courses</title>
+<<<<<<< HEAD:index.xml
       <link>https://example.com/post/teach-courses/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/teach-courses/</guid>
+=======
+      <link>http://localhost:43661/post/teach-courses/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:43661/post/teach-courses/</guid>
+>>>>>>> error2:public/index.xml
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -526,7 +599,11 @@ Crash --&amp;gt; [*]
 
 
 &lt;audio controls &gt;
+<<<<<<< HEAD:index.xml
   &lt;source src=&#34;https://example.com/post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+=======
+  &lt;source src=&#34;http://localhost:43661/post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+>>>>>>> error2:public/index.xml
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -587,17 +664,29 @@ data.head()
     
     <item>
       <title>Experience</title>
+<<<<<<< HEAD:index.xml
       <link>https://example.com/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/experience/</guid>
+=======
+      <link>http://localhost:43661/experience/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:43661/experience/</guid>
+>>>>>>> error2:public/index.xml
       <description></description>
     </item>
     
     <item>
       <title>Learn JavaScript</title>
+<<<<<<< HEAD:index.xml
       <link>https://example.com/teaching/js/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/teaching/js/</guid>
+=======
+      <link>http://localhost:43661/teaching/js/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:43661/teaching/js/</guid>
+>>>>>>> error2:public/index.xml
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -644,7 +733,11 @@ data.head()
 
 
 &lt;audio controls &gt;
+<<<<<<< HEAD:index.xml
   &lt;source src=&#34;https://example.com/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+=======
+  &lt;source src=&#34;http://localhost:43661/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+>>>>>>> error2:public/index.xml
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -721,9 +814,15 @@ data.head()
     
     <item>
       <title>Learn Python</title>
+<<<<<<< HEAD:index.xml
       <link>https://example.com/teaching/python/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/teaching/python/</guid>
+=======
+      <link>http://localhost:43661/teaching/python/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:43661/teaching/python/</guid>
+>>>>>>> error2:public/index.xml
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -770,7 +869,11 @@ data.head()
 
 
 &lt;audio controls &gt;
+<<<<<<< HEAD:index.xml
   &lt;source src=&#34;https://example.com/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+=======
+  &lt;source src=&#34;http://localhost:43661/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+>>>>>>> error2:public/index.xml
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -847,9 +950,15 @@ data.head()
     
     <item>
       <title>✅ Manage your projects</title>
+<<<<<<< HEAD:index.xml
       <link>https://example.com/post/project-management/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/project-management/</guid>
+=======
+      <link>http://localhost:43661/post/project-management/</link>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:43661/post/project-management/</guid>
+>>>>>>> error2:public/index.xml
       <description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
 &lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
 &lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;
@@ -922,10 +1031,17 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>An example preprint / working paper</title>
+<<<<<<< HEAD:index.xml
       <link>https://example.com/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/preprint/</guid>
       <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;https://example.com/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
+=======
+      <link>http://localhost:43661/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:43661/publication/preprint/</guid>
+      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;http://localhost:43661/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
+>>>>>>> error2:public/index.xml
 &lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -938,9 +1054,15 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>An example journal article</title>
+<<<<<<< HEAD:index.xml
       <link>https://example.com/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/journal-article/</guid>
+=======
+      <link>http://localhost:43661/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:43661/publication/journal-article/</guid>
+>>>>>>> error2:public/index.xml
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -959,9 +1081,15 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>An example conference paper</title>
+<<<<<<< HEAD:index.xml
       <link>https://example.com/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/conference-paper/</guid>
+=======
+      <link>http://localhost:43661/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:43661/publication/conference-paper/</guid>
+>>>>>>> error2:public/index.xml
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;

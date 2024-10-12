@@ -2,6 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo Blox | Hugo Academic CV Theme</title>
+<<<<<<< HEAD:tags/hugo-blox/index.xml
     <link>https://example.com/tags/hugo-blox/</link>
       <atom:link href="https://example.com/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo Blox</description>
@@ -10,13 +11,29 @@
       <url>https://example.com/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Hugo Blox</title>
       <link>https://example.com/tags/hugo-blox/</link>
+=======
+    <link>http://localhost:43661/tags/hugo-blox/</link>
+      <atom:link href="http://localhost:43661/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hugo Blox</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:43661/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Hugo Blox</title>
+      <link>http://localhost:43661/tags/hugo-blox/</link>
+>>>>>>> error2:public/tags/hugo-blox/index.xml
     </image>
     
     <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
+<<<<<<< HEAD:tags/hugo-blox/index.xml
       <link>https://example.com/post/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/get-started/</guid>
+=======
+      <link>http://localhost:43661/post/get-started/</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:43661/post/get-started/</guid>
+>>>>>>> error2:public/tags/hugo-blox/index.xml
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -100,9 +117,15 @@
     
     <item>
       <title>📈 Communicate your results effectively with the best data visualizations</title>
+<<<<<<< HEAD:tags/hugo-blox/index.xml
       <link>https://example.com/post/data-visualization/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/data-visualization/</guid>
+=======
+      <link>http://localhost:43661/post/data-visualization/</link>
+      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:43661/post/data-visualization/</guid>
+>>>>>>> error2:public/tags/hugo-blox/index.xml
       <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
 &lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
 &lt;h2 id=&#34;charts&#34;&gt;Charts&lt;/h2&gt;
@@ -114,6 +137,7 @@
 
 
 <<<<<<< HEAD:tags/hugo-blox/index.xml
+<<<<<<< HEAD:tags/hugo-blox/index.xml
 <<<<<<< HEAD:public/tags/hugo-blox/index.xml
 &lt;div id=&#34;chart-735468192&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 =======
@@ -122,6 +146,9 @@
 =======
 &lt;div id=&#34;chart-371592846&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 >>>>>>> error:public/tags/hugo-blox/index.xml
+=======
+&lt;div id=&#34;chart-561429738&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+>>>>>>> error2:public/tags/hugo-blox/index.xml
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -140,6 +167,7 @@
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
 <<<<<<< HEAD:tags/hugo-blox/index.xml
+<<<<<<< HEAD:tags/hugo-blox/index.xml
 <<<<<<< HEAD:public/tags/hugo-blox/index.xml
         window.Plotly.newPlot(&#39;chart-735468192&#39;, chart.data, chart.layout, {responsive: true});
 =======
@@ -148,6 +176,9 @@
 =======
         window.Plotly.newPlot(&#39;chart-371592846&#39;, chart.data, chart.layout, {responsive: true});
 >>>>>>> error:public/tags/hugo-blox/index.xml
+=======
+        window.Plotly.newPlot(&#39;chart-561429738&#39;, chart.data, chart.layout, {responsive: true});
+>>>>>>> error2:public/tags/hugo-blox/index.xml
       });
     }, 500 );
   })();
@@ -322,9 +353,15 @@ Crash --&amp;gt; [*]
     
     <item>
       <title>✅ Manage your projects</title>
+<<<<<<< HEAD:tags/hugo-blox/index.xml
       <link>https://example.com/post/project-management/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/project-management/</guid>
+=======
+      <link>http://localhost:43661/post/project-management/</link>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:43661/post/project-management/</guid>
+>>>>>>> error2:public/tags/hugo-blox/index.xml
       <description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
 &lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
 &lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;

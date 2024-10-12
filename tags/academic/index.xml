@@ -2,6 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic | Hugo Academic CV Theme</title>
+<<<<<<< HEAD:tags/academic/index.xml
     <link>https://example.com/tags/academic/</link>
       <atom:link href="https://example.com/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
@@ -10,13 +11,29 @@
       <url>https://example.com/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
       <link>https://example.com/tags/academic/</link>
+=======
+    <link>http://localhost:43661/tags/academic/</link>
+      <atom:link href="http://localhost:43661/tags/academic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:43661/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Academic</title>
+      <link>http://localhost:43661/tags/academic/</link>
+>>>>>>> error2:public/tags/academic/index.xml
     </image>
     
     <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
+<<<<<<< HEAD:tags/academic/index.xml
       <link>https://example.com/post/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/get-started/</guid>
+=======
+      <link>http://localhost:43661/post/get-started/</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:43661/post/get-started/</guid>
+>>>>>>> error2:public/tags/academic/index.xml
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
