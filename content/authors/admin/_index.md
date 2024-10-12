@@ -11,7 +11,7 @@ last_name: Yorojo Moreno
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🐟
 
 # Is this the primary user of the site?
 superuser: true
@@ -47,9 +47,9 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Acuicultura sostenible
+  - Análisis de datos (Rstudio)
+  - Conservación de especies acuáticas
 
 education:
   - area: PhD Artificial Intelligence
@@ -181,6 +181,12 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## Sobre mi
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Soy Licenciada en Biología y Química, y tengo un profundo interés en el desarrollo de prácticas sostenibles para la conservación y producción de peces nativos. Cuento con amplia experiencia en el manejo de éstas y otras especies de fauna acuática en cautiverio. Actualmente estoy cursando un doctorado en ciencias naturales, donde investigo sobre la acuicultura ecológica de especies nativas. 
+
+Estoy interesada en implementar una acuicultura que respete y considere el entorno ambiental y social, con el objetivo de optimizar el uso de los recursos naturales disponibles. Creo que es fundamental reconocer el papel de las mujeres en el desarrollo de la acuicultura, ya que su participación promueve la equidad, impulsa la transformación y contribuye a la creación de ecosistemas saludables.
+
+Utilizo la academia, la práctica, la experimentación y mi interés autodidacta como herramientas de aprendizaje para profundizar mi formación como profesional. 
+
+
