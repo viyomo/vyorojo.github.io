@@ -1193,11 +1193,15 @@
 
 
 
+<<<<<<< HEAD:post/data-visualization/index.html
 <<<<<<< HEAD:public/post/data-visualization/index.html
 <div id="chart-162573948" class="chart"></div>
 =======
 <div id="chart-685127394" class="chart"></div>
 >>>>>>> fcce44ddf9aff708bcd70153f34acf12143421b0:post/data-visualization/index.html
+=======
+<div id="chart-637825194" class="chart"></div>
+>>>>>>> error:public/post/data-visualization/index.html
 <script>
   async function fetchChartJSON() {
     console.debug('Hugo Blox fetching chart JSON...')
@@ -1215,11 +1219,15 @@
 
       fetchChartJSON().then(chart => {
         console.debug('Plotting chart...')
+<<<<<<< HEAD:post/data-visualization/index.html
 <<<<<<< HEAD:public/post/data-visualization/index.html
         window.Plotly.newPlot('chart-162573948', chart.data, chart.layout, {responsive: true});
 =======
         window.Plotly.newPlot('chart-685127394', chart.data, chart.layout, {responsive: true});
 >>>>>>> fcce44ddf9aff708bcd70153f34acf12143421b0:post/data-visualization/index.html
+=======
+        window.Plotly.newPlot('chart-637825194', chart.data, chart.layout, {responsive: true});
+>>>>>>> error:public/post/data-visualization/index.html
       });
     }, 500 );
   })();

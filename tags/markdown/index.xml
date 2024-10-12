@@ -241,11 +241,15 @@
 
 
 
+<<<<<<< HEAD:tags/markdown/index.xml
 <<<<<<< HEAD:public/tags/markdown/index.xml
 &lt;div id=&#34;chart-735468192&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 =======
 &lt;div id=&#34;chart-637194825&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 >>>>>>> fcce44ddf9aff708bcd70153f34acf12143421b0:tags/markdown/index.xml
+=======
+&lt;div id=&#34;chart-371592846&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+>>>>>>> error:public/tags/markdown/index.xml
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -263,11 +267,15 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
+<<<<<<< HEAD:tags/markdown/index.xml
 <<<<<<< HEAD:public/tags/markdown/index.xml
         window.Plotly.newPlot(&#39;chart-735468192&#39;, chart.data, chart.layout, {responsive: true});
 =======
         window.Plotly.newPlot(&#39;chart-637194825&#39;, chart.data, chart.layout, {responsive: true});
 >>>>>>> fcce44ddf9aff708bcd70153f34acf12143421b0:tags/markdown/index.xml
+=======
+        window.Plotly.newPlot(&#39;chart-371592846&#39;, chart.data, chart.layout, {responsive: true});
+>>>>>>> error:public/tags/markdown/index.xml
       });
     }, 500 );
   })();

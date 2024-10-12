@@ -592,7 +592,11 @@
       "Layer_1",
       "TableOfContents",
       "callouts",
+<<<<<<< HEAD
       "chart-162573948",
+=======
+      "chart-637825194",
+>>>>>>> error
       "charts",
       "code",
       "crowd-funded-open-source-software",
