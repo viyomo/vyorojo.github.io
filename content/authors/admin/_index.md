@@ -20,12 +20,16 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Candidata a Dra. en Ciencias Naturales, UNLP
+role: Candidata a Dra. en Ciencias Naturales
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
+  
+  - name: CONICET
+    url: https://www.conicet.gov.ar/new_scp/detalle.php?keywords=yorojo&id=63032&datos_academicos=yes
   - name: UNLP
-    url: https://www.fcnym.unlp.edu.ar/
+    url: https://www.fcnym.unlp.edu.ar/posgrado/doctorado/busqueda/?v=tesis&id=3002
+    
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -49,11 +53,11 @@ profiles:
 interests:
   - Acuicultura sostenible
   - Análisis de datos (Rstudio)
-  - Conservación de especies acuáticas
+  - Gestión y coordinación de equipos  
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: Lic.Biología y Química
+    institution: USC 
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -61,8 +65,8 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: Magister en Ecohidrología
+    institution: Universidad Nacional de La Plata
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -72,8 +76,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: Doctorado en Ciencias Naturales
+    institution: Universidad Nacional de La Plata
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -84,8 +88,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Coordinadora de acuarios
+    company_name: Zoo Cali
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
@@ -142,12 +146,10 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Inglés
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Castellano
+    percent: 0,5
 
 # Awards.
 #   Add/remove as many awards below as you like.
