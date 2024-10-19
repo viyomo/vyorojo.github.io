@@ -42,13 +42,16 @@ profiles:
   #- icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/viyomo
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/
+  - icon: brands/youtube
+    url: https://www.youtube.com/@MiradorAmbiental
+    
 
 interests:
   - Acuicultura sostenible

@@ -13,11 +13,11 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2024-08-13T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-08-13T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -25,16 +25,16 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['Poster']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: En *I Jornada Latinoamericanas una salud una acuicultura* Fac. de Ciencias Naturales Universidad de Buenos Aires 
+publication_short: #In *ICW*
 
 abstract: Tradicionalmente la acuicultura de esta especie se ha desarrollado mediante la obtención de embriones provenientes de reproductores mantenidos en condiciones de cría intensiva. Esta producción sostenida en el tiempo ha permitido desarrollar un sistema de provisión de huevos para incubación o siembra de larvas en diversos cuerpos de agua de la provincia y de otras en el país. No obstante, la alta demanda de ejemplares en muchos casos no logra ser satisfecha. El objetivo de este trabajo es presentar el desarrollo de una planta de producción de alevines modelo, de pequeña escala, establecida en el pesquero, de la cual se ha logrado obtener de manera sostenida embriones, larvas y juveniles.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: En este trabajo se presentó el desarrollo de una planta de producción de juveniles de una especie de pez nativa de agua dulce.
 
 tags:
-  - Large Language Models
+ # - Large Language Models
 
 # Display this page in the Featured widget?
 featured: true
@@ -56,7 +56,7 @@ url_video: 'https://www.youtube.com/watch?v=tEOv34sZcRs&t=32s'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'marioC: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ''
   preview_only: false
 
