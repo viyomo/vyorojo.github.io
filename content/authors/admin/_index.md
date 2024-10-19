@@ -50,7 +50,7 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/
   - icon: brands/youtube
-    url: https://www.youtube.com/@MiradorAmbiental
+    url: https://www.youtube.com/@vyorojo
     
 
 interests:
