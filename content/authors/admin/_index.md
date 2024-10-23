@@ -188,7 +188,7 @@ awards:
 
 ## Sobre mi
 
-Soy Licenciada en Biología y Química, y tengo un profundo interés en el desarrollo de prácticas sostenibles para la conservación y producción de peces nativos. Cuento con amplia experiencia en el manejo de éstas y otras especies de fauna acuática en cautiverio. Actualmente estoy cursando un doctorado en ciencias naturales, donde investigo sobre la acuicultura ecológica de especies nativas. 
+Soy Licenciada en Biología y Química, y tengo un profundo interés en el desarrollo de prácticas sostenibles para la conservación y producción de peces nativos. Cuento con amplia experiencia en el manejo de éstas y otros organismos acuáticos en cautiverio. Actualmente estoy cursando un doctorado en ciencias naturales, donde investigo sobre la acuicultura ecológica de especies nativas. 
 
 Estoy interesada en implementar una acuicultura que respete y considere el entorno ambiental y social, con el objetivo de optimizar el uso de los recursos naturales disponibles. Creo que es fundamental reconocer el papel de las mujeres en el desarrollo de la acuicultura, ya que su participación promueve la equidad, impulsa la transformación y contribuye a la creación de ecosistemas saludables.
 

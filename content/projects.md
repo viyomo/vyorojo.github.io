@@ -11,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Selección de Proyectos
+      text: Disfruto lo que hago, aquí te comparto algunos de los proyectos más interesantes en los que he podido participar.
       filters:
         folders:
           - project
