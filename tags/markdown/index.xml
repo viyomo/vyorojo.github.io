@@ -99,14 +99,6 @@
     </item>
     
     <item>
-      <title>Pandas</title>
-      <link>https://example.com/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>PyTorch</title>
       <link>https://example.com/project/pytorch/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
@@ -241,7 +233,7 @@
 
 
 
-&lt;div id=&#34;chart-368421759&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-285437196&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -259,7 +251,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-368421759&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-285437196&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -621,6 +613,22 @@ Parallel 4   :         des6, after des4, 1d
 &lt;/ul&gt;
 &lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Acuarios como herramientas de educación ambiental</title>
+      <link>https://example.com/project/acuarios-tematicos/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/acuarios-tematicos/</guid>
+      <description>&lt;p&gt;Acuarios representando distintos ambientes acuáticos para el aprendizaje de los ecosistemas y su conservación.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Acuarios como herramientas de educación ambiental</title>
+      <link>https://example.com/project/pandas/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/pandas/</guid>
+      <description>&lt;p&gt;Acuarios representando distintos ambientes acuáticos para el aprendizaje de los ecosistemas y su conservación.&lt;/p&gt;</description>
     </item>
     
   </channel>
