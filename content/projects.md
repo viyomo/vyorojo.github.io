@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Selección de Proyectos
-      text: Disfruto lo que hago, aquí te comparto algunos de los proyectos más interesantes en los que he podido participar.
+      text: Yo realmente disfruto lo que hago, aquí te comparto algunos interesantes proyectos en los que he participado.
       filters:
         folders:
           - project

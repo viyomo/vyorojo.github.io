@@ -1,12 +1,12 @@
 ---
-title: Acuarios como herramientas de educación ambiental
-date: 2011-07-01
+title: Especies con potencial ornamental
+date: 2010-10-20
 external_link: https://github.com/pandas-dev/pandas
 tags:
-  - Educación
+  - Manejo
   - Acuarios
   - Markdown
 ---
 
-Acuarios representando distintos ambientes acuáticos para el aprendizaje de los ecosistemas y su conservación. 
+Optimización del manejo en cautiverio de dos especies con potencial ornamental de la cuenca Cauca-Magdalena.
 <!--more-->

@@ -1,5 +1,5 @@
 ---
-title: Acuarios como herramientas de educación ambiental
+title: Acuarios, herramientas de educación ambiental
 date: 2011-07-01
 external_link: https://github.com/pandas-dev/pandas
 tags:
@@ -8,5 +8,5 @@ tags:
   - Markdown
 ---
 
-Acuarios representando distintos ambientes acuáticos para el aprendizaje de los ecosistemas y su conservación. 
+Representación de ambientes acuáticos a través de acuarios, para el aprendizaje de los ecosistemas y su conservación. 
 <!--more-->
