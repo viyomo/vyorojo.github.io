@@ -13,19 +13,11 @@
     </image>
     
     <item>
-      <title>Acuarios como herramientas de educación ambiental</title>
+      <title>Acuarios, herramientas de educación ambiental</title>
       <link>https://example.com/project/acuarios-tematicos/</link>
       <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/acuarios-tematicos/</guid>
-      <description>&lt;p&gt;Acuarios representando distintos ambientes acuáticos para el aprendizaje de los ecosistemas y su conservación.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Acuarios como herramientas de educación ambiental</title>
-      <link>https://example.com/project/pandas/</link>
-      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/pandas/</guid>
-      <description>&lt;p&gt;Acuarios representando distintos ambientes acuáticos para el aprendizaje de los ecosistemas y su conservación.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Representación de ambientes acuáticos a través de acuarios, para el aprendizaje de los ecosistemas y su conservación.&lt;/p&gt;</description>
     </item>
     
   </channel>

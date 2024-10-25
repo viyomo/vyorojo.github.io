@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>False | Hugo Academic CV Theme</title>
+    <link>http://localhost:37575/tags/false/</link>
+      <atom:link href="http://localhost:37575/tags/false/index.xml" rel="self" type="application/rss+xml" />
+    <description>False</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es-ES</language><lastBuildDate>Fri, 01 Jul 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:37575/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>False</title>
+      <link>http://localhost:37575/tags/false/</link>
+    </image>
+    
+    <item>
+      <title>Especies con potencial ornamental</title>
+      <link>http://localhost:37575/project/pandas/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:37575/project/pandas/</guid>
+      <description>&lt;p&gt;Optimización del manejo en cautiverio de dos especies con potencial ornamental de la cuenca Cauca-Magdalena.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

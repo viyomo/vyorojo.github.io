@@ -166,12 +166,16 @@
     <lastmod>2011-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/project/pandas/</loc>
+    <loc>https://example.com/tags/educacion/</loc>
     <lastmod>2011-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tags/educacion/</loc>
-    <lastmod>2011-07-01T00:00:00+00:00</lastmod>
+    <loc>https://example.com/project/pandas/</loc>
+    <lastmod>2010-10-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/manejo/</loc>
+    <lastmod>2010-10-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

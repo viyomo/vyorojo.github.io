@@ -278,7 +278,7 @@
 
 
 
-&lt;div id=&#34;chart-285437196&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-183249567&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -296,7 +296,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-285437196&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-183249567&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1016,19 +1016,19 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
-      <title>Acuarios como herramientas de educación ambiental</title>
+      <title>Acuarios, herramientas de educación ambiental</title>
       <link>https://example.com/project/acuarios-tematicos/</link>
       <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/acuarios-tematicos/</guid>
-      <description>&lt;p&gt;Acuarios representando distintos ambientes acuáticos para el aprendizaje de los ecosistemas y su conservación.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Representación de ambientes acuáticos a través de acuarios, para el aprendizaje de los ecosistemas y su conservación.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Acuarios como herramientas de educación ambiental</title>
+      <title>Especies con potencial ornamental</title>
       <link>https://example.com/project/pandas/</link>
-      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Oct 2010 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/pandas/</guid>
-      <description>&lt;p&gt;Acuarios representando distintos ambientes acuáticos para el aprendizaje de los ecosistemas y su conservación.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Optimización del manejo en cautiverio de dos especies con potencial ornamental de la cuenca Cauca-Magdalena.&lt;/p&gt;</description>
     </item>
     
   </channel>
