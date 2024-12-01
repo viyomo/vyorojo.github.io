@@ -43,11 +43,11 @@ profiles:
     url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/viyomo
-  - icon: brands/linkedin
+  #- icon: brands/linkedin
     url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
+  #- icon: academicons/google-scholar
     url: https://scholar.google.com/
-  - icon: academicons/orcid
+  #- icon: academicons/orcid
     url: https://orcid.org/
   - icon: brands/youtube
     url: https://www.youtube.com/@vyorojo
@@ -60,60 +60,71 @@ interests:
 
 education:
   - area: Lic.Biología y Química
-    institution: USC 
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    institution: Universidad Santiago de Cali (USC). Colombia
+    #date_start: 2016-01-01
+    date_end: 2003-11-25
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Elaboración de un documento educativo en formato cómic, para el abordaje de una problemática específica dentro de un ecosistema social, como colegios de secundaria. El tema tratado fue la presencia de una infección fúngica llamada "pie de atleta" en adolescentes que realizaban actividades deportivas. El enfoque era la puesta en practica de una investigación social donde se realizó consultas bibliográficas, entrevistas, analisis de información. Los resultados incluyeron la creación del cómic, la presentación del documento a los estudiantes, así como la realización de charlas educativas en distintos colegios de secundaria.  
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
   - area: Magister en Ecohidrología
-    institution: Universidad Nacional de La Plata
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    institution: Universidad Nacional de La Plata. Argentina
+    #date_start: 2016-01-01
+    date_end: 2022-09-22
     summary: |
-      GPA: 3.8/4.0
+     GPA: 9.0/10.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Algunos cursos incluidos:
+      - Fundamentos de hidrología de superficie
+      - Fundamentos de hidrología subterránea
+      - Química ambiental
   - area: Doctorado en Ciencias Naturales
-    institution: Universidad Nacional de La Plata
-    date_start: 2016-01-01
+    institution: Universidad Nacional de La Plata. Argentina
+    #date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
       GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Algunos cursos incluidos:
+      - Ictiología
+      - Diplomatura bioestadística básica aplicada, mediada con software R
+      - Modelos lineales generales, aplicados mediante el software R
 work:
-  - position: Coordinadora de acuarios
-    company_name: Zoo Cali
-    company_url: ''
+  - position: Profesional Adjunto. Miembro de la carrera de personal de apoyo a la investigación y desarrollo. 
+    company_name: Instituto de Limnología Dr. Raúl A. Ringuelet. CONICET
+    company_url: 'https://www.conicet.gov.ar/new_scp/detalle.php?id=63032&datos_academicos=yes&keywords='
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2022-01-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      Algunas actividades incluyen:
+      - Contribuir con el desarrollo de la acuicultura ecológica del pejerrey (Odontesthes bonariensis) en jaulas flotantes en las lagunas pampásicas. 
+      - Brindar apoyo logístico en las tareas de campo.
+      - Procesamiento de muestras de peces y zooplancton 
+  - position: Coordinadora de la exhibición Acuario
+    company_name: Zoológico de Cali
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2001-11-01
+    date_end: 2011-04-08
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+      Algunas actividades incluían:
+      - Responsable de la colección de organismos (peces e invertebrados) marinos y de agua dulce de acuarios y lagos.
+      - Responsable de LSS (Aquarium Life Support System) de ambas colecciones. 
+      - Brindar charlas a visitantes (colegios, universidades, otros) sobre el acuario y la colección de organismos vivos.
+      - Participación en la publicación "El zooletin" (gaceta informativa sobre diversas actividades del parque como nacimientos, proyectos, manejo de la coleccion, entre otros) con la descripcíon biológica y ecológica del oganismo acuático protagonista de la publicación. 
+  - position: Asistente Clínica Veterinaria
+    company_name: Zoológico de Cali
+    company_url: ''
+    company_logo: ''
+    date_start: 1995-08-16
+    date_end: 2001-11-08
+    summary: |
+      Algunas actividades incluían:
+      - Responsble del cuidado general (preparación de dietas, alimentación,  mantenimiento, monitoreo de medidas y peso, entre otras) de especies silvestres como mamiferos, aves, reptiles.
+      - Cría de especies silvestres (bebes, polluelos) nacidos en cautiverio. 
+      - Manejo del programa ARKS (Animal Record Keeping System)
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -188,10 +199,8 @@ awards:
 
 ## Sobre mi
 
-Soy Licenciada en Biología y Química, y tengo un profundo interés en el desarrollo de prácticas sostenibles para la conservación y producción de peces nativos. Cuento con amplia experiencia en el manejo de éstas y otros organismos acuáticos en cautiverio. Actualmente estoy cursando un doctorado en ciencias naturales, donde investigo sobre la acuicultura ecológica de especies nativas. 
+Tengo un profundo interés en el desarrollo de prácticas sostenibles para la conservación y producción de peces nativos. Cuento con amplia experiencia en el manejo de éstas y otros organismos acuáticos en cautiverio. Estoy interesada en implementar una acuicultura que respete y considere el entorno ambiental y social, con el objetivo de optimizar el uso de los recursos naturales disponibles. Para lograr esto, creo que es fundamental reconocer el papel de las mujeres en el desarrollo y practica de la acuicultura, ya que su participación promueve la equidad, impulsa la transformación y contribuye a la creación de ecosistemas saludables. 
 
-Estoy interesada en implementar una acuicultura que respete y considere el entorno ambiental y social, con el objetivo de optimizar el uso de los recursos naturales disponibles. Creo que es fundamental reconocer el papel de las mujeres en el desarrollo de la acuicultura, ya que su participación promueve la equidad, impulsa la transformación y contribuye a la creación de ecosistemas saludables.
-
-Utilizo la academia, la práctica, la experimentación y mi interés autodidacta como herramientas de aprendizaje para profundizar mi formación como profesional. 
+Utilizo la academia, la práctica, la experimentación y mi interés autodidacta como herramientas de aprendizaje para profundizar mi formación como profesional. Cuento con una Lic.en Biología y Química, como también soy magister en ecohidrología y curso actualmente un doctorado en ciencias naturales, donde investigo sobre la acuicultura ecológica de una especie nativa. 
 
 
