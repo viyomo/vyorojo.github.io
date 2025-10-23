@@ -2,143 +2,143 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:42959/event/example/</loc>
+    <loc>https://example.com/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:42959/event/</loc>
+    <loc>https://example.com/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:42959/publication/acuicultura-de-pequena-escala/</loc>
+    <loc>https://example.com/publication/acuicultura-de-pequena-escala/</loc>
     <lastmod>2024-08-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:42959/publication_types/poster/</loc>
+    <loc>https://example.com/publication_types/poster/</loc>
     <lastmod>2024-08-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:42959/publication_types/</loc>
+    <loc>https://example.com/publication_types/</loc>
     <lastmod>2024-08-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:42959/publication/</loc>
+    <loc>https://example.com/publication/</loc>
     <lastmod>2024-08-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:42959/projects/</loc>
+    <loc>https://example.com/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:42959/post/get-started/</loc>
+    <loc>https://example.com/post/get-started/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:42959/tags/academic/</loc>
+    <loc>https://example.com/tags/academic/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:42959/post/</loc>
+    <loc>https://example.com/post/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:42959/tags/hugo-blox/</loc>
+    <loc>https://example.com/tags/hugo-blox/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:42959/tags/markdown/</loc>
+    <loc>https://example.com/tags/markdown/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:42959/tags/</loc>
+    <loc>https://example.com/tags/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:42959/post/data-visualization/</loc>
+    <loc>https://example.com/post/data-visualization/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:42959/tags/hugo/</loc>
+    <loc>https://example.com/tags/hugo/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:42959/experience/</loc>
+    <loc>https://example.com/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:42959/tags/javascript/</loc>
+    <loc>https://example.com/tags/javascript/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:42959/teaching/js/</loc>
+    <loc>https://example.com/teaching/js/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:42959/teaching/python/</loc>
+    <loc>https://example.com/teaching/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:42959/tags/python/</loc>
+    <loc>https://example.com/tags/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:42959/teaching/</loc>
+    <loc>https://example.com/teaching/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:42959/post/project-management/</loc>
+    <loc>https://example.com/post/project-management/</loc>
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:42959/</loc>
+    <loc>https://example.com/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:42959/publication_types/article-journal/</loc>
+    <loc>https://example.com/publication_types/article-journal/</loc>
     <lastmod>2021-05-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:42959/tags/source-themes/</loc>
+    <loc>https://example.com/tags/source-themes/</loc>
     <lastmod>2021-05-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:42959/publication/the-performance-of-ecological/</loc>
+    <loc>https://example.com/publication/the-performance-of-ecological/</loc>
     <lastmod>2021-05-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:42959/publication/preprint/</loc>
+    <loc>https://example.com/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:42959/publication_types/article/</loc>
+    <loc>https://example.com/publication_types/article/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:42959/publication/habitos-alimentarios_poster/</loc>
+    <loc>https://example.com/publication/habitos-alimentarios_poster/</loc>
     <lastmod>2015-11-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:42959/publication/habitos-alimentarios/</loc>
+    <loc>https://example.com/publication/habitos-alimentarios/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:42959/publication/la-acuicultura_ecologica_a/</loc>
+    <loc>https://example.com/publication/la-acuicultura_ecologica_a/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:42959/tags/acuarios/</loc>
+    <loc>https://example.com/tags/acuarios/</loc>
     <lastmod>2011-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:42959/project/acuarios-tematicos/</loc>
+    <loc>https://example.com/project/acuarios-tematicos/</loc>
     <lastmod>2011-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:42959/tags/educacion/</loc>
+    <loc>https://example.com/tags/educacion/</loc>
     <lastmod>2011-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:42959/project/</loc>
+    <loc>https://example.com/project/</loc>
     <lastmod>2011-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
