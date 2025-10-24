@@ -30,6 +30,7 @@ sections:
           size: cover
           position: center
           parallax: false
+          
   # - block: markdown
   #   content:
   #     title: '📚 My Research'
@@ -45,7 +46,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Publicaciones destacadas
+      title: #Publicaciones destacadas
       filters:
         folders:
           - publication
@@ -66,7 +67,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Charlas recientes #Recent & Upcoming Talks
       filters:
         folders:
           - event

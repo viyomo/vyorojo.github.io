@@ -128,16 +128,16 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Habilidades Técnicas
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
+      - name: Análisis de datos con R y RStudio
+        description: Modelos lineales, visualización y estadística aplicada
+        percent: 100
+        icon: brands/r-project
+      - name: Manejo de Sistemas de Soporte Vital (LSS) en Acuarios
         description: ''
         percent: 100
-        icon: chart-bar
+        icon: droplet
       - name: SQL
         description: ''
         percent: 40

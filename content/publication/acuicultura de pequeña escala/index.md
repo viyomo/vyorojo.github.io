@@ -4,6 +4,7 @@ authors:
 - Vivian Yorojo Moreno
 date: "2024-08-15T00:00:00Z"
 doi: ""
+draft: true #añade esto para que esta secciòn no aparezca en la pagina web
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-08-15T00:00:00Z"

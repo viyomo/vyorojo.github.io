@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Educación | Hugo Academic CV Theme</title>
-    <link>https://example.com/tags/educacion/</link>
-      <atom:link href="https://example.com/tags/educacion/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/educacion/</link>
+      <atom:link href="http://localhost:1313/tags/educacion/index.xml" rel="self" type="application/rss+xml" />
     <description>Educación</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es-ES</language><lastBuildDate>Fri, 01 Jul 2011 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Educación</title>
-      <link>https://example.com/tags/educacion/</link>
+      <link>http://localhost:1313/tags/educacion/</link>
     </image>
     
     <item>
       <title>Acuarios, herramientas de educación ambiental</title>
-      <link>https://example.com/project/acuarios-tematicos/</link>
+      <link>http://localhost:1313/project/acuarios-tematicos/</link>
       <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/acuarios-tematicos/</guid>
+      <guid>http://localhost:1313/project/acuarios-tematicos/</guid>
       <description>&lt;p&gt;Representación de ambientes acuáticos a través de acuarios, para el aprendizaje de los ecosistemas y su conservación.&lt;/p&gt;</description>
     </item>
     
