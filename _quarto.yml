@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "vivian yorojo moreno"
+  title: "VIVIAN YOROJO MORENO"
   navbar:
     right:
       - href: index.qmd
