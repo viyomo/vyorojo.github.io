@@ -1,0 +1,35 @@
+{
+  "about.qmd": {
+    "about.html": "eda7933e"
+  },
+  "index.qmd": {
+    "index.html": "3bd84897"
+  },
+  "publicaciones.qmd": {
+    "publicaciones.html": "7dadd995"
+  },
+  "proyectos.qmd": {
+    "proyectos.html": "24651e7c"
+  },
+  "proyectos/proyectos.qmd": {
+    "proyectos.html": "9dc88e8e"
+  },
+  "publicaciones/publicaciones.qmd": {
+    "publicaciones.html": "1cbdd79d"
+  },
+  "proyectos/index.qmd": {
+    "index.html": "a041e762"
+  },
+  "publicaciones/index.qmd": {
+    "index.html": "92c6194a"
+  },
+  "blog.qmd": {
+    "blog.html": "e373fa0f"
+  },
+  "posts/2025-10-prueba/index.qmd": {
+    "index.html": "a5113a16"
+  },
+  "posts/2025-10-prueba2/index.qmd": {
+    "index.html": "79b3a55a"
+  }
+}
