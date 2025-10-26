@@ -10,36 +10,34 @@ Haz clic en "[PDF]" para descargar.
 
 ### 2024
 
-- Johnsona, L. K., Mahoney, M. J., Domke, G. M., and Beier, C. M. In Review. New allometric models for the USA create a step-change in forest carbon estimation, modeling, and mapping. In review at *Remote Sensing of Environment*. [Enlace](https://arxiv.org/abs/2405.04507) [[PDF]](https://arxiv.org/pdf/2405.04507)
+
+
+
+- Ailen SOLANAS, **Vivian YOROJO MORENO**, Javier GARCIA DE SOUZA, Ignacio GARCIA, Silvia PLAUL y Darío COLAUTTI. 2024. Acuicultura de pejerrey (Odontesthes bonariensis) en jaulas flotantes para el aprovechamiento de cavas: evaluación del bombeo de agua como potenciador del cultivo. En libro de resúmenes XII Congreso de Ecología y Manejo de Ecosistemas Acuáticos Pampeanos. [Enlace](https://iimyc.gob.ar/emeap2024/wp-content/uploads/2024/10/Libro-de-Resumenes-XII-EMEAP-2024.pdf).   
+
+- Tomás MAIZTEGUI, Eliana D. AGRELO, **Vivian YOROJO MORENO** y Darío C.COLAUTTI. 2024. En libro de resúmenes XII Congreso de Ecología y Manejo de Ecosistemas Acuáticos Pampeanos. [Enlace](https://iimyc.gob.ar/emeap2024/wp-content/uploads/2024/10/Libro-de-Resumenes-XII-EMEAP-2024.pdf).
+
+
 
 ### 2023
 
-- Mahoney, M. J. Preprint. waywiser: Ergonomic methods for assessing spatial models. [Enlace](https://arxiv.org/abs/2303.11312) [[PDF]](https://arxiv.org/pdf/2303.11312)
+- Di Cunzolo, S.; Negri, I.; Solanas, A.; Vojkovic, M.; Garcia de Souza J.;**Yorojo, V.**; Fajardo, L.; Alvarez, M. F.2024. Dinámica del zooplancton en una laguna pampeana en relación al grdo de conectividad hidrica con el Río Salado (BS. AS.).2024. En libro de resúmenes del IV Congreso Iberoamericano de Limnología y X Congreso Argentino de Limnologías. 
 
-- Mahoney, M. J., Johnson, L. K., Silge, J., Frick, H., Kuhn, M., and Beier, C. M. Preprint. Assessing the performance of spatial cross-validation approaches for models of spatially structured data. [Enlace](https://arxiv.org/abs/2303.07334) [[PDF]](https://arxiv.org/pdf/2303.07334)
+- Solanas, A.; Vojkovic, M.; Garcia de Souza, J.R.; Benítez, H.H.; **Yorojo, V.**; Maroñas, M.; Plaul, S. E.; Alvarez, M.F.; Colautti, D.C. 2023. Aprovechamiento de pasivos ambientales mediante la acuicultura ecológica de  pejerrey (Odontesthes bonariensis): el caso de una cava de Samborombón (BS. AS.). En libro de resúmenes del IV Congreso Iberoamericano de Limnología y X Congreso Argentino de Limnología. 
 
-- Johnson, L. K., Mahoney, M. J., Desrochers, M. L., and Beier, C. M. 2023. Mapping historical forest biomass for stock-change assessments at parcel to landscape scales. *Forest Ecology and Management*, 546, 121348. [Enlace](https://doi.org/10.1016/j.foreco.2023.121348) [[PDF]](historical_agb_2023.pdf)
 
-- Mahoney, M. J., Johnson, L. K., and Beier, C. M. 2023. AI for shrubland identification and mapping. In Sun Z, Cristea N, Rivas P (eds.), *Artificial Intelligence in Earth Science*, 295-316. Elsevier. ISBN 978-0-323-91737-7. [Enlace](https://doi.org/10.1016/B978-0-323-91737-7.00010-4) [[PDF]](shrub_book_2023.pdf)
+- Negri, I.; Di Cunzolo, S.; Solanas, A.; Vojkovic, M.; Paredes del Puerto, J.M. ; Maiztegui, T.; **Yorojo, V.**; Alvarez, M. F.; García, I.; Paracampo, A.; Fajardo, L.; Colautti, D.C.; Garcia de Souza J. ¿Cómo afecta la conectividad hídrica a los ensambles de peces pampeanos? un ejemplo desde la laguna San Lorenzo (BS. AS.). 2023. En libro de resúmenes del IV Congreso Iberoamericano de Limnología y X Congreso Argentino de Limnología. 
 
-### 2022
 
-- Mahoney, M. J., Johnson, L. K., Guinan, A. Z., and Beier, C. M. 2022. Classification and mapping of low‑statured ’shrubland’ cover types in post‑agricultural landscapes of the US Northeast. *The International Journal of Remote Sensing*, 43(19‑24), 7117‑7138. [Enlace](https://doi.org/10.1080/01431161.2022.2155086) [[PDF]](shrubland_pub_2022.pdf)
+### 2022 
 
-- Johnson, L. K., Mahoney, M. J., Bevilacqua, E., Stehman, S. V., Domke, G. M., and Beier, C. M. 2022. Fine-resolution landscape-scale biomass mapping using a spatiotemporal patchwork of LiDAR coverages. *International Journal of Applied Earth Observation and Geoinformation* 114: 103059. [Enlace](https://doi.org/10.1016/j.jag.2022.103059) [[PDF]](lidar_agb_2022.pdf)
+- **Yorojo Moreno, V.**; Garcia de Souza, J.R.; Paredes del Puerto, J.M; Sathicq, M.B.; Maroñas, M.E.; Donadelli, J.; Plaul, S.E.; Gómez, N.; Colautti, D.C. 2022. Crecimiento y dieta de pejerrey (Odontesthes bonariensis) criado en jaulas flotantes: en la busqueda de herramientas para optimizar su larvicultura. En libro de resúmenes 7mo Simposio Argentino de Ictiología. [[PDF]](http://rid.unrn.edu.ar:8080/bitstream/20.500.12049/10868/1/Libro%20de%20Abstracts%20%282%29.pdf)
 
-- Mahoney, M. J., Johnson, L. K., Bevilacqua, E., and Beier, C. M. 2022. Ground noise filtering produces inferior models of forest aboveground biomass. *GIScience and Remote Sensing* 59(1): 1266-1280. [Enlace](https://doi.org/10.1080/15481603.2022.2103069) [[PDF]](groundfiltering_2022.pdf)
-
-- Mahoney, M. J., Beier, CM, and Ackerman, AC. 2022. unifir: A Unifying API for Interacting with Unity from R. *Journal of Open Source Software* 7(73): 4388. [Enlace](https://doi.org/10.21105/joss.04388) [[PDF]](unifir_2022.pdf)
-
-- Tamiminia, H., Salehi, B., Mahdianpari, M., Beier, C. M., Johnson, L. K., Phoenix, D. B., and Mahoney, M. J. 2022. Decision tree-based machine learning models for above-ground biomass estimation using multi-source remote sensing data and object-based image analysis. *Geocarto International*. [Enlace](https://doi.org/10.1080/10106049.2022.2071475)
-
-- Mahoney, M. J., Beier, CM, and Ackerman, AC. 2022. terrainr: An R package for creating immersive virtual environments. *Journal of Open Source Software* 7(69): 4060. [Enlace](https://doi.org/10.21105/joss.04060) [[PDF]](terrainr_2022.pdf)
 
 ### 2021
 
 - Mahoney, M. J., Beier, CM, and Ackerman, AC. 2021. Interactive landscape simulations for visual resource assessment. *VRSC 2021 Conference Proceedings*. [[PDF]](vrs_2021.pdf)
 
-### 2020
+### 2017
 
-- Mahoney, M. J., and Stella, JC. 2020. Stem size selectivity is stronger than species preferences for beaver, a central place forager. *Forest Ecology and Management* 475: 118331. [Enlace](https://doi.org/10.1016/j.foreco.2020.118331) [[PDF]](mahoney_stella_2020.pdf)
+- **Yorojo Moreno, V.**, García, I., Maroñas, M. E., & Colautti, D. C. (2017). Hábitos alimentarios de Gymnogeophagus meridionalis (Osteichthyes, Cichlidae) en un arroyo urbano. Revista del Museo Argentino de Ciencias Naturales, 19(2), 93-100.[Enlace](https://revista.macn.gob.ar/index.php/RevMus/article/view/506/468)
