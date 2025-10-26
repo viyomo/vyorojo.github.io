@@ -48,7 +48,7 @@ Utilizo la academia, la práctica, la experimentación y mi interés autodidacta
 #### Dominio Experto en Acuicultura, Ictiología y Gestión de Ecosistemas Acuáticos
 
 - **Manejo Ex Situ de Colecciones Acuáticas:** Coordinación integral de colecciones de peces e invertebrados (agua dulce y marinos) en entornos de exhibición y cuarentena, basado en protocolos de conservación.
-- **Control Fisicoquímico Avanzado:** Monitoreo de parámetros de calidad de agua utilizando Espectrofotometría (ej. HACH DR 2500) para asegurar la salud de los organismos.
+- **Control Fisicoquímico Avanzado:** Monitoreo de parámetros de calidad de agua utilizando espectrofotometría y técnicas electroquímicas.
 - **Investigación Aplicada:** Diseño e implementación de sistemas de acuicultura ecológica de especies nativas (ej. pejerrey en jaulas flotantes) y elaboración de protocolos de manejo.
 
 #### Liderazgo, Gestión de Proyectos y Transferencia Tecnológica
