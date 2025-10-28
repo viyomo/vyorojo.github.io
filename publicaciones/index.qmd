@@ -6,38 +6,51 @@ format: html
 ---
 
 
-Haz clic en "[PDF]" para descargar. 
+Clic en "[PDF]" para descargar. 
+
+
+### 2025
+
+- Darío Colautti. Javier Garcia de Souza. **YOROJO MORENO, Vivian**. Ailen Solanas. Ignacio Garcia. Silvia Plaul. Miriam Maroñas. Eliana Agrelo,. Milagros Gomez. 2025. Proyecto producción de juveniles en la laguna Chis chis. Informe Técnico.  
+
+- Bartha Zulian, Luciano Joaquín. Carnicero Agustín. Colautti Darío. Fajardo Luisa. Llompart Facundo. Servin Ana Cecilia. Veiga Valentina. *YOROJO MORENO, Vivian**. 2025. Relevamiento ambiental e ictiológico de la laguna Chis-Chis (Lezama, Buenos Aires). Informe Técnico.
+
 
 ### 2024
 
+- Ailen SOLANAS, **Vivian YOROJO MORENO**, Javier GARCIA DE SOUZA, Ignacio GARCIA, Silvia PLAUL y Darío COLAUTTI. 2024. Acuicultura de pejerrey (Odontesthes bonariensis) en jaulas flotantes para el aprovechamiento de cavas: evaluación del bombeo de agua como potenciador del cultivo. En libro de resúmenes XII Congreso de Ecología y Manejo de Ecosistemas Acuáticos Pampeanos. [PDF](https://iimyc.gob.ar/emeap2024/wp-content/uploads/2024/10/Libro-de-Resumenes-XII-EMEAP-2024.pdf).   
 
-
-
-- Ailen SOLANAS, **Vivian YOROJO MORENO**, Javier GARCIA DE SOUZA, Ignacio GARCIA, Silvia PLAUL y Darío COLAUTTI. 2024. Acuicultura de pejerrey (Odontesthes bonariensis) en jaulas flotantes para el aprovechamiento de cavas: evaluación del bombeo de agua como potenciador del cultivo. En libro de resúmenes XII Congreso de Ecología y Manejo de Ecosistemas Acuáticos Pampeanos. [Enlace](https://iimyc.gob.ar/emeap2024/wp-content/uploads/2024/10/Libro-de-Resumenes-XII-EMEAP-2024.pdf).   
-
-- Tomás MAIZTEGUI, Eliana D. AGRELO, **Vivian YOROJO MORENO** y Darío C.COLAUTTI. 2024. En libro de resúmenes XII Congreso de Ecología y Manejo de Ecosistemas Acuáticos Pampeanos. [Enlace](https://iimyc.gob.ar/emeap2024/wp-content/uploads/2024/10/Libro-de-Resumenes-XII-EMEAP-2024.pdf).
+- Tomás MAIZTEGUI, Eliana D. AGRELO, **Vivian YOROJO MORENO** y Darío C.COLAUTTI. 2024. En libro de resúmenes XII Congreso de Ecología y Manejo de Ecosistemas Acuáticos Pampeanos. [PDF](https://iimyc.gob.ar/emeap2024/wp-content/uploads/2024/10/Libro-de-Resumenes-XII-EMEAP-2024.pdf).
 
 
 
 ### 2023
 
-- Di Cunzolo, S.; Negri, I.; Solanas, A.; Vojkovic, M.; Garcia de Souza J.;**Yorojo, V.**; Fajardo, L.; Alvarez, M. F.2024. Dinámica del zooplancton en una laguna pampeana en relación al grdo de conectividad hidrica con el Río Salado (BS. AS.).2024. En libro de resúmenes del IV Congreso Iberoamericano de Limnología y X Congreso Argentino de Limnologías. 
+- Di Cunzolo, S.; Negri, I.; Solanas, A.; Vojkovic, M.; Garcia de Souza J.;**Yorojo, V.**; Fajardo, L.; Alvarez, M. F.2024. Dinámica del zooplancton en una laguna pampeana en relación al grdo de conectividad hidrica con el Río Salado (BS. AS.).2024. En libro de resúmenes del IV Congreso Iberoamericano de Limnología y X Congreso Argentino de Limnologías.[Enlace](https://limnoar.org/)
 
-- Solanas, A.; Vojkovic, M.; Garcia de Souza, J.R.; Benítez, H.H.; **Yorojo, V.**; Maroñas, M.; Plaul, S. E.; Alvarez, M.F.; Colautti, D.C. 2023. Aprovechamiento de pasivos ambientales mediante la acuicultura ecológica de  pejerrey (Odontesthes bonariensis): el caso de una cava de Samborombón (BS. AS.). En libro de resúmenes del IV Congreso Iberoamericano de Limnología y X Congreso Argentino de Limnología. 
+- Solanas, A.; Vojkovic, M.; Garcia de Souza, J.R.; Benítez, H.H.; **Yorojo, V.**; Maroñas, M.; Plaul, S. E.; Alvarez, M.F.; Colautti, D.C. 2023. Aprovechamiento de pasivos ambientales mediante la acuicultura ecológica de  pejerrey (Odontesthes bonariensis): el caso de una cava de Samborombón (BS. AS.). En libro de resúmenes del IV Congreso Iberoamericano de Limnología y X Congreso Argentino de Limnología. [Enlace](https://limnoar.org/)
 
 
-- Negri, I.; Di Cunzolo, S.; Solanas, A.; Vojkovic, M.; Paredes del Puerto, J.M. ; Maiztegui, T.; **Yorojo, V.**; Alvarez, M. F.; García, I.; Paracampo, A.; Fajardo, L.; Colautti, D.C.; Garcia de Souza J. ¿Cómo afecta la conectividad hídrica a los ensambles de peces pampeanos? un ejemplo desde la laguna San Lorenzo (BS. AS.). 2023. En libro de resúmenes del IV Congreso Iberoamericano de Limnología y X Congreso Argentino de Limnología. 
+- Negri, I.; Di Cunzolo, S.; Solanas, A.; Vojkovic, M.; Paredes del Puerto, J.M. ; Maiztegui, T.; **Yorojo, V.**; Alvarez, M. F.; García, I.; Paracampo, A.; Fajardo, L.; Colautti, D.C.; Garcia de Souza J. 2023. ¿Cómo afecta la conectividad hídrica a los ensambles de peces pampeanos? un ejemplo desde la laguna San Lorenzo (BS. AS.). En libro de resúmenes del IV Congreso Iberoamericano de Limnología y X Congreso Argentino de Limnología. [Enlace](https://limnoar.org/) 
 
 
 ### 2022 
 
-- **Yorojo Moreno, V.**; Garcia de Souza, J.R.; Paredes del Puerto, J.M; Sathicq, M.B.; Maroñas, M.E.; Donadelli, J.; Plaul, S.E.; Gómez, N.; Colautti, D.C. 2022. Crecimiento y dieta de pejerrey (Odontesthes bonariensis) criado en jaulas flotantes: en la busqueda de herramientas para optimizar su larvicultura. En libro de resúmenes 7mo Simposio Argentino de Ictiología. [[PDF]](http://rid.unrn.edu.ar:8080/bitstream/20.500.12049/10868/1/Libro%20de%20Abstracts%20%282%29.pdf)
+- **Yorojo Moreno, V.**; Garcia de Souza, J.R.; Paredes del Puerto, J.M; Sathicq, M.B.; Maroñas, M.E.; Donadelli, J.; Plaul, S.E.; Gómez, N.; Colautti, D.C. 2022. Crecimiento y dieta de pejerrey (Odontesthes bonariensis) criado en jaulas flotantes: en la busqueda de herramientas para optimizar su larvicultura. En libro de resúmenes 7mo Simposio Argentino de Ictiología. [PDF](http://rid.unrn.edu.ar:8080/bitstream/20.500.12049/10868/1/Libro%20de%20Abstracts%20%282%29.pdf)
 
 
 ### 2021
 
-- Mahoney, M. J., Beier, CM, and Ackerman, AC. 2021. Interactive landscape simulations for visual resource assessment. *VRSC 2021 Conference Proceedings*. [[PDF]](vrs_2021.pdf)
+Garcia de Souza, J. R., **Yorojo Moreno, V.**, Sathicq, M. B., Gómez, N., Sampietro, S., Donadelli, J., & Colautti, D. C. (2021). The performance of ecological cage aquaculture of pejerrey Odontesthes bonariensis in Pampean lakes under two different hydrological scenarios. Aquaculture Research, 52(10), 4829-4840. [Enlace](https://onlinelibrary.wiley.com/doi/abs/10.1111/are.15316)
+
+
+### 2019
+
+- **Vivian Yorojo Moreno**, Javier R. Garcia de Souza, Miriam E. Maroñas, Juan Martín Paredes del Puerto, Manuel Rodríguez, Patricia Riat, Carolina Monti y Darío C.Colautti. 2019. La acuicultura ecológica del pejerrey en jaulas flotantes como alternativa productiva. En Cortelezzi, A., I. Entraigas, F. Grosman e I. Masson (eds). 2019. Encuentro de saberes para la gestión responsable de ecosistemas acuáticos pampeanos. Azul, Argentina. [Enlace](https://digital.cic.gba.gob.ar/items/9f2398cc-62ed-4fda-9775-502f82bb0cb4)
+
 
 ### 2017
 
-- **Yorojo Moreno, V.**, García, I., Maroñas, M. E., & Colautti, D. C. (2017). Hábitos alimentarios de Gymnogeophagus meridionalis (Osteichthyes, Cichlidae) en un arroyo urbano. Revista del Museo Argentino de Ciencias Naturales, 19(2), 93-100.[Enlace](https://revista.macn.gob.ar/index.php/RevMus/article/view/506/468)
+- **Yorojo Moreno, V.**, García, I., Maroñas, M. E., & Colautti, D. C. 2017. Hábitos alimentarios de Gymnogeophagus meridionalis (Osteichthyes, Cichlidae) en un arroyo urbano. Revista del Museo Argentino de Ciencias Naturales, 19(2), 93-100.[PDF](https://revista.macn.gob.ar/index.php/RevMus/article/view/506/468)
+
+- Garcia de Souza J.R., **Yorojo Moreno Vivian**, Sathicq M.B., Gómez N. & Colautti D.C. 2017. Cultivo extensivo en jaulas flotantes en lagos someros de Argentina: hacia el desarrollo de una acuicultura ecológica. [PDF](https://www.was.org/LACC/_downloads/LacQua17_AbstractBook.pdf)

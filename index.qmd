@@ -26,7 +26,11 @@ comments: false
 
 Investigadora y Consultora especializada en **Ecohidrología y Acuicultura Sustentable**. Mi misión es diseñar e implementar prácticas ecológicas para la conservación y producción optimizada de peces nativos, bajo un enfoque que equilibre la rentabilidad con la responsabilidad ambiental y social. Poseo vasta experiencia en el manejo experto de colecciones de organismos acuáticos en cautiverio. Promuevo activamente el papel de las mujeres en la acuicultura como motor de equidad y transformación hacia ecosistemas más saludables.
 
-Utilizo la academia, la práctica, la experimentación y mi interés autodidacta como herramientas de aprendizaje para profundizar mi formación como profesional. Cuento con una **licenciatura en biología y química**, una **maestría en ecohidrología** y actualmente estoy realizando el **doctorado en ciencias naturales** sobre la implementación de la acuicultura ecológica de una especie nativa. On this site I keep a list of [my publications](papers), [presentations](talks), and [my CV](cv.pdf), as well as a [technical blog](blog.html).
+Utilizo la academia, la práctica, la experimentación y mi interés autodidacta como herramientas de aprendizaje para profundizar mi formación como profesional. Cuento con una **licenciatura en biología y química**, una **maestría en ecohidrología** y actualmente estoy realizando el **doctorado en ciencias naturales** sobre la implementación de la acuicultura ecológica de una especie nativa. 
+
+En este sitio hay una lista de publicaciones [publicaciones](https://vyorojo.rbind.io/publicaciones/), [CV](https://vyorojo.rbind.io/cv.pdf),   
+
+
 
 
 <p></p>
