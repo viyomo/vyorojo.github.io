@@ -20,7 +20,7 @@ Clic en "[PDF]" para descargar.
 
 - Ailen SOLANAS, **Vivian YOROJO MORENO**, Javier GARCIA DE SOUZA, Ignacio GARCIA, Silvia PLAUL y Darío COLAUTTI. 2024. Acuicultura de pejerrey (Odontesthes bonariensis) en jaulas flotantes para el aprovechamiento de cavas: evaluación del bombeo de agua como potenciador del cultivo. En libro de resúmenes XII Congreso de Ecología y Manejo de Ecosistemas Acuáticos Pampeanos. [PDF](https://iimyc.gob.ar/emeap2024/wp-content/uploads/2024/10/Libro-de-Resumenes-XII-EMEAP-2024.pdf).   
 
-- Tomás MAIZTEGUI, Eliana D. AGRELO, **Vivian YOROJO MORENO** y Darío C.COLAUTTI. 2024. En libro de resúmenes XII Congreso de Ecología y Manejo de Ecosistemas Acuáticos Pampeanos. [PDF](https://iimyc.gob.ar/emeap2024/wp-content/uploads/2024/10/Libro-de-Resumenes-XII-EMEAP-2024.pdf).
+- Tomás MAIZTEGUI, Eliana D. AGRELO, **Vivian YOROJO MORENO** y Darío C.COLAUTTI. 2024. Dinámica espacio-temporal de pescadores recreacionales en el Río de La Plata interno. En libro de resúmenes XII Congreso de Ecología y Manejo de Ecosistemas Acuáticos Pampeanos. [PDF](https://iimyc.gob.ar/emeap2024/wp-content/uploads/2024/10/Libro-de-Resumenes-XII-EMEAP-2024.pdf).
 
 
 
@@ -33,6 +33,8 @@ Clic en "[PDF]" para descargar.
 
 - Negri, I.; Di Cunzolo, S.; Solanas, A.; Vojkovic, M.; Paredes del Puerto, J.M. ; Maiztegui, T.; **Yorojo, V.**; Alvarez, M. F.; García, I.; Paracampo, A.; Fajardo, L.; Colautti, D.C.; Garcia de Souza J. 2023. ¿Cómo afecta la conectividad hídrica a los ensambles de peces pampeanos? un ejemplo desde la laguna San Lorenzo (BS. AS.). En libro de resúmenes del IV Congreso Iberoamericano de Limnología y X Congreso Argentino de Limnología. [Enlace](https://limnoar.org/) 
 
+ - Colautti, D. C.; Paracampo, A. H.; Paredes del Puerto, J. M.; Maiztegui, T.; Garcia, I.; Maroñas, M. E.; **Yorojo Moreno, V.** 2023. Monitoreo de la ictiofauna en cursos de agua superficial de la cuencia hidrográfica Matanza-Riachuelo. Informe técnico.  
+
 
 ### 2022 
 
@@ -41,7 +43,7 @@ Clic en "[PDF]" para descargar.
 
 ### 2021
 
-Garcia de Souza, J. R., **Yorojo Moreno, V.**, Sathicq, M. B., Gómez, N., Sampietro, S., Donadelli, J., & Colautti, D. C. (2021). The performance of ecological cage aquaculture of pejerrey Odontesthes bonariensis in Pampean lakes under two different hydrological scenarios. Aquaculture Research, 52(10), 4829-4840. [Enlace](https://onlinelibrary.wiley.com/doi/abs/10.1111/are.15316)
+- Garcia de Souza, J. R., **Yorojo Moreno, V.**, Sathicq, M. B., Gómez, N., Sampietro, S., Donadelli, J., & Colautti, D. C. (2021). The performance of ecological cage aquaculture of pejerrey Odontesthes bonariensis in Pampean lakes under two different hydrological scenarios. Aquaculture Research, 52(10), 4829-4840. [Enlace](https://onlinelibrary.wiley.com/doi/abs/10.1111/are.15316)
 
 
 ### 2019
@@ -54,3 +56,15 @@ Garcia de Souza, J. R., **Yorojo Moreno, V.**, Sathicq, M. B., Gómez, N., Sampi
 - **Yorojo Moreno, V.**, García, I., Maroñas, M. E., & Colautti, D. C. 2017. Hábitos alimentarios de Gymnogeophagus meridionalis (Osteichthyes, Cichlidae) en un arroyo urbano. Revista del Museo Argentino de Ciencias Naturales, 19(2), 93-100.[PDF](https://revista.macn.gob.ar/index.php/RevMus/article/view/506/468)
 
 - Garcia de Souza J.R., **Yorojo Moreno Vivian**, Sathicq M.B., Gómez N. & Colautti D.C. 2017. Cultivo extensivo en jaulas flotantes en lagos someros de Argentina: hacia el desarrollo de una acuicultura ecológica. [PDF](https://www.was.org/LACC/_downloads/LacQua17_AbstractBook.pdf)
+
+- COLAUTTI DARÍO; JAVIER GARCIA DE SOUZA; GARCÍA, I. D.; **YOROJO VIVIAN**; SATHICQ MARÍA BELÉN. 2017. Estudio ictiológico y limnológico de la laguna "La Boca/San Lorenzo". Informe técnico. 
+
+### 2016
+
+- IV Taller de preparación y lectura de otolitos. Determinación de edades en peces obtenidos en la campaña 2016 del proyecto "Evaluación de los recursos ícticos del bajo río Uruguay y del Río de la Plata Interior y del Proyecto de Evaluación de la salud y calidad de los recursos pesqueros en el Río de la Plata interior y río Uruguay inferior" CARU-CARP. Informe técnico. [PDF](https://www.magyp.gob.ar/sitio/areas/pesca_continental/informes/proyectos_caru/_archivos/000000_Informes%20Proyectos%20CARU/180227_Informe%20CARU-CARP%20Campa%C3%B1a%20de%20Invierno%202016.pdf) 
+
+### Otros  
+
+- Zoos and Aquariums of the World. 2009. International zoo year book. [Enlace](https://zslpublications.onlinelibrary.wiley.com/doi/abs/10.1111/j.1748-1090.2008.00081.x)
+
+- Zoos and Aquariums of the World. 2008. International zoo year book. [Enlace](https://zslpublications.onlinelibrary.wiley.com/doi/abs/10.1111/j.1748-1090.2008.00056.x)
