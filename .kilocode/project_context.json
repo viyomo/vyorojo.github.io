@@ -1,0 +1,120 @@
+{
+  "project_context": {
+    "overview": {
+      "name": "Sitio Web Personal Quarto",
+      "description": "Sitio web personal académico desarrollado con Quarto",
+      "language": "es",
+      "type": "Static Website",
+      "build_tool": "Quarto"
+    },
+    "file_structure": {
+      "root_files": [
+        {
+          "file": "index.qmd",
+          "description": "Página principal del sitio",
+          "type": "markdown-quarto"
+        },
+        {
+          "file": "blog.qmd",
+          "description": "Página del blog",
+          "type": "markdown-quarto"
+        },
+        {
+          "file": "_quarto.yml",
+          "description": "Configuración de Quarto",
+          "type": "yaml"
+        },
+        {
+          "file": "styles.css",
+          "description": "Estilos CSS personalizados",
+          "type": "css"
+        },
+        {
+          "file": "avatar.jpg",
+          "description": "Imagen de avatar",
+          "type": "image"
+        },
+        {
+          "file": "cv.pdf",
+          "description": "Currículum Vitae en PDF",
+          "type": "pdf"
+        }
+      ],
+      "content_directories": {
+        "posts/": {
+          "description": "Artículos del blog",
+          "structure": [
+            "2025-10-prueba/",
+            "2025-10-prueba2/"
+          ],
+          "metadata": "posts/_metadata.yml"
+        },
+        "proyectos/": {
+          "description": "Página y contenido de proyectos",
+          "files": ["proyectos/index.qmd"]
+        },
+        "publicaciones/": {
+          "description": "Página y contenido de publicaciones",
+          "files": ["publicaciones/index.qmd"]
+        }
+      },
+      "generated_site": {
+        "directory": "_site/",
+        "description": "Sitio web generado",
+        "auto_generated": true
+      }
+    },
+    "technology_stack": {
+      "build_system": {
+        "name": "Quarto",
+        "version": "latest",
+        "extensions": ["quarto-ext/fontawesome"]
+      },
+      "frontend": {
+        "css_framework": "Bootstrap",
+        "icons": "FontAwesome",
+        "responsive": true
+      },
+      "static_assets": {
+        "fonts": "Web fonts from FontAwesome",
+        "images": "PNG, JPG formats",
+        "documents": "PDF for CV"
+      }
+    },
+    "content_analysis": {
+      "main_pages": {
+        "index.qmd": "Home page with personal information",
+        "blog.qmd": "Blog listing page",
+        "cv.pdf": "Curriculum vitae"
+      },
+      "content_sections": {
+        "posts": "Blog articles with metadata",
+        "proyectos": "Project showcase",
+        "publicaciones": "Academic publications"
+      },
+      "styling": {
+        "theme": "Bootstrap-based responsive design",
+        "icons": "FontAwesome icon set",
+        "customization": "styles.css for overrides"
+      }
+    },
+    "development_context": {
+      "authoring_format": "Quarto markdown (.qmd)",
+      "build_process": "Quarto render to HTML",
+      "deployment": "Static file generation",
+      "version_control": "Git (.gitignore present)"
+    },
+    "current_state": {
+      "last_analysis": "2025-10-30T01:28:29Z",
+      "active_files": [
+        "index.qmd",
+        "publicaciones/index.qmd"
+      ],
+      "recent_operations": [
+        "Memory system initialization",
+        "Project structure analysis"
+      ],
+      "configuration_status": "Active memory system configured"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "memory_config": {
+    "project_name": "Sitio Web Personal Quarto",
+    "project_path": "/home/vivian/Documentos/vivian web",
+    "memory_version": "1.0.0",
+    "created_date": "2025-10-30T01:27:32Z",
+    "last_updated": "2025-10-30T01:27:32Z",
+    "timezone": "America/Buenos_Aires",
+    "language": "es",
+    "conversation_settings": {
+      "max_history_entries": 1000,
+      "context_depth": 5,
+      "auto_save_interval": 300,
+      "include_file_context": true,
+      "store_ai_thoughts": true
+    },
+    "project_info": {
+      "type": "Quarto Website",
+      "content_language": "es",
+      "build_system": "quarto",
+      "main_files": [
+        "index.qmd",
+        "blog.qmd",
+        "_quarto.yml"
+      ],
+      "content_dirs": [
+        "posts/",
+        "proyectos/",
+        "publicaciones/"
+      ],
+      "theme": "Bootstrap con FontAwesome"
+    }
+  }
+}
