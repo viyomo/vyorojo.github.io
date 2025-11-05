@@ -1,57 +1,59 @@
 ---
-title: "Publicaciones y Artículos"
+title: "Publicaciones y Contribuciones"
 subtitle: ""
 author: ""
 format: html
 ---
 
+Esta sección presenta un registro de mi producción académica, participación técnica y trayectoria profesional documentada en fuentes externas. Clic en el link para ver.
 
-Clic en "[PDF]" para descargar. 
+## 1. Artículos ##
 
 
-### 2025
+#### 2025
 
 - Darío Colautti. Javier Garcia de Souza. **YOROJO MORENO, Vivian**. Ailen Solanas. Ignacio Garcia. Silvia Plaul. Miriam Maroñas. Eliana Agrelo,. Milagros Gomez. 2025. Proyecto producción de juveniles en la laguna Chis chis. Informe Técnico.  
 
 - Bartha Zulian, Luciano Joaquín. Carnicero Agustín. Colautti Darío. Fajardo Luisa. Llompart Facundo. Servin Ana Cecilia. Veiga Valentina. **YOROJO MORENO, Vivian**. 2025. Relevamiento ambiental e ictiológico de la laguna Chis-Chis (Lezama, Buenos Aires). Informe Técnico.
 
 
-### 2024
+#### 2024
 
-- Ailen SOLANAS, **Vivian YOROJO MORENO**, Javier GARCIA DE SOUZA, Ignacio GARCIA, Silvia PLAUL y Darío COLAUTTI. 2024. Acuicultura de pejerrey (Odontesthes bonariensis) en jaulas flotantes para el aprovechamiento de cavas: evaluación del bombeo de agua como potenciador del cultivo. En libro de resúmenes XII Congreso de Ecología y Manejo de Ecosistemas Acuáticos Pampeanos. [PDF](https://iimyc.gob.ar/emeap2024/wp-content/uploads/2024/10/Libro-de-Resumenes-XII-EMEAP-2024.pdf).   
+- Ailen SOLANAS, **Vivian YOROJO MORENO**, Javier GARCIA DE SOUZA, Ignacio GARCIA, Silvia PLAUL y Darío COLAUTTI. 2024. Acuicultura de pejerrey (Odontesthes bonariensis) en jaulas flotantes para el aprovechamiento de cavas: evaluación del bombeo de agua como potenciador del cultivo. En libro de resúmenes XII Congreso de Ecología y Manejo de Ecosistemas Acuáticos Pampeanos (XII EMEAP). [PDF](https://iimyc.gob.ar/emeap2024/wp-content/uploads/2024/10/Libro-de-Resumenes-XII-EMEAP-2024.pdf).   
 
-- Tomás MAIZTEGUI, Eliana D. AGRELO, **Vivian YOROJO MORENO** y Darío C.COLAUTTI. 2024. Dinámica espacio-temporal de pescadores recreacionales en el Río de La Plata interno. En libro de resúmenes XII Congreso de Ecología y Manejo de Ecosistemas Acuáticos Pampeanos. [PDF](https://iimyc.gob.ar/emeap2024/wp-content/uploads/2024/10/Libro-de-Resumenes-XII-EMEAP-2024.pdf).
-
-
-
-### 2023
-
-- Di Cunzolo, S.; Negri, I.; Solanas, A.; Vojkovic, M.; Garcia de Souza J.;**Yorojo, V.**; Fajardo, L.; Alvarez, M. F.2024. Dinámica del zooplancton en una laguna pampeana en relación al grdo de conectividad hidrica con el Río Salado (BS. AS.).2024. En libro de resúmenes del IV Congreso Iberoamericano de Limnología y X Congreso Argentino de Limnologías.[Enlace](https://limnoar.org/)
-
-- Solanas, A.; Vojkovic, M.; Garcia de Souza, J.R.; Benítez, H.H.; **Yorojo, V.**; Maroñas, M.; Plaul, S. E.; Alvarez, M.F.; Colautti, D.C. 2023. Aprovechamiento de pasivos ambientales mediante la acuicultura ecológica de  pejerrey (Odontesthes bonariensis): el caso de una cava de Samborombón (BS. AS.). En libro de resúmenes del IV Congreso Iberoamericano de Limnología y X Congreso Argentino de Limnología. [Enlace](https://limnoar.org/)
+- Tomás MAIZTEGUI, Eliana D. AGRELO, **Vivian YOROJO MORENO** y Darío C.COLAUTTI. 2024. Dinámica espacio-temporal de pescadores recreacionales en el Río de La Plata interno. En libro de resúmenes XII Congreso de Ecología y Manejo de Ecosistemas Acuáticos Pampeanos (XII EMEAP). [PDF](https://iimyc.gob.ar/emeap2024/wp-content/uploads/2024/10/Libro-de-Resumenes-XII-EMEAP-2024.pdf).
 
 
-- Negri, I.; Di Cunzolo, S.; Solanas, A.; Vojkovic, M.; Paredes del Puerto, J.M. ; Maiztegui, T.; **Yorojo, V.**; Alvarez, M. F.; García, I.; Paracampo, A.; Fajardo, L.; Colautti, D.C.; Garcia de Souza J. 2023. ¿Cómo afecta la conectividad hídrica a los ensambles de peces pampeanos? un ejemplo desde la laguna San Lorenzo (BS. AS.). En libro de resúmenes del IV Congreso Iberoamericano de Limnología y X Congreso Argentino de Limnología. [Enlace](https://limnoar.org/) 
+#### 2023
+
+- Di Cunzolo, S.; Negri, I.; Solanas, A.; Vojkovic, M.; Garcia de Souza J.;**Yorojo, V.**; Fajardo, L.; Alvarez, M. F.2024. Dinámica del zooplancton en una laguna pampeana en relación al grdo de conectividad hidrica con el Río Salado (BS. AS.).2024. En libro de resúmenes del IV Congreso Iberoamericano de Limnología y X Congreso Argentino de Limnologías (IV CIL, CAL X).[Enlace](https://limnoar.org/)
+
+- Solanas, A.; Vojkovic, M.; Garcia de Souza, J.R.; Benítez, H.H.; **Yorojo, V.**; Maroñas, M.; Plaul, S. E.; Alvarez, M.F.; Colautti, D.C. 2023. Aprovechamiento de pasivos ambientales mediante la acuicultura ecológica de  pejerrey (Odontesthes bonariensis): el caso de una cava de Samborombón (BS. AS.). En libro de resúmenes del IV Congreso Iberoamericano de Limnología y X Congreso Argentino de Limnología (IV CIL, CAL X). [Enlace](https://limnoar.org/)
+
+- Negri, I.; Di Cunzolo, S.; Solanas, A.; Vojkovic, M.; Paredes del Puerto, J.M. ; Maiztegui, T.; **Yorojo, V.**; Alvarez, M. F.; García, I.; Paracampo, A.; Fajardo, L.; Colautti, D.C.; Garcia de Souza J. 2023. ¿Cómo afecta la conectividad hídrica a los ensambles de peces pampeanos? un ejemplo desde la laguna San Lorenzo (BS. AS.). En libro de resúmenes del IV Congreso Iberoamericano de Limnología y X Congreso Argentino de Limnología (IV CIL, CAL X). [Enlace](https://limnoar.org/) 
 
  - Colautti, D. C.; Paracampo, A. H.; Paredes del Puerto, J. M.; Maiztegui, T.; Garcia, I.; Maroñas, M. E.; **Yorojo Moreno, V.** 2023. Monitoreo de la ictiofauna en cursos de agua superficial de la cuencia hidrográfica Matanza-Riachuelo. Informe técnico.  
 
 
-### 2022 
+#### 2022 
 
 - **Yorojo Moreno, V.**; Garcia de Souza, J.R.; Paredes del Puerto, J.M; Sathicq, M.B.; Maroñas, M.E.; Donadelli, J.; Plaul, S.E.; Gómez, N.; Colautti, D.C. 2022. Crecimiento y dieta de pejerrey (Odontesthes bonariensis) criado en jaulas flotantes: en la busqueda de herramientas para optimizar su larvicultura. En libro de resúmenes 7mo Simposio Argentino de Ictiología. [PDF](http://rid.unrn.edu.ar:8080/bitstream/20.500.12049/10868/1/Libro%20de%20Abstracts%20%282%29.pdf)
 
+- **Vivian YOROJO MORENO**, Javier R. GARCIA DE SOUZA, Patricia RIAT, Ailen SOLANAS, Susana SAMPIETRO, Darío C. COLAUTTI. 2022. Acuicultura ecológica del pejerrey (Odontesthes bonariensis): evaluación de la transferencia al sector turístico-pesquero en dos
+lagunas pampeanas. XI Congreso de Ecología y Manejo de Ecosistemas Acuáticos Pampeanos (XI EMEAP 2022). [PDF](https://ri.conicet.gov.ar/handle/11336/255114)  
 
-### 2021
+
+#### 2021
 
 - Garcia de Souza, J. R., **Yorojo Moreno, V.**, Sathicq, M. B., Gómez, N., Sampietro, S., Donadelli, J., & Colautti, D. C. (2021). The performance of ecological cage aquaculture of pejerrey Odontesthes bonariensis in Pampean lakes under two different hydrological scenarios. Aquaculture Research, 52(10), 4829-4840. [Enlace](https://onlinelibrary.wiley.com/doi/abs/10.1111/are.15316)
 
 
-### 2019
+#### 2019
 
 - **Vivian Yorojo Moreno**, Javier R. Garcia de Souza, Miriam E. Maroñas, Juan Martín Paredes del Puerto, Manuel Rodríguez, Patricia Riat, Carolina Monti y Darío C.Colautti. 2019. La acuicultura ecológica del pejerrey en jaulas flotantes como alternativa productiva. En Cortelezzi, A., I. Entraigas, F. Grosman e I. Masson (eds). 2019. Encuentro de saberes para la gestión responsable de ecosistemas acuáticos pampeanos. Azul, Argentina. [Enlace](https://digital.cic.gba.gob.ar/items/9f2398cc-62ed-4fda-9775-502f82bb0cb4)
 
 
-### 2017
+#### 2017
 
 - **Yorojo Moreno, V.**, García, I., Maroñas, M. E., & Colautti, D. C. 2017. Hábitos alimentarios de Gymnogeophagus meridionalis (Osteichthyes, Cichlidae) en un arroyo urbano. Revista del Museo Argentino de Ciencias Naturales, 19(2), 93-100.[PDF](https://revista.macn.gob.ar/index.php/RevMus/article/view/506/468)
 
@@ -59,12 +61,30 @@ Clic en "[PDF]" para descargar.
 
 - COLAUTTI DARÍO; JAVIER GARCIA DE SOUZA; GARCÍA, I. D.; **YOROJO VIVIAN**; SATHICQ MARÍA BELÉN. 2017. Estudio ictiológico y limnológico de la laguna "La Boca/San Lorenzo". Informe técnico. 
 
-### 2016
 
-- IV Taller de preparación y lectura de otolitos. Determinación de edades en peces obtenidos en la campaña 2016 del proyecto "Evaluación de los recursos ícticos del bajo río Uruguay y del Río de la Plata Interior y del Proyecto de Evaluación de la salud y calidad de los recursos pesqueros en el Río de la Plata interior y río Uruguay inferior" CARU-CARP. Informe técnico. [PDF](https://www.magyp.gob.ar/sitio/areas/pesca_continental/informes/proyectos_caru/_archivos/000000_Informes%20Proyectos%20CARU/180227_Informe%20CARU-CARP%20Campa%C3%B1a%20de%20Invierno%202016.pdf) 
 
-### Otros  
 
-- Zoos and Aquariums of the World. 2009. International zoo year book. [Enlace](https://zslpublications.onlinelibrary.wiley.com/doi/abs/10.1111/j.1748-1090.2008.00081.x)
+## 2. Menciones destacadas ##
 
-- Zoos and Aquariums of the World. 2008. International zoo year book. [Enlace](https://zslpublications.onlinelibrary.wiley.com/doi/abs/10.1111/j.1748-1090.2008.00056.x)
+- Age and growth of Pseudoplatystoma corruscans (Siluriformes: Pimelodidae) at the confluence of the Paraná and Paraguay rivers
+    - Autores: Balboni, L., Vargas, F., & Colautti, D.
+    - Publicación: Neotropical Ichthyology, 19(2), e200101. (2021)
+    - Mi Contribución: Mención en agradecimientos por el soporte en las estimaciones con el software R.
+    - Enlace directo: [PDF](https://www.scielo.br/j/ni/a/n49HtTKwRVk4GBTGbrnpd7B/?format=pdf&lang=en)  
+
+
+## 3. Roles y trayectoria   
+
+- Publicación: **International Zoo Yearbook**, Volumen 43
+  - Fecha: 2009
+  - Detalle del reconocimiento: Listada en el directorio internacional de funcionarios de zoológicos y acuarios, documentando mi cargo oficial en la Fundación Zoologica de Cali.
+  - Referencia DOI: 10.1111/j.1748-1090.2008.00081.x
+  - Enlace: [Enlace](https://zslpublications.onlinelibrary.wiley.com/doi/abs/10.1111/j.1748-1090.2008.00081.x)
+
+
+- Publicación: **International Zoo Yearbook**, Volumen 42
+  - Fecha: 2008
+  - Detalle del reconocimiento: Listada en el directorio intrnacional de funcionarios de zoológicos y acuarios, documentando mi cargo oficial en la Fundación Zoologica de Cali.
+  - Referencia DOI: 10.1111/j.1748-1090.2008.00081.x
+  - Enlace: [Enlace](https://zslpublications.onlinelibrary.wiley.com/doi/abs/10.1111/j.1748-1090.2008.00056.x)
+
