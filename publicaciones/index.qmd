@@ -1,14 +1,13 @@
 ---
-title: "Publicaciones y Contribuciones"
+title: "Publicaciones y contribuciones"
 subtitle: ""
 author: ""
 format: html
 ---
 
-Esta sección presenta un registro de mi producción académica, participación técnica y trayectoria profesional documentada en fuentes externas. Clic en el link para ver.
+Esta sección encontraras algunos proyectos en los que he participado donde he presenta un registro de mi producción académica, participación técnica y trayectoria profesional documentada en fuentes externas. Clic en el link para ver.
 
 ## 1. Artículos ##
-
 
 #### 2025
 
@@ -58,10 +57,6 @@ lagunas pampeanas. XI Congreso de Ecología y Manejo de Ecosistemas Acuáticos P
 - **Yorojo Moreno, V.**, García, I., Maroñas, M. E., & Colautti, D. C. 2017. Hábitos alimentarios de Gymnogeophagus meridionalis (Osteichthyes, Cichlidae) en un arroyo urbano. Revista del Museo Argentino de Ciencias Naturales, 19(2), 93-100.[PDF](https://revista.macn.gob.ar/index.php/RevMus/article/view/506/468)
 
 - Garcia de Souza J.R., **Yorojo Moreno Vivian**, Sathicq M.B., Gómez N. & Colautti D.C. 2017. Cultivo extensivo en jaulas flotantes en lagos someros de Argentina: hacia el desarrollo de una acuicultura ecológica. [PDF](https://www.was.org/LACC/_downloads/LacQua17_AbstractBook.pdf)
-
-- COLAUTTI DARÍO; JAVIER GARCIA DE SOUZA; GARCÍA, I. D.; **YOROJO VIVIAN**; SATHICQ MARÍA BELÉN. 2017. Estudio ictiológico y limnológico de la laguna "La Boca/San Lorenzo". Informe técnico. 
-
-
 
 
 ## 2. Menciones destacadas ##

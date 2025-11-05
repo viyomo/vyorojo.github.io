@@ -2,9 +2,45 @@
 title: "Participación en proyectos"
 ---
 
-En esta sección presento proyectos de investigación aplicada en los que he participado.fue clave
+En esta sección presento proyectos de investigación aplicada en los que he participado.
+
+## Colaboraciones técnicas y campañas de Campo
 
 
-#### 2016
+#### 🚢 **Caracterización biológica y ecológica de una laguna pampeana**
 
-- IV Taller de preparación y lectura de otolitos. Determinación de edades en peces obtenidos en la campaña 2016 del proyecto "Evaluación de los recursos ícticos del bajo río Uruguay y del Río de la Plata Interior y del Proyecto de Evaluación de la salud y calidad de los recursos pesqueros en el Río de la Plata interior y río Uruguay inferior" CARU-CARP. Informe técnico. [PDF](https://www.magyp.gob.ar/sitio/areas/pesca_continental/informes/proyectos_caru/_archivos/000000_Informes%20Proyectos%20CARU/180227_Informe%20CARU-CARP%20Campa%C3%B1a%20de%20Invierno%202016.pdf) 
+* **Proyecto marco:** Relevamiento ambiental e ictiológico de Laguna Chís Chís.
+* **Rol/contribución:** Miembro del equipo de campo. Mis tareas incluyeron la **recolección en campo de muestras de peces y zooplancton** y la documentación inmediata de parámetros biológicos esenciales para el análisis poblacional y pesquero. 
+* **Habilidad clave:** Determinación taxonómica de zooplancton y analisis estadístico en software R. 
+* **Documento de referencia:** [Informe Técnico]. [Enlace](https://si.conicet.gov.ar/eva/archivosAdjuntos.do?archivo=fullText&elementoId=12614808)
+
+
+---
+
+#### 🚢 **Campaña de muestreo biológico pesquero**
+
+* **Proyecto marco:** Proyecto de Evaluación Biológica y Pesquera de Especies de Interés Deportivo y Comercial (EBIPES).
+* **Rol/contribución:** Miembro del equipo de campo en la Campaña N° 65. Mis tareas incluyeron la **recolección en campo de muestras de peces** y la documentación inmediata de parámetros biológicos clave (determinación de sexo y otros datos morfométricos) esenciales para el análisis poblacional y pesquero.
+* **Habilidad clave:** Muestreo ictiológico en campo, recolección estandarizada de muestras y determinación de parámetros biológicos.
+* **Documento de referencia:** [Informe técnico N°84 - Campaña 65 (2024)]. [Enlace](https://www.magyp.gob.ar/sitio/areas/pesca_continental/informes/proyecto_ebipes/_archivos//000000_Informes%20del%20proyecto%20evaluaci%C3%B3n%20biol%C3%B3gica%20y%20pesquera%20de%20especies%20de%20inter%C3%A9s%20deportivo%20y%20comercial/240812_Informe%20T%C3%A9cnico%20N%C2%B0%2084%20-%20Informe%20Biologico%20de%20la%20Campa%C3%B1a%2065.pdf)
+
+---
+
+#### 🔬 **Caracterización biológica y ecológica de una laguna pampeana**
+
+* **Proyecto Marco:** Estudio ictiológico y limnológico de la laguna San Lorenzo.
+* **Rol/contribución 1:** Miembro del equipo de campo. Mis tareas incluyeron la **recolección en campo de muestras de peces y zooplancton** y la documentación inmediata de parámetros biológicos esenciales para el análisis poblacional y pesquero. 
+* **Rol/contribución 2:** Recolección, cuantíficación y determinación taxonómica de zooplancton. 
+* **Habilidad clave:** Determinación taxonómica de zooplancton. 
+* **Documento de referencia:** [Informe Técnico]. [Enlace](https://si.conicet.gov.ar/eva/archivosAdjuntos.do?archivo=fullText&elementoId=12742476)
+
+---
+
+#### 🔬 **Taller de determinación de edades en peces (otolitometría aplicada)**
+
+* **Proyecto marco:** "Evaluación de los recursos ícticos del bajo río Uruguay y del Río de la Plata Interior" (CARU-CARP).
+* **Rol/Contribución:** Participación activa en el **IV Taller de preparación y lectura de otolitos**. Responsable de la determinación de edades en ejemplares de peces, contribuyendo directamente a la evaluación demográfica y pesquera del recurso ictícola regional.
+* **Habilidad clave:** Técnicas de preparación y lectura de otolitos (Otolitometría).
+* **Documento de referencia:** [Informe Técnico Campaña Invierno 2016]. [Enlace](https://www.magyp.gob.ar/sitio/areas/pesca_continental/informes/proyectos_caru/_archivos/000000_Informes%20Proyectos%20CARU/180227_Informe%20CARU-CARP%20Campa%C3%B1a%20de%20Invierno%202016.pdf)
+
+---
