@@ -5,15 +5,9 @@ author: ""
 format: html
 ---
 
-Esta sección encontraras algunos proyectos en los que he participado donde he presenta un registro de mi producción académica, participación técnica y trayectoria profesional documentada en fuentes externas. Clic en el link para ver.
+Esta sección encontraras un registro de mi producción académica, participación técnica y trayectoria profesional documentada en fuentes externas. Clic en el link para ver.
 
 ## 1. Artículos ##
-
-#### 2025
-
-- Darío Colautti. Javier Garcia de Souza. **YOROJO MORENO, Vivian**. Ailen Solanas. Ignacio Garcia. Silvia Plaul. Miriam Maroñas. Eliana Agrelo,. Milagros Gomez. 2025. Proyecto producción de juveniles en la laguna Chis chis. Informe Técnico.  
-
-- Bartha Zulian, Luciano Joaquín. Carnicero Agustín. Colautti Darío. Fajardo Luisa. Llompart Facundo. Servin Ana Cecilia. Veiga Valentina. **YOROJO MORENO, Vivian**. 2025. Relevamiento ambiental e ictiológico de la laguna Chis-Chis (Lezama, Buenos Aires). Informe Técnico.
 
 
 #### 2024
@@ -25,20 +19,21 @@ Esta sección encontraras algunos proyectos en los que he participado donde he p
 
 #### 2023
 
+- Juan M. Paredes del Puerto, Ariel Paracampo, Ignacio García, Tomás Maiztegui, **Vivian Yorojo Moreno**, Miriam Maroñas, Darío Colautti. 2023. Monitoreo de la ictiofauna en cursos de agua superficial de la cuencia Hidrográfica Matanza-Riachuelo, provincia de Buenos Aires (Argentina). Instituto de Limnología “Dr. R. A. Ringuelet. Convenio Específico Complementario Nro. 8 ACUMAR-ILPLA. 
+
+
 - Di Cunzolo, S.; Negri, I.; Solanas, A.; Vojkovic, M.; Garcia de Souza J.;**Yorojo, V.**; Fajardo, L.; Alvarez, M. F.2024. Dinámica del zooplancton en una laguna pampeana en relación al grdo de conectividad hidrica con el Río Salado (BS. AS.).2024. En libro de resúmenes del IV Congreso Iberoamericano de Limnología y X Congreso Argentino de Limnologías (IV CIL, CAL X).[Enlace](https://limnoar.org/)
 
 - Solanas, A.; Vojkovic, M.; Garcia de Souza, J.R.; Benítez, H.H.; **Yorojo, V.**; Maroñas, M.; Plaul, S. E.; Alvarez, M.F.; Colautti, D.C. 2023. Aprovechamiento de pasivos ambientales mediante la acuicultura ecológica de  pejerrey (Odontesthes bonariensis): el caso de una cava de Samborombón (BS. AS.). En libro de resúmenes del IV Congreso Iberoamericano de Limnología y X Congreso Argentino de Limnología (IV CIL, CAL X). [Enlace](https://limnoar.org/)
 
 - Negri, I.; Di Cunzolo, S.; Solanas, A.; Vojkovic, M.; Paredes del Puerto, J.M. ; Maiztegui, T.; **Yorojo, V.**; Alvarez, M. F.; García, I.; Paracampo, A.; Fajardo, L.; Colautti, D.C.; Garcia de Souza J. 2023. ¿Cómo afecta la conectividad hídrica a los ensambles de peces pampeanos? un ejemplo desde la laguna San Lorenzo (BS. AS.). En libro de resúmenes del IV Congreso Iberoamericano de Limnología y X Congreso Argentino de Limnología (IV CIL, CAL X). [Enlace](https://limnoar.org/) 
 
- - Colautti, D. C.; Paracampo, A. H.; Paredes del Puerto, J. M.; Maiztegui, T.; Garcia, I.; Maroñas, M. E.; **Yorojo Moreno, V.** 2023. Monitoreo de la ictiofauna en cursos de agua superficial de la cuencia hidrográfica Matanza-Riachuelo. Informe técnico.  
-
 
 #### 2022 
 
 - **Yorojo Moreno, V.**; Garcia de Souza, J.R.; Paredes del Puerto, J.M; Sathicq, M.B.; Maroñas, M.E.; Donadelli, J.; Plaul, S.E.; Gómez, N.; Colautti, D.C. 2022. Crecimiento y dieta de pejerrey (Odontesthes bonariensis) criado en jaulas flotantes: en la busqueda de herramientas para optimizar su larvicultura. En libro de resúmenes 7mo Simposio Argentino de Ictiología. [PDF](http://rid.unrn.edu.ar:8080/bitstream/20.500.12049/10868/1/Libro%20de%20Abstracts%20%282%29.pdf)
 
-- **Vivian YOROJO MORENO**, Javier R. GARCIA DE SOUZA, Patricia RIAT, Ailen SOLANAS, Susana SAMPIETRO, Darío C. COLAUTTI. 2022. Acuicultura ecológica del pejerrey (Odontesthes bonariensis): evaluación de la transferencia al sector turístico-pesquero en dos
+- **Vivian Yorojo Moreno**, Javier R. Garcia DE Souza, Patricia Riat, Ailen Solanas, Susana Sampietro, Darío C. Colautti. 2022. Acuicultura ecológica del pejerrey (Odontesthes bonariensis): evaluación de la transferencia al sector turístico-pesquero en dos
 lagunas pampeanas. XI Congreso de Ecología y Manejo de Ecosistemas Acuáticos Pampeanos (XI EMEAP 2022). [PDF](https://ri.conicet.gov.ar/handle/11336/255114)  
 
 
