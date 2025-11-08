@@ -1,0 +1,76 @@
+---
+title: "De los zoológicos de Cali a la ecohidrología argentina: Mi trayectoria profesional"
+description: "Reflexiones sobre dos décadas de experiencia en biología, conservación de fauna y manejo de sistemas acuáticos"
+author: "Vivian Yorojo Moreno"
+date: "10/30/2025"
+date-modified: "10/30/2025"
+categories:
+  - trayectoria
+  - conservación
+  - acuarios
+  - ecohidrología
+---
+
+::: {#pond .column-screen}
+![Mi pasión por los sistemas acuáticos nació en el Zoológico de Cali y continúa hoy en la investigación ecohidrológica en Argentina](avatar.jpg){fig.aling="left" width=40%}
+:::
+
+Hace exactamente 30 años, mientras completaba mi bachillerato comercial en el Instituto INEM de Cali, nunca imaginé que mi futuro profesional estaría tan profundamente entrelazado con la conservación de la vida silvestre y los sistemas acuáticos. Todo comenzó de manera casual, como suelen comenzar las grandes pasiones, cuando en 1995 conseguí mi primer trabajo como digitadora en Tecnicopias del Sur.
+
+Pero el destino tenía otros planes. En agosto de ese mismo año, ingresé a la Fundación Zoológica de Cali como Secretaria Clínica Veterinaria, y ahí comenzó mi verdadera educación. Durante seis años, no solo me encargué de la transcripción de historias clínicas de animales silvestres —desde leones y tigrillos hasta aves nocturnas y reptiles—, sino que me sumergí en un mundo que cambiaría el rumbo de mi vida profesional.
+
+## Los fundamentos en el Zoológico de Cali
+
+Mi trabajo diario me llevó a desarrollar habilidades que trascienden el simple manejo administrativo. Aprendí a preparar dietas especializadas para diferentes especies, a realizar controles de peso y medidas en tortugas, mamíferos y aves, y a manejar bases de radio de comunicación. Pero lo más importante fue que desarrollé una comprensión profunda del bienestar animal y la importancia de la conservación.
+
+Durante este período, también tuve la oportunidad de coordinar las actividades de los cuidadores, lo que me gave una perspectiva integral sobre el manejo de fauna en cautiverio. Desde los majestuosos flamencos hasta los enigmaticos perezosos de dos y tres dedos, cada especie me enseñó algo nuevo sobre adaptación, supervivencia y las complejas necesidades de los animales silvestres.
+
+## El salto a la coordinación del acuario
+
+En noviembre de 2001, se abrió una nueva puerta cuando asumí como Coordinadora del Acuario. Este cambio representó un desafío enorme que requirió no solo conocimientos técnicos, sino también una visión estratégica para gestionar la colección de peces e invertebrados de agua dulce y marinos.
+
+La responsabilidad era abrumadora: nueve exhibiciones de agua dulce (incluyendo acuarios de hasta 40 metros cúbicos), once exhibiciones marinas, dos lagos de biodiversidad, y un complejo sistema de cuarentenas. Pero cada desafío se convirtió en una oportunidad de aprendizaje y crecimiento profesional.
+
+## La ciencia detrás de los acuarios
+
+Uno de los aspectos más fascinantes de mi trabajo fue el monitoreo de parámetros fisicoquímicos usando el Espectrofotómetro HACH DR 2500. El control riguroso de pH, amonio, nitritos y nitratos se convirtió en una rutina diaria que marcó la diferencia entre el éxito y el fracaso en el mantenimiento de ecosistemas acuáticos complejos.
+
+Aprendí que la preparación de sales para exhibiciones marinas no es simplemente una cuestión de seguir una receta, sino que requiere un entendimiento profundo de las necesidades específicas de cada especie. La consecución de peces de agua dulce implicó desarrollar relaciones con pescadores artesanales del Río Cauca y la Laguna de Sonso, así como coordinar con el Museo de Ciencias Naturales del Valle del Cauca (INCIVA).
+
+## La investigación como motor del cambio
+
+Mi paso por el Zoológico de Cali no fue solo administrativo. En 2001, participé en mi primera investigación sobre el manejo y reproducción del cóndor andino, junto con colegas como Gustavo Caicedo y Ulises Valdez. Esta experiencia me abrió los ojos al poder de la investigación aplicada en conservación.
+
+Pero fue el proyecto de "Metodologías de Manejo en Cautiverio de Especies Ornamentales" en 2009 el que realmente transformó mi perspectiva profesional. Coordinar actividades de campo, manejar presupuestos y generar informes finales me enseñó que la conservación requiere no solo pasión, sino también habilidades de gestión y comunicación científica.
+
+## La expansión internacional de conocimientos
+
+Mi compromiso con el aprendizaje continuo me llevó a participar en entrenamientos internacionales. En 2010, tuve la oportunidad de formarme en el Dallas World Aquarium, donde aprendí técnicas avanzadas de manejo de acuarios marinos y sistemas de cuarentena. Posteriormente, en el Shedd Aquarium de Chicago, profundicé mis conocimientos en sistemas marinos.
+
+Estas experiencias internacionales no solo mejoraron mis habilidades técnicas, sino que me conectaron con una red global de profesionales comprometidos con la conservación acuática. Cada visita a estos centros de excelencia me permitía regresar a Colombia con nuevas ideas y metodologías.
+
+## La transición hacia la ecohidrología
+
+En 2011, decidí dar un paso audaz: mudarme a Argentina para cursar una Maestría en Análisis Ambiental de Sistemas Hídricos con especialización en Ecohidrología. Esta decisión no fue fácil, ya que significaba dejar atrás una carrera consolidada en Colombia para convertirme en estudiante nuevamente.
+
+El cambio fue transformador. La Maestría me proporcionó las herramientas científicas para entender no solo los sistemas acuáticos artificiales que había manejado durante años, sino también los ecosistemas naturales y su compleja dinámica. Mi tesis actual sobre la "Evaluación de los Recursos Hídricos en la Reserva Privada Cerro del Cóndor, Provincia de Córdoba" representa la síntesis perfecta entre mi experiencia práctica en manejo de sistemas acuáticos y el conocimiento científico formal.
+
+## Aprendizajes y reflexiones
+
+Después de dos décadas en este campo, he aprendido que la conservación no es solo sobre proteger especies individuales, sino sobre comprender y mantener los ecosistemas completos. Los acuarios me enseñaron que cada organismo es parte de una red compleja de relaciones, y que el éxito a largo plazo requiere entender esas interconexiones.
+
+La ecohidrología me ha mostrado que estos principios se aplican también a escala de paisaje. Los recursos hídricos no existen en aislamiento, sino que forman parte de sistemas dinámicos donde los componentes bióticos y abióticos interactúan de maneras complejas y fascinantes.
+
+Mi trayectoria desde Secretaria Clínica Veterinaria hasta candidata a Magíster en Ecohidrología ilustra que las carreras profesionales pueden tomar caminos inesperados. Cada experiencia, desde el manejo de correspondencia hasta la coordinación de proyectos de investigación internacionales, ha contribuido a desarrollar una perspectiva integral sobre la conservación de sistemas acuáticos.
+
+## Hacia el futuro
+
+Hoy, mientras finalizo mi tesis en Argentina, reflexiono sobre los desafíos futuros de la conservación acuática. El cambio climático, la contaminación y la creciente presión sobre los recursos hídricos requieren profesionales que combinen experiencia práctica con rigor científico.
+
+Mi objetivo es continuar contribuyeando a la conservación de sistemas acuáticos, pero ahora desde una perspectiva más amplia que incluya no solo los aspectos biológicos, sino también los sociales, económicos y políticos que determinan el éxito de los esfuerzos de conservación.
+
+La trayectoria de estos 30 años me ha enseñado que la educación formal y la experiencia práctica se complementan de manera poderosa. Cada etapa ha construido sobre la anterior, creando una base sólida para enfrentar los desafíos futuros de la conservación acuática en un mundo en constante cambio.
+
+---
+
+*Vivian Yorojo Moreno es Licenciada en Biología y Química de la Universidad Santiago de Cali y candidata a Magíster en Análisis Ambiental de Sistemas Hídricos (Ecohidrología) de la Universidad Nacional de La Plata. Su experiencia incluye más de 15 años en manejo de fauna silvestre y sistemas acuáticos en el Zoológico de Cali, participación en múltiples proyectos de investigación y entrenamientos internacionales en acuarios de referencia mundial.*
