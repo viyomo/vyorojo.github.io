@@ -5,7 +5,7 @@ author: ""
 format: html
 ---
 
-Esta sección encontraras un registro de mi producción académica, participación técnica y trayectoria profesional documentada en fuentes externas. Clic en el link para ver.
+Esta sección encontraras un registro de producción académica y trayectoria profesional documentada en fuentes externas. Clic en el link.
 
 ## 1. Artículos ##
 
@@ -19,7 +19,7 @@ Esta sección encontraras un registro de mi producción académica, participaci�
 
 #### 2023
 
-- Juan M. Paredes del Puerto, Ariel Paracampo, Ignacio García, Tomás Maiztegui, **Vivian Yorojo Moreno**, Miriam Maroñas, Darío Colautti. 2023. Monitoreo de la ictiofauna en cursos de agua superficial de la cuencia Hidrográfica Matanza-Riachuelo, provincia de Buenos Aires (Argentina). Instituto de Limnología “Dr. R. A. Ringuelet. Convenio Específico Complementario Nro. 8 ACUMAR-ILPLA. 
+- Juan M. Paredes del Puerto, Ariel Paracampo, Ignacio García, Tomás Maiztegui, **Vivian Yorojo Moreno**, Miriam Maroñas, Darío Colautti. 2023. Monitoreo de la ictiofauna en cursos de agua superficial de la cuencia Hidrográfica Matanza-Riachuelo, provincia de Buenos Aires (Argentina). Instituto de Limnología “Dr. R. A. Ringuelet. Convenio Específico Complementario Nro. 8 ACUMAR-ILPLA. [Enlace](http://www.bdh.acumar.gov.ar/bdh3/publicacion_master.php?idobject=513978&retorno=publicacion_listado.php)
 
 
 - Di Cunzolo, S.; Negri, I.; Solanas, A.; Vojkovic, M.; Garcia de Souza J.;**Yorojo, V.**; Fajardo, L.; Alvarez, M. F.2024. Dinámica del zooplancton en una laguna pampeana en relación al grdo de conectividad hidrica con el Río Salado (BS. AS.).2024. En libro de resúmenes del IV Congreso Iberoamericano de Limnología y X Congreso Argentino de Limnologías (IV CIL, CAL X).[Enlace](https://limnoar.org/)
