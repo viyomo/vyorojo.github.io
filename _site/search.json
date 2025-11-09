@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "VIVIAN YOROJO MORENO",
+    "section": "",
+    "text": "De los zoológicos de Cali a la ecohidrología argentina: Mi trayectoria profesional\n\n\n\ntrayectoria\n\nconservación\n\nacuarios\n\necohidrología\n\n\n\nReflexiones sobre dos décadas de experiencia en biología, conservación de fauna y manejo de sistemas acuáticos\n\n\n\n\n\nOct 30, 2025\n\n\nVivian Yorojo Moreno\n\n\n\n\n\n\n\n\n\n\n\n\nEl cuello de botella de la acuicultura\n\n\n\nzooplanctoon\n\nproducción\n\nespecies\n\n\n\nLos retos de la producción del zooplancton para la alimentación de peces\n\n\n\n\n\nOct 23, 2025\n\n\nVivian Yorojo Moreno\n\n\n\n\n\n\n\n\n\n\n\n\nPeces\n\n\n\npeces\n\ndatos\n\nresultados\n\n\n\nPost description\n\n\n\n\n\nMay 22, 2021\n\n\nFizz McPhee\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/2025-10-prueba2/index.html",
+    "href": "posts/2025-10-prueba2/index.html",
+    "title": "Peces",
+    "section": "",
+    "text": "HOLA MUNDO!!"
+  },
+  {
+    "objectID": "posts/2025-10-prueba/index.html",
+    "href": "posts/2025-10-prueba/index.html",
+    "title": "El cuello de botella de la acuicultura",
+    "section": "",
+    "text": "El zooplancton es una …\n\n\n\n\n\nflowchart LR\n  A[Hard edge] --&gt; B(Round edge)\n  B --&gt; C{Decision}\n  C --&gt; D[Result one]\n  C --&gt; E[Result two]"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Vivian Yorojo Moreno",
@@ -28,11 +49,67 @@
     "text": "Manejo Ex Situ de Colecciones Acuáticas: Coordinación integral de colecciones de peces e invertebrados (agua dulce y marinos) en entornos de exhibición y cuarentena, basado en protocolos de conservación.\nControl Fisicoquímico Avanzado: Monitoreo de parámetros de calidad de agua utilizando espectrofotometría y técnicas electroquímicas.\nInvestigación Aplicada: Diseño e implementación de sistemas de acuicultura ecológica de especies nativas (ej. pejerrey en jaulas flotantes) y elaboración de protocolos de manejo.\n\n\n\n\n\nGestión de proyectos complejos y liderazgo de equipos en entornos de investigación, exhibición y extensión universitaria.\nDivulgación Científica: Participación activa en talleres de Transferencia Tecnológica en Acuicultura y programas educativos de difusión masiva."
   },
   {
-    "objectID": "posts/2025-10-prueba2/index.html",
-    "href": "posts/2025-10-prueba2/index.html",
-    "title": "Peces",
+    "objectID": "proyectos/index.html",
+    "href": "proyectos/index.html",
+    "title": "Participación en proyectos",
     "section": "",
-    "text": "HOLA MUNDO!!"
+    "text": "En esta sección presento algunos proyectos de investigación aplicada en los que he participado."
+  },
+  {
+    "objectID": "proyectos/index.html#colaboraciones-técnicas-y-campañas-de-campo",
+    "href": "proyectos/index.html#colaboraciones-técnicas-y-campañas-de-campo",
+    "title": "Participación en proyectos",
+    "section": "Colaboraciones técnicas y campañas de campo",
+    "text": "Colaboraciones técnicas y campañas de campo\n\n🚢 Caracterización biológica y ecológica de una laguna pampeana\n\nProyecto marco: relevamiento ambiental e ictiológico de laguna Chís Chís.\nRol: miembro del equipo de campo. Contribución: recolección en campo de muestras de peces y zooplancton. Documentación de parámetros biológicos para el análisis poblacional y pesquero.\nHabilidad clave: evaluación de zooplancton en cuerpos de agua. Análisis estadístico en software R.\n\n\n\n\n🚢 Proyecto producción de juveniles en la laguna Chis chis\n\nProyecto marco: producción masiva de juveniles de pejerrey (Odontesthes bonariensis) utilizando jaulas flotantes en lagunas del partido de Lezama, Provincia de Buenos Aires.\nRol: miembro del equipo de campo. Contribución: miembro responsable del proceso de implementación del cultivo.\nHabilidad clave: técnicas de acuicultura ecológica en jaulas flotantes.\n\n\n\n\n🚢 Estudio limnológico del Embalse del Rio III\n\nProyecto marco: Estudio limnológico del Embalse del Rio III, Córdoba (Argentina). Contrato nucleoeléctrica Argentina SA.-ILPLA, FCNyM, UNLP – CONICET Ref.: N.A.S.A. OC Nº 4500119836\nRol: miembro del equipo trabajo. Contribución: determinación taxonómica, cuantificación, análisis y presentación de informe.\nHabilidad clave: evaluación de zooplancton en cuerpos de agua. Manejo de software R.\n\n\n\n\n🚢 Campaña de muestreo biológico pesquero\n\nProyecto marco: proyecto de evaluación biológica y pesquera de especies de interés deportivo y comercial (EBIPES).\nRol: miembro del equipo de campo en la campaña N° 65. Contribución: recolección en campo de muestras de peces y en la documentación de parámetros biológicos (determinación de sexo y otros datos morfométricos) esenciales para el análisis poblacional y pesquero.\nHabilidad clave: Muestreo ictiológico en campo, recolección estandarizada de muestras y determinación de parámetros biológicos.\nDocumento de referencia: [Informe técnico N°84 - Campaña 65 (2024)]. Enlace\n\n\n\n\n🔬 Caracterización limnológica de una laguna pampeana\n\nProyecto marco: Estudio limnológico de la laguna De Bragado.\nRol: análisis de muestras de zooplancton. Contribución: cuantíficación y determinación taxonómica de zooplancton.\nHabilidad clave: evaluación de zooplancton en cuerpos de agua.\n\n\n\n\n🔬 Caracterización biológica y ecológica de una laguna pampeana\n\nProyecto marco: Estudio ictiológico y limnológico de la laguna San Lorenzo.\nRol: miembro del equipo de campo. Contribución 1: recolección en campo de muestras de peces y zooplancton, y en la documentación de parámetros biológicos para el análisis poblacional y pesquero. Contribución 2: cuantíficación y determinación taxonómica de zooplancton.\nHabilidad clave: evaluación de zooplancton en cuerpos de agua.\n\n\n\n\n🔬 Taller de determinación de edades en peces (otolitometría aplicada)\n\nProyecto marco: evaluación de los recursos ícticos del bajo río Uruguay y del Río de la Plata Interior (CARU-CARP).\nRol: participación activa en el IV Taller de preparación y lectura de otolitos. Contribución: responsable de la determinación de edades en ejemplares de peces, actividad que está directamente vinculada a la evaluación demográfica y pesquera del recurso ictícola regional.\nHabilidad clave: Técnicas de preparación y lectura de otolitos (Otolitometría).\nDocumento de referencia: [Informe Técnico Campaña Invierno 2016]. Enlace"
+  },
+  {
+    "objectID": "posts/2025-11-cv/index.html",
+    "href": "posts/2025-11-cv/index.html",
+    "title": "De los zoológicos de Cali a la ecohidrología argentina: Mi trayectoria profesional",
+    "section": "",
+    "text": "Mi pasión por los sistemas acuáticos nació en el Zoológico de Cali y continúa hoy en la investigación ecohidrológica en Argentina\nHace exactamente 30 años, mientras completaba mi bachillerato comercial en el Instituto INEM de Cali, nunca imaginé que mi futuro profesional estaría tan profundamente entrelazado con la conservación de la vida silvestre y los sistemas acuáticos. Todo comenzó de manera casual, como suelen comenzar las grandes pasiones, cuando en 1995 conseguí mi primer trabajo como digitadora en Tecnicopias del Sur.\nPero el destino tenía otros planes. En agosto de ese mismo año, ingresé a la Fundación Zoológica de Cali como Secretaria Clínica Veterinaria, y ahí comenzó mi verdadera educación. Durante seis años, no solo me encargué de la transcripción de historias clínicas de animales silvestres —desde leones y tigrillos hasta aves nocturnas y reptiles—, sino que me sumergí en un mundo que cambiaría el rumbo de mi vida profesional."
+  },
+  {
+    "objectID": "posts/2025-11-cv/index.html#introducción",
+    "href": "posts/2025-11-cv/index.html#introducción",
+    "title": "Mi Trayectoria Profesional: De la Biología a la Ecohidrología",
+    "section": "",
+    "text": "Hola, soy Vivian Yorojo Moreno, licenciada en Biología y Química, y magíster en Análisis Ambiental de Sistemas Hídricos (Ecohidrología). Nacida en Cali, Colombia, el 27 de septiembre de 1976, con nacionalidad colombiana y residencia en Argentina. Mi carrera ha estado dedicada a la conservación de la fauna silvestre, el manejo de acuarios y la investigación ambiental."
+  },
+  {
+    "objectID": "posts/2025-11-cv/index.html#educación",
+    "href": "posts/2025-11-cv/index.html#educación",
+    "title": "Mi Trayectoria Profesional: De la Biología a la Ecohidrología",
+    "section": "Educación",
+    "text": "Educación\n\nPrimaria y Secundaria: Escuela Isabel de Castilla y Bachiller comercial en el Instituto de Enseñanza Media Diversificada Jorge Isaacs, ambos en Cali.\nUniversitaria: Licenciada en Biología y Química por la Universidad Santiago de Cali (USC), Colombia.\nPosgrado: Maestría en Análisis Ambiental de Sistemas Hídricos (Ecohidrología) por la Universidad Nacional de La Plata (UNLP), Argentina. Actualmente desarrollando una tesis sobre la evaluación de recursos hídricos en la Reserva Privada Cerro del Cóndor, Córdoba, Argentina.\n\nIdiomas: Español e inglés."
+  },
+  {
+    "objectID": "posts/2025-11-cv/index.html#experiencia-profesional",
+    "href": "posts/2025-11-cv/index.html#experiencia-profesional",
+    "title": "Mi Trayectoria Profesional: De la Biología a la Ecohidrología",
+    "section": "Experiencia Profesional",
+    "text": "Experiencia Profesional\nMi trayectoria laboral comenzó en 1995 como digitadora en Tecnicopias del Sur, seguida de roles en la Fundación Zoológica de Cali, donde trabajé durante más de 15 años.\n\nCargos Desempeñados:\n\nSecretaria Clínica Veterinaria (1995-2001): Manejo de historias clínicas, archivo, atención al público y cuidado de animales silvestres.\nJefe de Cuidadores (temporal) (1999): Coordinación de cuidadores y mantenimiento de animales.\nCoordinadora Acuario (2001-2011): Responsable del manejo de acuarios de agua dulce y marina, monitoreo de parámetros físico-químicos, alimentación, mantenimiento y coordinación de equipos.\n\n\n\nActividades Principales:\n\nTranscripción y manejo de registros veterinarios.\nCuidado y mantenimiento de aves, mamíferos y reptiles.\nGestión de colecciones de peces e invertebrados en acuarios.\nMonitoreo de calidad del agua con espectrofotómetro.\nCaptura y adquisición de especies con proveedores autorizados.\nLimpieza y mantenimiento de sistemas de filtración.\nElaboración de informes y protocolos.\nCoordinación de personal, pasantes y voluntarios.\nCharlas educativas sobre organismos acuáticos."
+  },
+  {
+    "objectID": "posts/2025-11-cv/index.html#participación-en-proyectos-e-investigación",
+    "href": "posts/2025-11-cv/index.html#participación-en-proyectos-e-investigación",
+    "title": "Mi Trayectoria Profesional: De la Biología a la Ecohidrología",
+    "section": "Participación en Proyectos e Investigación",
+    "text": "Participación en Proyectos e Investigación\nHe contribuido a varios proyectos de conservación y divulgación:\n\nManejo y Reproducción del Cóndor Andino (2001): Participación en congreso internacional.\nCortometraje “Yacaira: Cóndor de los Andes” (2002): Documental sobre conservación.\nMetodologías de Manejo en Cautiverio de Especies Ornamentales (2009): Convenio con ICA y FZC.\nAlternativas Nutricionales para Peces (Proyecto de tesis).\nPrograma de TV “Exploradores por Naturaleza”: Episodios sobre especies acuáticas.\nFolleto “El Zooletín”: Publicaciones sobre peces.\nDiseño de Acuarios para Parque Suruma (2009): En Leticia, Amazonas."
+  },
+  {
+    "objectID": "posts/2025-11-cv/index.html#asistencia-a-congresos-y-capacitaciones",
+    "href": "posts/2025-11-cv/index.html#asistencia-a-congresos-y-capacitaciones",
+    "title": "Mi Trayectoria Profesional: De la Biología a la Ecohidrología",
+    "section": "Asistencia a Congresos y Capacitaciones",
+    "text": "Asistencia a Congresos y Capacitaciones\n\nDiplomado en Ecología y Diversidad de Peces (2002).\nCongresos de Acuicultura y Manejo de Fauna (2004-2011).\nCursos sobre Conservación de Anfíbios, Técnicas de Cultivo de Peces Marinos, etc.\nEntrenamientos en acuarios internacionales (Dallas World Aquarium, Shedd Aquarium, 2010).\nSeminarios sobre Cambio Climático, Contaminación Acuática y más."
+  },
+  {
+    "objectID": "posts/2025-11-cv/index.html#otros-intereses",
+    "href": "posts/2025-11-cv/index.html#otros-intereses",
+    "title": "Mi Trayectoria Profesional: De la Biología a la Ecohidrología",
+    "section": "Otros Intereses",
+    "text": "Otros Intereses\nAdministradora del sitio web www.miradorambiental.org. Mi trabajo combina pasión por la naturaleza, ciencia y educación ambiental.\nSi deseas contactarme: vivianyorojo@hotmail.com o vyorojo@gmail.com.\n\nEste post resume mi currículum vitae para compartir mi experiencia profesional en el campo de la biología y conservación."
   },
   {
     "objectID": "publicaciones/index.html",
@@ -63,31 +140,59 @@
     "text": "3. Roles y trayectoria\n\nPublicación: International Zoo Yearbook, Volumen 43\n\nFecha: 2009\nDetalle del reconocimiento: Listada en el directorio internacional de funcionarios de zoológicos y acuarios, documentando mi cargo oficial en la Fundación Zoologica de Cali.\nReferencia DOI: 10.1111/j.1748-1090.2008.00081.x\nEnlace: Enlace\n\nPublicación: International Zoo Yearbook, Volumen 42\n\nFecha: 2008\nDetalle del reconocimiento: Listada en el directorio intrnacional de funcionarios de zoológicos y acuarios, documentando mi cargo oficial en la Fundación Zoologica de Cali.\nReferencia DOI: 10.1111/j.1748-1090.2008.00081.x\nEnlace: Enlace"
   },
   {
-    "objectID": "proyectos/index.html",
-    "href": "proyectos/index.html",
-    "title": "Participación en proyectos",
-    "section": "",
-    "text": "En esta sección presento algunos proyectos de investigación aplicada en los que he participado."
+    "objectID": "posts/2025-11-cv/index.html#los-fundamentos-en-el-zoológico-de-cali",
+    "href": "posts/2025-11-cv/index.html#los-fundamentos-en-el-zoológico-de-cali",
+    "title": "De los zoológicos de Cali a la ecohidrología argentina: Mi trayectoria profesional",
+    "section": "Los fundamentos en el Zoológico de Cali",
+    "text": "Los fundamentos en el Zoológico de Cali\nMi trabajo diario me llevó a desarrollar habilidades que trascienden el simple manejo administrativo. Aprendí a preparar dietas especializadas para diferentes especies, a realizar controles de peso y medidas en tortugas, mamíferos y aves, y a manejar bases de radio de comunicación. Pero lo más importante fue que desarrollé una comprensión profunda del bienestar animal y la importancia de la conservación.\nDurante este período, también tuve la oportunidad de coordinar las actividades de los cuidadores, lo que me gave una perspectiva integral sobre el manejo de fauna en cautiverio. Desde los majestuosos flamencos hasta los enigmaticos perezosos de dos y tres dedos, cada especie me enseñó algo nuevo sobre adaptación, supervivencia y las complejas necesidades de los animales silvestres."
   },
   {
-    "objectID": "posts/2025-10-prueba/index.html",
-    "href": "posts/2025-10-prueba/index.html",
-    "title": "El cuello de botella de la acuicultura",
-    "section": "",
-    "text": "El zooplancton es una …\n\n\n\n\n\nflowchart LR\n  A[Hard edge] --&gt; B(Round edge)\n  B --&gt; C{Decision}\n  C --&gt; D[Result one]\n  C --&gt; E[Result two]"
+    "objectID": "posts/2025-11-cv/index.html#el-salto-a-la-coordinación-del-acuario",
+    "href": "posts/2025-11-cv/index.html#el-salto-a-la-coordinación-del-acuario",
+    "title": "De los zoológicos de Cali a la ecohidrología argentina: Mi trayectoria profesional",
+    "section": "El salto a la coordinación del acuario",
+    "text": "El salto a la coordinación del acuario\nEn noviembre de 2001, se abrió una nueva puerta cuando asumí como Coordinadora del Acuario. Este cambio representó un desafío enorme que requirió no solo conocimientos técnicos, sino también una visión estratégica para gestionar la colección de peces e invertebrados de agua dulce y marinos.\nLa responsabilidad era abrumadora: nueve exhibiciones de agua dulce (incluyendo acuarios de hasta 40 metros cúbicos), once exhibiciones marinas, dos lagos de biodiversidad, y un complejo sistema de cuarentenas. Pero cada desafío se convirtió en una oportunidad de aprendizaje y crecimiento profesional."
   },
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "VIVIAN YOROJO MORENO",
-    "section": "",
-    "text": "El cuello de botella de la acuicultura\n\n\n\nzooplanctoon\n\nproducción\n\nespecies\n\n\n\nLos retos de la producción del zooplancton para la alimentación de peces\n\n\n\n\n\nOct 23, 2025\n\n\nVivian Yorojo Moreno\n\n\n\n\n\n\n\n\n\n\n\n\nPeces\n\n\n\npeces\n\ndatos\n\nresultados\n\n\n\nPost description\n\n\n\n\n\nMay 22, 2021\n\n\nFizz McPhee\n\n\n\n\n\nNo matching items"
+    "objectID": "posts/2025-11-cv/index.html#la-ciencia-detrás-de-los-acuarios",
+    "href": "posts/2025-11-cv/index.html#la-ciencia-detrás-de-los-acuarios",
+    "title": "De los zoológicos de Cali a la ecohidrología argentina: Mi trayectoria profesional",
+    "section": "La ciencia detrás de los acuarios",
+    "text": "La ciencia detrás de los acuarios\nUno de los aspectos más fascinantes de mi trabajo fue el monitoreo de parámetros fisicoquímicos usando el Espectrofotómetro HACH DR 2500. El control riguroso de pH, amonio, nitritos y nitratos se convirtió en una rutina diaria que marcó la diferencia entre el éxito y el fracaso en el mantenimiento de ecosistemas acuáticos complejos.\nAprendí que la preparación de sales para exhibiciones marinas no es simplemente una cuestión de seguir una receta, sino que requiere un entendimiento profundo de las necesidades específicas de cada especie. La consecución de peces de agua dulce implicó desarrollar relaciones con pescadores artesanales del Río Cauca y la Laguna de Sonso, así como coordinar con el Museo de Ciencias Naturales del Valle del Cauca (INCIVA)."
   },
   {
-    "objectID": "proyectos/index.html#colaboraciones-técnicas-y-campañas-de-campo",
-    "href": "proyectos/index.html#colaboraciones-técnicas-y-campañas-de-campo",
-    "title": "Participación en proyectos",
-    "section": "Colaboraciones técnicas y campañas de campo",
-    "text": "Colaboraciones técnicas y campañas de campo\n\n🚢 Caracterización biológica y ecológica de una laguna pampeana\n\nProyecto marco: relevamiento ambiental e ictiológico de laguna Chís Chís.\nRol: miembro del equipo de campo. Contribución: recolección en campo de muestras de peces y zooplancton. Documentación de parámetros biológicos para el análisis poblacional y pesquero.\nHabilidad clave: evaluación de zooplancton en cuerpos de agua. Análisis estadístico en software R.\n\n\n\n\n🚢 Proyecto producción de juveniles en la laguna Chis chis\n\nProyecto marco: producción masiva de juveniles de pejerrey (Odontesthes bonariensis) utilizando jaulas flotantes en lagunas del partido de Lezama, Provincia de Buenos Aires.\nRol: miembro del equipo de campo. Contribución: miembro responsable del proceso de implementación del cultivo.\nHabilidad clave: técnicas de acuicultura ecológica en jaulas flotantes.\n\n\n\n\n🚢 Estudio limnológico del Embalse del Rio III\n\nProyecto marco: Estudio limnológico del Embalse del Rio III, Córdoba (Argentina). Contrato nucleoeléctrica Argentina SA.-ILPLA, FCNyM, UNLP – CONICET Ref.: N.A.S.A. OC Nº 4500119836\nRol: miembro del equipo trabajo. Contribución: determinación taxonómica, cuantificación, análisis y presentación de informe.\nHabilidad clave: evaluación de zooplancton en cuerpos de agua. Manejo de software R.\n\n\n\n\n🚢 Campaña de muestreo biológico pesquero\n\nProyecto marco: proyecto de evaluación biológica y pesquera de especies de interés deportivo y comercial (EBIPES).\nRol: miembro del equipo de campo en la campaña N° 65. Contribución: recolección en campo de muestras de peces y en la documentación de parámetros biológicos (determinación de sexo y otros datos morfométricos) esenciales para el análisis poblacional y pesquero.\nHabilidad clave: Muestreo ictiológico en campo, recolección estandarizada de muestras y determinación de parámetros biológicos.\nDocumento de referencia: [Informe técnico N°84 - Campaña 65 (2024)]. Enlace\n\n\n\n\n🔬 Caracterización limnológica de una laguna pampeana\n\nProyecto marco: Estudio limnológico de la laguna De Bragado.\nRol: análisis de muestras de zooplancton. Contribución: cuantíficación y determinación taxonómica de zooplancton.\nHabilidad clave: evaluación de zooplancton en cuerpos de agua.\n\n\n\n\n🔬 Caracterización biológica y ecológica de una laguna pampeana\n\nProyecto marco: Estudio ictiológico y limnológico de la laguna San Lorenzo.\nRol: miembro del equipo de campo. Contribución 1: recolección en campo de muestras de peces y zooplancton, y en la documentación de parámetros biológicos para el análisis poblacional y pesquero. Contribución 2: cuantíficación y determinación taxonómica de zooplancton.\nHabilidad clave: evaluación de zooplancton en cuerpos de agua.\n\n\n\n\n🔬 Taller de determinación de edades en peces (otolitometría aplicada)\n\nProyecto marco: evaluación de los recursos ícticos del bajo río Uruguay y del Río de la Plata Interior (CARU-CARP).\nRol: participación activa en el IV Taller de preparación y lectura de otolitos. Contribución: responsable de la determinación de edades en ejemplares de peces, actividad que está directamente vinculada a la evaluación demográfica y pesquera del recurso ictícola regional.\nHabilidad clave: Técnicas de preparación y lectura de otolitos (Otolitometría).\nDocumento de referencia: [Informe Técnico Campaña Invierno 2016]. Enlace"
+    "objectID": "posts/2025-11-cv/index.html#la-investigación-como-motor-del-cambio",
+    "href": "posts/2025-11-cv/index.html#la-investigación-como-motor-del-cambio",
+    "title": "De los zoológicos de Cali a la ecohidrología argentina: Mi trayectoria profesional",
+    "section": "La investigación como motor del cambio",
+    "text": "La investigación como motor del cambio\nMi paso por el Zoológico de Cali no fue solo administrativo. En 2001, participé en mi primera investigación sobre el manejo y reproducción del cóndor andino, junto con colegas como Gustavo Caicedo y Ulises Valdez. Esta experiencia me abrió los ojos al poder de la investigación aplicada en conservación.\nPero fue el proyecto de “Metodologías de Manejo en Cautiverio de Especies Ornamentales” en 2009 el que realmente transformó mi perspectiva profesional. Coordinar actividades de campo, manejar presupuestos y generar informes finales me enseñó que la conservación requiere no solo pasión, sino también habilidades de gestión y comunicación científica."
+  },
+  {
+    "objectID": "posts/2025-11-cv/index.html#la-expansión-internacional-de-conocimientos",
+    "href": "posts/2025-11-cv/index.html#la-expansión-internacional-de-conocimientos",
+    "title": "De los zoológicos de Cali a la ecohidrología argentina: Mi trayectoria profesional",
+    "section": "La expansión internacional de conocimientos",
+    "text": "La expansión internacional de conocimientos\nMi compromiso con el aprendizaje continuo me llevó a participar en entrenamientos internacionales. En 2010, tuve la oportunidad de formarme en el Dallas World Aquarium, donde aprendí técnicas avanzadas de manejo de acuarios marinos y sistemas de cuarentena. Posteriormente, en el Shedd Aquarium de Chicago, profundicé mis conocimientos en sistemas marinos.\nEstas experiencias internacionales no solo mejoraron mis habilidades técnicas, sino que me conectaron con una red global de profesionales comprometidos con la conservación acuática. Cada visita a estos centros de excelencia me permitía regresar a Colombia con nuevas ideas y metodologías."
+  },
+  {
+    "objectID": "posts/2025-11-cv/index.html#la-transición-hacia-la-ecohidrología",
+    "href": "posts/2025-11-cv/index.html#la-transición-hacia-la-ecohidrología",
+    "title": "De los zoológicos de Cali a la ecohidrología argentina: Mi trayectoria profesional",
+    "section": "La transición hacia la ecohidrología",
+    "text": "La transición hacia la ecohidrología\nEn 2011, decidí dar un paso audaz: mudarme a Argentina para cursar una Maestría en Análisis Ambiental de Sistemas Hídricos con especialización en Ecohidrología. Esta decisión no fue fácil, ya que significaba dejar atrás una carrera consolidada en Colombia para convertirme en estudiante nuevamente.\nEl cambio fue transformador. La Maestría me proporcionó las herramientas científicas para entender no solo los sistemas acuáticos artificiales que había manejado durante años, sino también los ecosistemas naturales y su compleja dinámica. Mi tesis actual sobre la “Evaluación de los Recursos Hídricos en la Reserva Privada Cerro del Cóndor, Provincia de Córdoba” representa la síntesis perfecta entre mi experiencia práctica en manejo de sistemas acuáticos y el conocimiento científico formal."
+  },
+  {
+    "objectID": "posts/2025-11-cv/index.html#aprendizajes-y-reflexiones",
+    "href": "posts/2025-11-cv/index.html#aprendizajes-y-reflexiones",
+    "title": "De los zoológicos de Cali a la ecohidrología argentina: Mi trayectoria profesional",
+    "section": "Aprendizajes y reflexiones",
+    "text": "Aprendizajes y reflexiones\nDespués de dos décadas en este campo, he aprendido que la conservación no es solo sobre proteger especies individuales, sino sobre comprender y mantener los ecosistemas completos. Los acuarios me enseñaron que cada organismo es parte de una red compleja de relaciones, y que el éxito a largo plazo requiere entender esas interconexiones.\nLa ecohidrología me ha mostrado que estos principios se aplican también a escala de paisaje. Los recursos hídricos no existen en aislamiento, sino que forman parte de sistemas dinámicos donde los componentes bióticos y abióticos interactúan de maneras complejas y fascinantes.\nMi trayectoria desde Secretaria Clínica Veterinaria hasta candidata a Magíster en Ecohidrología ilustra que las carreras profesionales pueden tomar caminos inesperados. Cada experiencia, desde el manejo de correspondencia hasta la coordinación de proyectos de investigación internacionales, ha contribuido a desarrollar una perspectiva integral sobre la conservación de sistemas acuáticos."
+  },
+  {
+    "objectID": "posts/2025-11-cv/index.html#hacia-el-futuro",
+    "href": "posts/2025-11-cv/index.html#hacia-el-futuro",
+    "title": "De los zoológicos de Cali a la ecohidrología argentina: Mi trayectoria profesional",
+    "section": "Hacia el futuro",
+    "text": "Hacia el futuro\nHoy, mientras finalizo mi tesis en Argentina, reflexiono sobre los desafíos futuros de la conservación acuática. El cambio climático, la contaminación y la creciente presión sobre los recursos hídricos requieren profesionales que combinen experiencia práctica con rigor científico.\nMi objetivo es continuar contribuyeando a la conservación de sistemas acuáticos, pero ahora desde una perspectiva más amplia que incluya no solo los aspectos biológicos, sino también los sociales, económicos y políticos que determinan el éxito de los esfuerzos de conservación.\nLa trayectoria de estos 30 años me ha enseñado que la educación formal y la experiencia práctica se complementan de manera poderosa. Cada etapa ha construido sobre la anterior, creando una base sólida para enfrentar los desafíos futuros de la conservación acuática en un mundo en constante cambio.\n\nVivian Yorojo Moreno es Licenciada en Biología y Química de la Universidad Santiago de Cali y candidata a Magíster en Análisis Ambiental de Sistemas Hídricos (Ecohidrología) de la Universidad Nacional de La Plata. Su experiencia incluye más de 15 años en manejo de fauna silvestre y sistemas acuáticos en el Zoológico de Cali, participación en múltiples proyectos de investigación y entrenamientos internacionales en acuarios de referencia mundial."
   }
 ]
