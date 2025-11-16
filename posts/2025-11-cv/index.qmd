@@ -12,8 +12,9 @@ categories:
 
 
 
-![Mi pasión por los ecosistemas acuáticos nació en el Zoológico de Cali y continúa hoy en la acuicultura en Argentina. \label{figurelabel}](salta1.png){fig.aling="right" width=30%}
 
+
+![Mi pasión por los ecosistemas acuáticos nació en el Zoológico de Cali y continua hoy en la acuicultura en Argentina](salta1.png){width=6in}
 
 
 Hace exactamente 30 años, mientras completaba mi bachillerato comercial en el Instituto Nacional de Enseñanza Media Diversificada INEM "Jorge Isaacs" de Cali, no imaginé que mi futuro profesional estaría tan profundamente entrelazado con la conservación de la fauna y los ecosistemas acuáticos. 
@@ -61,7 +62,20 @@ La consecución de peces de agua dulce implicó desarrollar relaciones con pesca
 
 Mi paso por el Zoológico de Cali estuvo lleno de aprendizajes. En 2001, colaboré en la investigación sobre la cría en cautiverio del Cóndor de los Andes "Yacaira", que posteriormente se convertiría en un documental. 
 
->Esta experiencia me abrió los ojos al poder de la investigación aplicada en conservación. 
+
+::: {#vid-cern}
+{{< video https://www.youtube.com/watch?v=Kcu0IzRqTc8 width="350" height="225" >}}
+:::
+
+
+::: {.callout-note appearance="simple"}
+
+Esta experiencia me abrió los ojos al poder de la investigación aplicada en conservación. 
+
+:::
+
+
+
 
 En el acuario asesoré un primer trabajo sobre "metodologías de manejo en cautiverio de especies ornamentales", el cual ayudó a transformar mi perspectiva profesional. 
 
@@ -72,18 +86,29 @@ Participé en áreas relacionadas con la comunicación de la ciencia a través d
 
 ## El aprendizaje en otros lugares
 
->Mi compromiso con el aprendizaje continuo me llevó a participar en entrenamientos en el Dallas World Aquarium y Shedd Aquarium, donde conocí técnicas avanzadas de mantenimiento de acuarios, sistemas de filtración y cuarentenas.
+Mi compromiso con el aprendizaje continuo me llevó a participar en entrenamientos en el Dallas World Aquarium  y Shedd Aquarium, donde conocí técnicas avanzadas de mantenimiento de acuarios, sistemas de filtración y cuarentenas.
+
+:::: {layout="[[1,1], [1]]"}
+
+![Shedd Aquarium](shedd1.png)
+
+![Mola en Fort Worth Zoo](mola1.png)
+
+![Dallas World Aquarium](dallas2.png){width=7in}
+
+:::
 
 
 ## De los acuarios al ecosistema natural 
 
 En 2011, realicé un cambio importante: cursar una _Maestría en Análisis Ambiental de Sistemas Hídricos (Ecohidrología)_. Esta decisión no fue fácil, pero significó un avance académico y me proporcionó herramientas para entender los sistemas acuáticos desde otro contexto. 
 
-En este camino de aprendizaje y conocimientos inicié el _Doctorado en ciencias naturales_ con una investigación en el campo de la acuicultura.
+En este camino de aprendizaje y conocimientos inicié el _Doctorado en ciencias naturales_ con una investigación en el campo de la acuicultura. [ver](https://weekend.perfil.com/noticias/pesca/buenas-noticias-para-3-lagunas-que-suman-pejerreyes.phtml)
 
 El cambio fue transformador. El doctorado me proporcionó las herramientas científicas para complementar mi experiencia en acuarios y estanques, con los ecosistemas naturales y su compleja dinámica. 
 
 >Mi tesis actual sobre la Acuicultura ecológica representa la síntesis perfecta entre mi experiencia práctica en manejo de sistemas acuáticos y el conocimiento científico formal.
+
 
 ## Aprendizajes y reflexiones
 
