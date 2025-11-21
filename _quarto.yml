@@ -11,11 +11,12 @@ website:
         text: Publicaciones
       - href: proyectos     
         text: Proyectos
+      - href: investigacion     
+        text: Investigacion
       - href: blog.html     
         text: Blog
       - href: cv.pdf     
         text: CV
-
       
 
   page-footer:

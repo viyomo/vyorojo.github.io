@@ -1,0 +1,42 @@
+---
+title: "Investigación e intereses"
+format: html
+---
+
+Me apasiona el estudio y la optimización de los sistemas acuícolas para garantizar la producción sostenible de peces, poniendo el foco en la calidad del agua y la eficiencia ecológica. Mi trayectoria profesional es reflejo de mis intereses. 
+
+
+
+## Acuicultura ecológica del pejerrey
+::: {layout-ncol=2}
+![](peje_ciclo_zoo.png){width=3.5in fig-align="left"}
+
+
+La acicultura ecológica del pejerrey (Odontesthes bonariensis) se enfoca en la producción de juveniles de pejerrey mediante el aprovechamiento de la producción natural del zooplancton en las lagunas pampeanas
+
+:::
+
+
+
+
+
+:::: {layout="[ 60, 40 ]"}
+
+::: {#first-column}
+```r
+Acuicultura del pejerrey
+
+```
+La acicultura ecológica del pejerrey (Odontesthes bonariensis) se enfoca en la producción de juveniles de pejerrey mediante el aprovechamiento de la producción natural del zooplancton en las lagunas pampeanas
+:::
+
+::: {#second-column}
+
+![](peje_ciclo_zoo.png){width=3.5in fig-align="left"}
+:::
+
+::::
+
+
+
+
