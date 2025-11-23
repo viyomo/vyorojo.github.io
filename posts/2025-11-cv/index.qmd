@@ -72,18 +72,19 @@ Esta experiencia me abrió los ojos al poder de la investigación aplicada en co
 :::
 
 
+En el acuario asesoré un primer trabajo sobre "metodologías de manejo en cautiverio de especies ornamentales", el cual ayudó a transformar mi perspectiva profesional. [enlace](https://catalogo.ut.edu.co/cgi-bin/koha/opac-detail.pl?biblionumber=24101&query_desc=su%3A%22PISCICULTURA%22) 
 
+Participé en áreas relacionadas con la comunicación de la ciencia a través de mi participación en el programa televisivo "Exploradores por Naturaleza". Algunos de los temas tratados sobre el manejo de peces en cautiverio fueron: el Pirarucu (_Arapaima gigas_) [enlace](https://www.youtube.com/watch?v=HoLLUnYkFSI), Pez globo (_Sphoroides annulatus_) [enlace](https://www.youtube.com/watch?v=JNLxB7ZpwHs), Carpa común (_Cyprinus carpio_) [enlace](https://www.youtube.com/watch?v=bTgLn485s6M), Caballito de mar (_Hippocampus ssp.) [enlace](https://www.youtube.com/watch?v=7ljCr6lxKE4), Raya de rio [enlace](https://www.youtube.com/watch?v=7TV8EdpELN8), entre otros. Además contribuí con algunas publicaciones sobre animales en el "Zooletin" (publicación trimestral). <embed src="zooletin 65.pdf" type="application/pdf" width="90%" height="500px" />
 
-En el acuario asesoré un primer trabajo sobre "metodologías de manejo en cautiverio de especies ornamentales", el cual ayudó a transformar mi perspectiva profesional. 
-
-Participé en áreas relacionadas con la comunicación de la ciencia a través de mi participación en el programa televisivo "Exploradores por Naturaleza" y contribuí con algunas publicaciones sobre animales en el "Zooletin" (publicación trimestral de la FZC).
-
->Actividades con las que comprendí lo importante que es la comunicación científica. 
+::: {.callout-note appearance="simple"}
+Actividades con las que comprendí lo importante que es la comunicación científica. 
+:::
 
 
 ## El aprendizaje en otros lugares
 
-Mi compromiso con el aprendizaje continuo me llevó a participar en entrenamientos en el Dallas World Aquarium  y Shedd Aquarium, donde conocí técnicas avanzadas de mantenimiento de acuarios, sistemas de filtración y cuarentenas.
+Mi compromiso con el aprendizaje continuo me llevó a participar en entrenamientos en el Dallas World Aquarium <a href="dallas.pdf">PDF</a>
+ y Shedd Aquarium, donde conocí técnicas avanzadas de mantenimiento de acuarios, sistemas de filtración y cuarentenas.
 
 :::: {layout="[[1,1], [1]]"}
 
@@ -103,6 +104,7 @@ En 2011, realicé un cambio importante: cursar una _Maestría en Análisis Ambie
 En este camino de aprendizaje y conocimientos inicié el _Doctorado en ciencias naturales_ con una investigación en el campo de la acuicultura. [ver](https://weekend.perfil.com/noticias/pesca/buenas-noticias-para-3-lagunas-que-suman-pejerreyes.phtml)
 
 El cambio fue transformador. El doctorado me proporcionó las herramientas científicas para complementar mi experiencia en acuarios y estanques, con los ecosistemas naturales y su compleja dinámica. 
+
 
 >Mi tesis actual sobre la Acuicultura ecológica representa la síntesis perfecta entre mi experiencia práctica en manejo de sistemas acuáticos y el conocimiento científico formal.
 
