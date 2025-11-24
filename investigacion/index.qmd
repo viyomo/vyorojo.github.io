@@ -27,6 +27,3 @@ Trabajo de tesis doctoral que se basa en la implementación de la acuicultura ec
 
 
 
-## Los datos detrás de la acuicultura
-
-La ciencia de datos no solo sirve para procesar números, sino para comprender la dinámica del medio acuático. Me interesa transformar la complejidad ambiental en claridad analítica, permitiendo que la toma de decisiones deje de basarse en la intuición y se fundamente en la evidencia rigurosa de los datos.
