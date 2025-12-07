@@ -345,7 +345,7 @@
   {
     "objectID": "investigacion/index.html",
     "href": "investigacion/index.html",
-    "title": "Investigación e intereses",
+    "title": "ACUICULTURA",
     "section": "",
     "text": "Me apasiona el estudio de los sistemas acuícolas para garantizar la producción sostenible de peces. Mi trayectoria profesional es reflejo de mis intereses."
   },
@@ -415,7 +415,7 @@
   {
     "objectID": "investigacion/index.html#implementación-de-la-acuicultura-ecológico-del-pejerrey-aep",
     "href": "investigacion/index.html#implementación-de-la-acuicultura-ecológico-del-pejerrey-aep",
-    "title": "Investigación e intereses",
+    "title": "ACUICULTURA",
     "section": "Implementación de la acuicultura ecológico del pejerrey (AEP)",
     "text": "Implementación de la acuicultura ecológico del pejerrey (AEP)\n\n\n\nAEP\nTrabajo de tesis doctoral que se basa en la implementación de la acuicultura ecológica del pejerrey en jaulas flotantes enlace. Este método de cultivo tiene un enfoque ecosistémico, el cual reconoce que las personas son parte integral del ecosistema y deben estar en el centro de la gestión."
   },
@@ -425,5 +425,26 @@
     "title": "Investigación e intereses",
     "section": "Los datos detrás de la acuicultura",
     "text": "Los datos detrás de la acuicultura\nLa ciencia de datos no solo sirve para procesar números, sino para comprender la dinámica del medio acuático. Me interesa transformar la complejidad ambiental en claridad analítica, permitiendo que la toma de decisiones deje de basarse en la intuición y se fundamente en la evidencia rigurosa de los datos."
+  },
+  {
+    "objectID": "acuicultura/index.html",
+    "href": "acuicultura/index.html",
+    "title": "Acuicultura sostenible y enfoque ecosistémico",
+    "section": "",
+    "text": "la acuicultura va más allá de la mera producción de peces; es una herramienta vital para el desarrollo sostenible, la seguridad alimentaria y la preservación de nuestros ecosistemas acuáticos.\n\nAcuicultura sostenible y enfoque ecosistémico\nAdoptamos el Enfoque Ecosistémico de la Acuicultura (EEA) propuesto por la FAO. Este paradigma reconoce que los seres humanos somos parte integral del ecosistema y debemos estar en el centro de su gestión. Nuestro modelo busca un equilibrio entre la diversificación de ingresos y dietas, y el uso responsable de los recursos, asegurando que no se generen impactos adversos en el medio ambiente ni en las comunidades locales.\nNos guiamos por principios fundamentales que incluyen la gobernanza inclusiva y transparente, el respeto a los derechos de tenencia de la tierra y el agua, y la promoción de la igualdad de género. Entendemos que la inversión responsable, ya sea pública o privada, debe considerar factores ambientales y sociales para garantizar la equidad y la resiliencia de los sistemas socioecológicos.\n\n¿Qué es la Acuicultura Ecológica?\nImplementamos un modelo de Acuicultura Ecológica. Esta es una alternativa a la acuicultura tradicional que integra los saberes locales derivados de la interacción cotidiana entre las personas y su entorno, con herramientas científicas avanzadas para comprender los procesos ambientales.\nEste enfoque se basa en los principios de funcionamiento del propio ecosistema, utilizando sus servicios naturales en lugar de depender exclusivamente de insumos externos. La Importancia de la Larvicultura\nUna fase crucial de nuestro trabajo es la larvicultura, que es el cultivo de peces en sus etapas más tempranas de desarrollo. Durante esta fase crítica, las larvas agotan las reservas de su saco vitelino y necesitan procesar recursos alimenticios externos.\nNuestra metodología se enfoca en suplir estos requerimientos nutricionales de forma natural. Dado que las larvas son generalmente planctófagas, su supervivencia depende de la provisión de plancton variado y de excelente calidad, así como de un monitoreo riguroso de la calidad del agua (temperatura, oxígeno, nutrientes) para garantizar su desarrollo óptimo.\n\n\nEjemplo práctico: Cultivo de pejerrey en jaulas flotantes en Lagunas Pampeanas\nEl Pejerrey (Odontesthes bonariensis), una especie originaria de la cuenca del Río de La Plata y de altísimo valor para la pesca deportiva y el turismo regional particularmente en la provincia de Buenos Aires (Argentina).\nEste proyecto nace de la necesidad de reforzar las poblaciones silvestres de pejerreyes, que sostienen la demanda gastronómica y recreativa de las lagunas pampeanas, actualmente sometidas a presión por extracción enlace .\n\n\nImplementación de la acuicultura ecológica del pejerrey (AEP)\n\n\n\nAEP\nTrabajo de tesis doctoral que se basa en la implementación de la acuicultura ecológica del pejerrey en jaulas flotantes enlace. Este método de cultivo tiene un enfoque ecosistémico, el cual reconoce que las personas son parte integral del ecosistema y deben estar en el centro de la gestión.\n\n\n\n\n\n\n\n\n\n\n\nLarvicultura\nEl sistema de jaulas flotantes se encuentra adaptado a las características de las lagunas pampeanas. el ciclo es anual e inicia en la primavera.\n\n\n\n\n\nflowchart LR\n  A[**Producción de larvas** ] --&gt; B(**larvicultura en jaulas flotantes** )\n  B --&gt; C{**Decisión de manejo** }\n  C --&gt; D[**Repoblamiento** ]\n  C --&gt; E[**Engorde hasta Talla Comercial** ]"
+  },
+  {
+    "objectID": "acuicultura/index.html#implementación-de-la-acuicultura-ecológico-del-pejerrey-aep",
+    "href": "acuicultura/index.html#implementación-de-la-acuicultura-ecológico-del-pejerrey-aep",
+    "title": "Acuicultura sostenible y enfoque ecosistémico",
+    "section": "Implementación de la acuicultura ecológico del pejerrey (AEP)",
+    "text": "Implementación de la acuicultura ecológico del pejerrey (AEP)\n\n\n\nAEP\nTrabajo de tesis doctoral que se basa en la implementación de la acuicultura ecológica del pejerrey en jaulas flotantes enlace. Este método de cultivo tiene un enfoque ecosistémico, el cual reconoce que las personas son parte integral del ecosistema y deben estar en el centro de la gestión."
+  },
+  {
+    "objectID": "acuicultura/index.html#format-html",
+    "href": "acuicultura/index.html#format-html",
+    "title": "Acuicultura Sostenible y Enfoque Ecosistémico",
+    "section": "format: html",
+    "text": "format: html\nEn nuestra visión, la acuicultura va más allá de la mera producción de peces; es una herramienta vital para el desarrollo sostenible, la seguridad alimentaria y la preservación de nuestros ecosistemas acuáticos."
   }
 ]

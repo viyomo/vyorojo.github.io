@@ -11,8 +11,8 @@ website:
         text: Publicaciones
       - href: proyectos     
         text: Proyectos
-      - href: investigacion     
-        text: Investigacion
+      - href: acuicultura  
+        text: Acuicultura
       - href: blog.html     
         text: Blog
       - href: cv.pdf     
