@@ -1,58 +1,42 @@
 
+![](acuicultura.jpg){fig-align="center" width=200%}
+
+
+Una **Red de Colaboración para la Acuicultura Sostenible** no es solo la suma de actores, sino un sistema dinámico e integrado de gobernanza participativa que sitúa al diálogo en el centro de la gestión.
+
+Desde una perspectiva **biológica** y **ecosistémica**, esta red reconoce que la acuicultura no es una actividad aislada, sino que está intrínsecamente acoplada al entorno natural. Por lo tanto, integra explícitamente la base biológica del ecosistema no meramente como recursos a explotar, sino como elementos vitales que deben ser gestionados bajo principios de precaución y respeto a la capacidad de carga del ambiente.
+
+Para lograr la sostenibilidad, la red se apoya en la investigación científica y la innovación tecnológica como pilares fundamentales. Utiliza herramientas avanzadas de monitoreo y análisis de datos para transformar la información biológica y económica en decisiones estratégicas.
+
+El objetivo final es forjar alianzas sólidas entre el sector productivo, la academia, las comunidades locales y las entidades reguladoras, asegurando que la viabilidad económica vaya de la mano con la equidad social y la resiliencia ecológica a largo plazo.
+
+### ¿Que es una acuicultura sostenible?
+
+Es la práctica orientada a garantizar la salud y productividad a largo plazo de los ecosistemas acuáticos, enfocándose prioritariamente en la conservación de la biodiversidad y la minimización de impactos ambientales mediante el uso eficiente de los recursos naturales.
+
+Este enfoque integra, a su vez, una profunda responsabilidad social, promueva la equidad y satisface las necesidades de las generaciones presentes y futuras bajo marcos de gobernanza transparentes.
+
+
+### Caso de estudio: Implementación de la acuicultura ecológica del pejerrey (AEP)
+
+![](pejerreyA.jpeg){fig-align="center" width=40%}
+
+El pejerrey (_Odontesthes bonariensis_) es una especie originaria de la cuenca del Río de La Plata, que se encuentra ampliamente distribuida en lagos, lagunas y embalses sudamericanos de la zona templada. Particularmente en el ambiente lagunar pampeano, donde registra mayor abundancia.
+
+Este proyecto nace de la necesidad de reforzar las poblaciones silvestres de pejerreyes en las lagunas pampeanas, actualmente sometidas a presión por extracción [enlace](https://www.conicet.gov.ar/especialistas-del-conicet-trabajan-para-repoblar-de-pejerreyes-la-cuenca-del-plata/) .
 
 
 
+::: {.callout-tip}
+## AEP
 
-la acuicultura va más allá de la mera producción de peces; es una herramienta vital para el desarrollo sostenible, la seguridad alimentaria y la preservación de nuestros ecosistemas acuáticos.
-
-
-# Acuicultura sostenible y enfoque ecosistémico
-
-Adoptamos el Enfoque Ecosistémico de la Acuicultura (EEA) propuesto por la FAO. Este paradigma reconoce que los seres humanos somos parte integral del ecosistema y debemos estar en el centro de su gestión. Nuestro modelo busca un equilibrio entre la diversificación de ingresos y dietas, y el uso responsable de los recursos, asegurando que no se generen impactos adversos en el medio ambiente ni en las comunidades locales.
-
-Nos guiamos por principios fundamentales que incluyen la gobernanza inclusiva y transparente, el respeto a los derechos de tenencia de la tierra y el agua, y la promoción de la igualdad de género. Entendemos que la inversión responsable, ya sea pública o privada, debe considerar factores ambientales y sociales para garantizar la equidad y la resiliencia de los sistemas socioecológicos.
-
-#### ¿Qué es la Acuicultura Ecológica?
-
-Implementamos un modelo de Acuicultura Ecológica. Esta es una alternativa a la acuicultura tradicional que integra los saberes locales derivados de la interacción cotidiana entre las personas y su entorno, con herramientas científicas avanzadas para comprender los procesos ambientales.
-
-Este enfoque se basa en los principios de funcionamiento del propio ecosistema, utilizando sus servicios naturales en lugar de depender exclusivamente de insumos externos.
-La Importancia de la Larvicultura
-
-Una fase crucial de nuestro trabajo es la larvicultura, que es el cultivo de peces en sus etapas más tempranas de desarrollo. Durante esta fase crítica, las larvas agotan las reservas de su saco vitelino y necesitan procesar recursos alimenticios externos.
-
-Nuestra metodología se enfoca en suplir estos requerimientos nutricionales de forma natural. Dado que las larvas son generalmente planctófagas, su supervivencia depende de la provisión de plancton variado y de excelente calidad, así como de un monitoreo riguroso de la calidad del agua (temperatura, oxígeno, nutrientes) para garantizar su desarrollo óptimo.
-
-
-#### Ejemplo práctico: Cultivo de pejerrey en jaulas flotantes en Lagunas Pampeanas
-
-El Pejerrey (_Odontesthes bonariensis_), una  especie originaria de la cuenca del Río de La Plata y de altísimo valor para la pesca deportiva y el turismo regional particularmente en la provincia de Buenos Aires (Argentina).
-
-Este proyecto nace de la necesidad de reforzar las poblaciones silvestres de pejerreyes, que sostienen la demanda gastronómica y recreativa de las lagunas pampeanas, actualmente sometidas a presión por extracción [enlace](https://www.conicet.gov.ar/especialistas-del-conicet-trabajan-para-repoblar-de-pejerreyes-la-cuenca-del-plata/) .
-
-
-### Implementación de la acuicultura ecológica del pejerrey (AEP)
-
-:::: {layout="[ 40, 60 ]"}
-
-::: {#first-column}
-```r
-AEP
-
-```
-Trabajo de tesis doctoral que se basa en la implementación de la acuicultura ecológica del pejerrey en jaulas flotantes [enlace](https://www.conicet.gov.ar/especialistas-del-conicet-trabajan-para-repoblar-de-pejerreyes-la-cuenca-del-plata/). Este método de cultivo tiene un enfoque ecosistémico, el cual reconoce que las personas son parte integral del ecosistema y deben estar en el centro de la gestión. 
+Es un trabajo de tesis doctoral que se basa en la implementación de la Acuicultura Ecológica del Pejerrey  en jaulas flotantes [enlace](https://www.conicet.gov.ar/especialistas-del-conicet-trabajan-para-repoblar-de-pejerreyes-la-cuenca-del-plata/). Método de cultivo que tiene un alto enfoque ecosistémico.
 :::
 
-::: {#second-column}
 
-![](pejerreyA.jpeg){width=3.5in fig-align="left"}
-:::
+#### La importancia de la larvicultura en la cadena de producción
 
-::::
-
-#### Larvicultura
-
-El sistema de jaulas flotantes se encuentra adaptado a las características de las lagunas pampeanas. El ciclo es anual e inicia en la primavera.
+En este trabajo se hace énfasis en la larvicultura de esta especie como eslabon principal para continuar con la cadena de producción de juveniles. Es por esto que las unidades de cultivo o sistema de jaulas flotantes está adaptado a las características de los ambientes lagunares de la provincia de Buenos Aires. El ciclo es anual e inicia en la primavera.
 
 ```{mermaid}
 flowchart LR
