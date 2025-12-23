@@ -1,12 +1,12 @@
 
-![](acuicultura.jpg){fig-align="center" width=200%}
+![](acuicultura1.jpg){fig-align="center"}
 
 
 Una **Red de Colaboración para la Acuicultura Sostenible** no es solo la suma de actores, sino un sistema dinámico e integrado de gobernanza participativa que sitúa al diálogo en el centro de la gestión.
 
-Desde una perspectiva **biológica** y **ecosistémica**, esta red reconoce que la acuicultura no es una actividad aislada, sino que está intrínsecamente acoplada al entorno natural. Por lo tanto, integra explícitamente la base biológica del ecosistema no meramente como recursos a explotar, sino como elementos vitales que deben ser gestionados bajo principios de precaución y respeto a la capacidad de carga del ambiente.
+Desde una perspectiva **biológica** y **ecosistémica**, esta red reconoce que la acuicultura no es una actividad aislada, sino que está intrínsecamente acoplada al entorno natural. Por lo tanto, integra explícitamente la base biológica del **ecosistema** no meramente como recursos a explotar, sino como elementos vitales que deben ser gestionados bajo principios de precaución y respeto a la **capacidad de carga del ambiente**.
 
-Para lograr la sostenibilidad, la red se apoya en la investigación científica y la innovación tecnológica como pilares fundamentales. Utiliza herramientas avanzadas de monitoreo y análisis de datos para transformar la información biológica y económica en decisiones estratégicas.
+Para lograr la **sostenibilidad**, la red se apoya en la **investigación científica** y la innovación tecnológica como pilares fundamentales. Utiliza herramientas avanzadas de monitoreo y **análisis de datos** para transformar la información biológica y económica en decisiones estratégicas.
 
 El objetivo final es forjar alianzas sólidas entre el sector productivo, la academia, las comunidades locales y las entidades reguladoras, asegurando que la viabilidad económica vaya de la mano con la equidad social y la resiliencia ecológica a largo plazo.
 
@@ -16,10 +16,139 @@ Es la práctica orientada a garantizar la salud y productividad a largo plazo de
 
 Este enfoque integra, a su vez, una profunda responsabilidad social, promueva la equidad y satisface las necesidades de las generaciones presentes y futuras bajo marcos de gobernanza transparentes.
 
+### ¿Cuales son los componentes para lograr una acuicultura sostenible?
 
-### Caso de estudio: Implementación de la acuicultura ecológica del pejerrey (AEP)
 
-![](pejerreyA.jpeg){fig-align="center" width=40%}
+:::: {layout="[ 20, 45 ]"}
+
+::: {#first-column}
+
+![](personas.png){width=3.5in fig-align="left"}
+
+:::
+
+::: {#second-column}
+```r
+COMUNIDAD
+
+```
+Actúa como nucleo central de la red, simbolizando a las personas y su colaboración como el principal motor para una acuicultura sustentable y responsable.
+
+:::
+
+::::
+
+-------
+
+:::: {layout="[ 45, 20 ]"}
+
+::: {#first-column}
+```r
+GOBERNANZA
+
+```
+Simboliza la estructura de colaboración, los acuerdos y las relaciones institucionales entre los actores para asegurar una gestión eficaz y conjunta
+:::
+
+::: {#second-column}
+
+![](gobernanza.png){width=3.5in fig-align="left"}
+:::
+
+::::
+
+-------
+
+
+:::: {layout="[ 20, 45 ]"}
+
+::: {#first-column}
+
+![](ecosistema.png){width=3.5in fig-align="left"}
+
+:::
+
+::: {#second-column}
+```r
+ECOSISTEMA
+```
+
+Representa la base biológica del sistema. El entorno natural que provee los servicios ecosistémicos vitales, destacando la relación directa y dependiente con la comunidad. 
+
+:::
+
+::::
+
+-------------------------------------
+
+
+:::: {layout="[ 45, 20 ]"}
+
+::: {#first-column}
+```r
+CIENCIA
+
+```
+Aporta el conocimiento técnico y la investigación científica que permite comprender a fondo el ecosistema y poder desarrollar prácticas innovadoreas.  
+
+:::
+
+::: {#second-column}
+
+![](microscopio.png){width=3.5in fig-align="left"}
+
+:::
+
+::::
+
+--------------------------------------------
+
+
+:::: {layout="[ 20, 45 ]"}
+
+::: {#first-column}
+
+![](datos.png){width=3.5in fig-align="left"}
+
+:::
+
+::: {#second-column}
+```r
+DATOS
+
+```
+Permite el monitoreo, evaluación y el análisis de la información. Facilitando la toma de decisiones basadas en evidencia para optimizar la producción y minimizar los impactos ambientales.
+
+
+:::
+
+::::
+
+--------------------------------
+
+
+:::: {layout="[ 45, 20 ]"}
+
+::: {#first-column}
+```r
+CONSERVACIÓN
+
+```
+Refleja el objetivo superior y el compromiso de todas las partes con el cuidado del ambiente a traves del desarrollo de una acuicultura responsable.
+:::
+
+::: {#second-column}
+
+![](conservacion.png){width=3.5in fig-align="left"}
+:::
+
+::::
+
+
+
+#### **Caso de estudio**: Implementación de la acuicultura ecológica del pejerrey (IAEP)
+
+![](pejerreyA.jpeg){fig-align="center" width=38%}
 
 El pejerrey (_Odontesthes bonariensis_) es una especie originaria de la cuenca del Río de La Plata, que se encuentra ampliamente distribuida en lagos, lagunas y embalses sudamericanos de la zona templada. Particularmente en el ambiente lagunar pampeano, donde registra mayor abundancia.
 
@@ -28,7 +157,7 @@ Este proyecto nace de la necesidad de reforzar las poblaciones silvestres de pej
 
 
 ::: {.callout-tip}
-## AEP
+## IAEP
 
 Es un trabajo de tesis doctoral que se basa en la implementación de la Acuicultura Ecológica del Pejerrey  en jaulas flotantes [enlace](https://www.conicet.gov.ar/especialistas-del-conicet-trabajan-para-repoblar-de-pejerreyes-la-cuenca-del-plata/). Método de cultivo que tiene un alto enfoque ecosistémico.
 :::
