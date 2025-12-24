@@ -58,5 +58,11 @@
   },
   "acuicultura/index.qmd": {
     "index.html": "433a8fa3"
+  },
+  "contacto/index.qmd": {
+    "index.html": "b8a6426a"
+  },
+  "contacto/contacto.qmd": {
+    "contacto.html": "db0ca625"
   }
 }

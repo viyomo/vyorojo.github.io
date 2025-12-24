@@ -17,6 +17,8 @@ website:
         text: Blog
       - href: cv.pdf     
         text: CV
+      - href: contacto  
+        text: Contacto
       
 
   page-footer:
