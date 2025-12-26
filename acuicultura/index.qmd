@@ -38,6 +38,8 @@ Actúa como nucleo central de la red, simbolizando a las personas y su colaborac
 
 ::::
 
+
+
 -------
 
 :::: {layout="[ 45, 20 ]"}
@@ -144,9 +146,22 @@ Refleja el objetivo superior y el compromiso de todas las partes con el cuidado 
 
 ::::
 
+:::{.callout-note}
+## ¡Sumate a la Red de Colaboración!
+
+¿Te interesa la acuicultura sostenible? Formá parte de nuestra red completando el siguiente formulario:
+
+[**Sumate a la red**](https://docs.google.com/forms/d/e/1FAIpQLSeDS8G5LMDLDn0qzVM604ZvQ57m2LKN0mecBT_6UIXojL3ELw/viewform?usp=dialog){target="_blank" rel="noopener"}
+:::
 
 
-#### **Caso de estudio**: Implementación de la acuicultura ecológica del pejerrey (IAEP)
+--------------------------
+
+::: {.panel}
+# Caso de estudio: Implementación de la acuicultura ecológica del pejerrey (IAEP)
+:::
+
+
 
 ![](pejerreyA.jpeg){fig-align="center" width=38%}
 
