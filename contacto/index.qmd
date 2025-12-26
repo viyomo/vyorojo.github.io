@@ -1,13 +1,8 @@
 
 
-### Consultas y asesorias:
-
-**vyorojo@gmail.com**
-
-----------------------
-
-
-### Para la red de colaboración de acuicultura sustentable:
+### Consultas
 
 ```{=html}
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeDS8G5LMDLDn0qzVM604ZvQ57m2LKN0mecBT_6UIXojL3ELw/viewform?usp=dialog" width="600" height="800" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
+<!-- Elfsight Contact Form | Untitled Contact Form -->
+<script src="https://elfsightcdn.com/platform.js" async></script>
+<div class="elfsight-app-20c792f0-29ac-4c79-91ce-8d661da0ad6c" data-elfsight-app-lazy></div>></iframe>
