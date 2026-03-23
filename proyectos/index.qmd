@@ -7,6 +7,13 @@ En esta sección se encuentran algunos proyectos de investigación aplicada en l
 
 ## Colaboraciones técnicas y campañas de campo
 
+#### 📊 **Zooplankton as Indicators Group (ZIG)**
+* **Proyecto marco:** grupo de trabajo internacional asociado a GLEON (Global Lake Ecological Observatory Network) dedicado a compilar bases de datos globales de zooplancton de agua dulce. Su objetivo es utilizar estos pequeños organismos como indicadores ecológicos para entender cómo responden los ecosistemas a los cambios ambientales. 
+* **Rol:** Data Harmonization Team. **Contribución:** participación en la armonización de datos de zooplancton de agua dulce a nivel global, contribuyendo a la creación de bases de datos estandarizadas que facilitan el análisis comparativo y la investigación ecológica a gran escala.
+* **Habilidad clave:** manejo del software R y Rstudio.
+* **Link de referencia:** [ZIG Data Harmonization Team](https://sfigary.github.io/website/ZIG.html)
+
+---
 
 #### 🚢 **Caracterización biológica y ecológica de una laguna pampeana**
 
@@ -17,7 +24,7 @@ En esta sección se encuentran algunos proyectos de investigación aplicada en l
 ---
 
 
-#### 🚢 **Proyecto producción de juveniles en la laguna Chis chis**
+#### 🐟 **Proyecto producción de juveniles en la laguna Chis chis**
 
 * **Proyecto marco:** producción masiva de juveniles de pejerrey (Odontesthes bonariensis) utilizando jaulas flotantes en lagunas del partido de Lezama, Provincia de Buenos Aires.
 * **Rol:** miembro del equipo de campo. **Contribución:** miembro responsable del proceso de implementación del cultivo. 
@@ -27,7 +34,7 @@ En esta sección se encuentran algunos proyectos de investigación aplicada en l
 ---
 
 
-#### 🚢 **Estudio limnológico del Embalse del Rio III**
+#### 🔬 **Estudio limnológico del Embalse del Rio III**
 
 * **Proyecto marco:**  Estudio limnológico del Embalse del Rio III, Córdoba (Argentina). Contrato nucleoeléctrica Argentina SA.-ILPLA, FCNyM, UNLP – CONICET Ref.: N.A.S.A. OC Nº 4500119836
 * **Rol:** miembro del equipo trabajo. **Contribución:** determinación taxonómica, cuantificación, análisis y presentación de informe. 
@@ -69,7 +76,7 @@ En esta sección se encuentran algunos proyectos de investigación aplicada en l
 
 
 
-#### 🔬 **Taller de determinación de edades en peces (otolitometría aplicada)**
+#### 🐟 **Taller de determinación de edades en peces (otolitometría aplicada)**
 
 * **Proyecto marco:** evaluación de los recursos ícticos del bajo río Uruguay y del Río de la Plata Interior (CARU-CARP).
 * **Rol:** participación activa en el IV Taller de preparación y lectura de otolitos. **Contribución:** responsable de la determinación de edades en ejemplares de peces, actividad que está directamente vinculada a la evaluación demográfica y pesquera del recurso ictícola regional.
