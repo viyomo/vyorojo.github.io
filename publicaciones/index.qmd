@@ -5,10 +5,13 @@ author: ""
 format: html
 ---
 
-Esta sección encontraras un registro de producción académica y trayectoria profesional documentada en fuentes externas. Clic en el link.
+Esta sección encontraras un registro de producción académica y trayectoria profesional documentada en fuentes externas. Clic en el link. 
 
 ## 1. Artículos ##
 
+#### 2025
+
+- Solis Marina, **Vivian Yorojo Moreno**, Luisa Fajardo Gonzalez, Silvia Fanelli, Leticia Peluso and Tomás Mac Loughlin. 2025. Ecological Impact of Pesticides on Aquatic Ecosystems and Their Effect on Invertebrate Communities. In Abstract book SETAC Latin America 16th Biennial Meeting. Embracing Holistic-Dynamic and Science-Driven Environmental Regulations. 
 
 #### 2024
 
